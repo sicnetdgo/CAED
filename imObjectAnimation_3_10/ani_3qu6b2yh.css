@@ -1,0 +1,7 @@
+#CUENCA_NAZAS_1Stage {
+                  width:1024px;
+			      height:768px;
+			      transform-origin: top left;
+			      transition: all 100ms ease-in-out !important;
+			      position: absolute;  
+			    }
