@@ -4,7 +4,7 @@
 	<file id="132917944815692493-000000193" version="1" path="style\reset.css" />
 	<file id="132917944815692493-000000194" version="1" path="style\print.css" />
 	<file id="132917944815692493-000000195" version="2" path="style/style.css" />
-	<file id="132917944815692493-000000196" version="111" path="res/x5settings.js" />
+	<file id="132917944815692493-000000196" version="114" path="res/x5settings.js" />
 	<file id="132917944815692493-000000197" version="1" path="res\swfobject.js" />
 	<file id="132917944815692493-000000198" version="1" path="res\jquery.js" />
 	<file id="132917944815692493-000000199" version="1" path="res\x5engine.js" />
@@ -12,7 +12,7 @@
 	<file id="132917944815692493-00000019B" version="1" path="res\x5engine.deferrable.js" />
 	<file id="132917944815692493-00000019C" version="1" path="res\modernizr-custom.js" />
 	<file id="132917944815692493-00000019D" version="1" path="res\x5cartengine.js" />
-	<file id="132917944815692493-00000019E" version="57" path="res/x5settings.php" />
+	<file id="132917944815692493-00000019E" version="132" path="res/x5settings.php" />
 	<file id="132917944815692493-00000019F" version="1" path="res\imemail.inc.php" />
 	<file id="132917944815692493-0000001A0" version="1" path="res\class.phpmailer.php" />
 	<file id="132917944815692493-0000001A1" version="1" path="res\class.smtp.php" />
@@ -21,7 +21,7 @@
 	<file id="132917944815692493-0000001A4" version="1" path="res\masonry.pkgd.min.js" />
 	<file id="132917944815692493-0000001A5" version="1" path="res\swiper-bundle.min.js" />
 	<file id="132917944815692493-0000001A6" version="1" path="res\swiper-bundle.min.css" />
-	<file id="132917944815692493-0000001A7" version="307" path="res/search.inc.php" />
+	<file id="132917944815692493-0000001A7" version="534" path="res/search.inc.php" />
 	<file id="132917944815692493-0000001A8" version="1" path="res/emailtemplates\address.csv.template.php" />
 	<file id="132917944815692493-0000001A9" version="1" path="res/emailtemplates\digitalshipping.html.template.php" />
 	<file id="132917944815692493-0000001AA" version="1" path="res/emailtemplates\digitalshipping.text.template.php" />
@@ -162,7 +162,7 @@
 	<file id="132917944816192723-000000233" version="3" path="admin/images/logo_va5mq1sh.png" />
 	<file id="132917944816653056-000000234" version="1" path="res\l10n.php" />
 	<file id="132917944816893139-000000235" version="1" path="res\l10n.js" />
-	<file id="132918308296456693-0000003C4" version="390" path="images\vineta_1.png" />
+	<file id="132918308296456693-0000003C4" version="772" path="images\vineta_1.png" />
 	<file id="132919473710696470-00000042E" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\custom_31ztf124.css" />
 	<file id="132919473710706473-00000042F" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\main_tweciyy7.js" />
 	<file id="132919473710716462-000000430" version="96" path="pluginAppObj/imStickyBar_pluginAppObj_02\modernizr-custom-svg.js" />
@@ -194,19 +194,19 @@
 	<file id="132921378176471200-0000006D3" version="21" path="imObjectAnimation_3_10\info-rio santiago_fl6oarue.png" />
 	<file id="132921378176471200-0000006D4" version="21" path="imObjectAnimation_3_10\info-rio sextin1.png" />
 	<file id="132921378176481181-0000006D5" version="21" path="imObjectAnimation_3_10\info-rio tepehuanes_bhoez6qx.png" />
-	<file id="132921378176491184-0000006D6" version="112" path="wa-animations\jquery-3.3.1.min.js" />
+	<file id="132921378176491184-0000006D6" version="114" path="wa-animations\jquery-3.3.1.min.js" />
 	<file id="132921378176491184-0000006D7" version="21" path="imObjectAnimation_3_10\JQ_Textualizer_al3mkdfr.min.js" />
 	<file id="132921378176501200-0000006D8" version="6" path="imObjectAnimation_3_10\lineas por gravedad.png" />
 	<file id="132921378176501200-0000006D9" version="4" path="imObjectAnimation_3_10\mapa_durango_intro.mp4" />
 	<file id="132921378176511191-0000006DA" version="4" path="imObjectAnimation_3_10\mapa_durango_intro.png" />
-	<file id="132921378176531180-0000006DB" version="112" path="wa-animations\modernizr.custom.43133.min.js" />
+	<file id="132921378176531180-0000006DB" version="114" path="wa-animations\modernizr.custom.43133.min.js" />
 	<file id="132921378176531180-0000006DC" version="6" path="imObjectAnimation_3_10\p potabilizadora.png" />
 	<file id="132921378176541164-0000006DD" version="6" path="imObjectAnimation_3_10\planta de bombeo.png" />
 	<file id="132921378176541164-0000006DE" version="6" path="imObjectAnimation_3_10\planta derivadora.png" />
 	<file id="132921378176541164-0000006DF" version="6" path="imObjectAnimation_3_10\planta potebilizadora.png" />
 	<file id="132921378176551161-0000006E0" version="6" path="imObjectAnimation_3_10\por que agua saludable.png" />
 	<file id="132921378176551161-0000006E1" version="21" path="imObjectAnimation_3_10\puntero_3d_rojo_zks4flzg.png" />
-	<file id="132921378176561167-0000006E2" version="112" path="wa-animations\spin.min.js" />
+	<file id="132921378176561167-0000006E2" version="114" path="wa-animations\spin.min.js" />
 	<file id="132921378176561167-0000006E3" version="6" path="imObjectAnimation_3_10\tanque coahuila.png" />
 	<file id="132921378176571157-0000006E4" version="6" path="imObjectAnimation_3_10\tanque durango.png" />
 	<file id="132921378176571157-0000006E5" version="21" path="imObjectAnimation_3_10\underscore_6kcom58n.min.js" />
@@ -258,8 +258,8 @@
 	<file id="132921726918593690-0000007AB" version="1" path="imObjectAnimation_3_10\WA_SCRIPT_fzmt7gyg.js" />
 	<file id="132921733910078051-0000007AE" version="4" path="imObjectAnimation_3_10\info ca¤on fdez_q44iecrh.png" />
 	<file id="132921733910537899-0000007AF" version="4" path="imObjectAnimation_3_10\WA_SCRIPT_5eoqyqzq.js" />
-	<file id="132921777422479428-0000007CB" version="257" path="sitemap.xml" />
-	<file id="132921927735570368-00000089F" version="354" path="style/fonts/Avenir-Regular.ttf" />
+	<file id="132921777422479428-0000007CB" version="484" path="sitemap.xml" />
+	<file id="132921927735570368-00000089F" version="878" path="style/fonts/Avenir-Regular.ttf" />
 	<file id="132921964136624345-0000008E2" version="1" path="gallery\IMGL5256.jpg" />
 	<file id="132921964136644350-0000008E3" version="1" path="gallery\IMGL5093.jpg" />
 	<file id="132921964136654368-0000008E4" version="1" path="gallery\IMGL5097.jpg" />
@@ -300,32 +300,32 @@
 	<file id="132922338622198002-000000928" version="7" path="imObjectAnimation_3_10\WA_vbdhtczk.min.css" />
 	<file id="132922338622198002-000000929" version="7" path="imObjectAnimation_3_10\WA_9zhu4xwl.min.js" />
 	<file id="132922338625763426-00000092A" version="3" path="imObjectAnimation_3_10\WA_SCRIPT_rmd8hy89.js" />
-	<file id="132923460660409577-0000009CE" version="3" path="imObjectAnimation_9_01\LA_CUENCA_NAZAS.html" />
+	<file id="132923460660409577-0000009CE" version="5" path="imObjectAnimation_9_01\LA_CUENCA_NAZAS.html" />
 	<file id="132923460660409577-0000009CF" version="1" path="imObjectAnimation_9_01\ani_km4h5n31.css" />
-	<file id="132923460660409577-0000009D0" version="3" path="imObjectAnimation_9_01\bandera rio pe¤on.png" />
-	<file id="132923460660409577-0000009D1" version="3" path="imObjectAnimation_9_01\bandera_ rio ramos.png" />
-	<file id="132923460660409577-0000009D2" version="3" path="imObjectAnimation_9_01\bandera_a naitcha.png" />
-	<file id="132923460660409577-0000009D3" version="3" path="imObjectAnimation_9_01\bandera_ca¤on fernandez111.png" />
-	<file id="132923460660409577-0000009D4" version="3" path="imObjectAnimation_9_01\bandera_presa fco zarco.png" />
-	<file id="132923460660409577-0000009D5" version="3" path="imObjectAnimation_9_01\bandera_presa lazaro cardenas.png" />
-	<file id="132923460660409577-0000009D6" version="3" path="imObjectAnimation_9_01\bandera_rio nazas.png" />
-	<file id="132923460660409577-0000009D7" version="3" path="imObjectAnimation_9_01\bandera_rio santiago.png" />
-	<file id="132923460660409577-0000009D8" version="3" path="imObjectAnimation_9_01\bandera_rio sextin.png" />
-	<file id="132923460660409577-0000009D9" version="3" path="imObjectAnimation_9_01\bandera_rio tepehuanes.png" />
-	<file id="132923460660409577-0000009DA" version="3" path="imObjectAnimation_9_01\fondo_animacion_cuenca_nazas.png" />
-	<file id="132923460660409577-0000009DB" version="3" path="imObjectAnimation_9_01\info a naitcha.png" />
-	<file id="132923460660409577-0000009DC" version="3" path="imObjectAnimation_9_01\info c fdez 1.png" />
-	<file id="132923460660409577-0000009DD" version="3" path="imObjectAnimation_9_01\info rio pe¤on1.png" />
-	<file id="132923460660409577-0000009DE" version="3" path="imObjectAnimation_9_01\info-lazaro cardenas.png" />
-	<file id="132923460660409577-0000009DF" version="3" path="imObjectAnimation_9_01\info-presa fco zarco.png" />
-	<file id="132923460660409577-0000009E0" version="3" path="imObjectAnimation_9_01\info-rio nazas.png" />
-	<file id="132923460660409577-0000009E1" version="3" path="imObjectAnimation_9_01\info-rio ramos.png" />
-	<file id="132923460660409577-0000009E2" version="3" path="imObjectAnimation_9_01\info-rio santiago.png" />
-	<file id="132923460660409577-0000009E3" version="3" path="imObjectAnimation_9_01\info-rio sextin.png" />
-	<file id="132923460660409577-0000009E4" version="3" path="imObjectAnimation_9_01\info-rio tepehuanes.png" />
-	<file id="132923460660565744-0000009E5" version="3" path="imObjectAnimation_9_01\jaa_saber_mas.png" />
+	<file id="132923460660409577-0000009D0" version="5" path="imObjectAnimation_9_01\bandera rio pe¤on.png" />
+	<file id="132923460660409577-0000009D1" version="5" path="imObjectAnimation_9_01\bandera_ rio ramos.png" />
+	<file id="132923460660409577-0000009D2" version="5" path="imObjectAnimation_9_01\bandera_a naitcha.png" />
+	<file id="132923460660409577-0000009D3" version="5" path="imObjectAnimation_9_01\bandera_ca¤on fernandez111.png" />
+	<file id="132923460660409577-0000009D4" version="5" path="imObjectAnimation_9_01\bandera_presa fco zarco.png" />
+	<file id="132923460660409577-0000009D5" version="5" path="imObjectAnimation_9_01\bandera_presa lazaro cardenas.png" />
+	<file id="132923460660409577-0000009D6" version="5" path="imObjectAnimation_9_01\bandera_rio nazas.png" />
+	<file id="132923460660409577-0000009D7" version="5" path="imObjectAnimation_9_01\bandera_rio santiago.png" />
+	<file id="132923460660409577-0000009D8" version="5" path="imObjectAnimation_9_01\bandera_rio sextin.png" />
+	<file id="132923460660409577-0000009D9" version="5" path="imObjectAnimation_9_01\bandera_rio tepehuanes.png" />
+	<file id="132923460660409577-0000009DA" version="5" path="imObjectAnimation_9_01\fondo_animacion_cuenca_nazas.png" />
+	<file id="132923460660409577-0000009DB" version="5" path="imObjectAnimation_9_01\info a naitcha.png" />
+	<file id="132923460660409577-0000009DC" version="5" path="imObjectAnimation_9_01\info c fdez 1.png" />
+	<file id="132923460660409577-0000009DD" version="5" path="imObjectAnimation_9_01\info rio pe¤on1.png" />
+	<file id="132923460660409577-0000009DE" version="5" path="imObjectAnimation_9_01\info-lazaro cardenas.png" />
+	<file id="132923460660409577-0000009DF" version="5" path="imObjectAnimation_9_01\info-presa fco zarco.png" />
+	<file id="132923460660409577-0000009E0" version="5" path="imObjectAnimation_9_01\info-rio nazas.png" />
+	<file id="132923460660409577-0000009E1" version="5" path="imObjectAnimation_9_01\info-rio ramos.png" />
+	<file id="132923460660409577-0000009E2" version="5" path="imObjectAnimation_9_01\info-rio santiago.png" />
+	<file id="132923460660409577-0000009E3" version="5" path="imObjectAnimation_9_01\info-rio sextin.png" />
+	<file id="132923460660409577-0000009E4" version="5" path="imObjectAnimation_9_01\info-rio tepehuanes.png" />
+	<file id="132923460660565744-0000009E5" version="5" path="imObjectAnimation_9_01\jaa_saber_mas.png" />
 	<file id="132923460660565744-0000009E6" version="1" path="imObjectAnimation_9_01\JQ_Textualizer_e72iites.min.js" />
-	<file id="132923460660565744-0000009E7" version="3" path="imObjectAnimation_9_01\puntero_3d_rojo.png" />
+	<file id="132923460660565744-0000009E7" version="5" path="imObjectAnimation_9_01\puntero_3d_rojo.png" />
 	<file id="132923460660565744-0000009E8" version="1" path="imObjectAnimation_9_01\underscore_6m5yv4sd.min.js" />
 	<file id="132923460660565744-0000009E9" version="1" path="imObjectAnimation_9_01\WA_gk95qbxa.min.css" />
 	<file id="132923460660565744-0000009EA" version="1" path="imObjectAnimation_9_01\WA_fahxagmt.min.js" />
@@ -358,31 +358,16 @@
 	<file id="132923493502722221-000000A22" version="5" path="imObjectAnimation_10_01\planta potebilizadora.png" />
 	<file id="132923493502732197-000000A23" version="5" path="imObjectAnimation_10_01\por que agua saludable.png" />
 	<file id="132923493503082049-000000A24" version="3" path="imObjectAnimation_10_01\WA_SCRIPT_t8mc20q1.js" />
-	<file id="132923507732545921-000000A31" version="8" path="images\fondo_animacion_cuenca_nazas.png" />
-	<file id="132923507829626083-000000A32" version="5" path="images\fondo_animacion_agua_saludable.png" />
-	<file id="132923508935420740-000000A4C" version="1" path="images\IMG_1567.jpg" />
-	<file id="132923508935420740-000000A4D" version="1" path="images\IMG_1243.jpg" />
-	<file id="132923508935420740-000000A4E" version="1" path="images\IMG_1649.jpg" />
-	<file id="132923508935450728-000000A4F" version="1" path="images\IMG_1404.jpg" />
-	<file id="132923508935450728-000000A50" version="1" path="images\IMG_1454.jpg" />
 	<file id="132923752077776048-000000A5D" version="1" path="imObjectAnimation_10_01\WA_SCRIPT.js" />
 	<file id="132924316435083453-000000BD3" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\custom_edb2ahu5.css" />
 	<file id="132924316435093456-000000BD4" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\main_fewj4h2z.js" />
-	<file id="132924728506534011-000000C1F" version="1" path="images\15-julio-2010-234.jpg" />
-	<file id="132924728506534011-000000C20" version="1" path="images\IMG_1450_6aaioj61.jpg" />
-	<file id="132924728506544008-000000C21" version="17" path="images\IMG_1396.jpg" />
-	<file id="132924728506544008-000000C22" version="1" path="images\IMG_1545.jpg" />
-	<file id="132924728506544008-000000C23" version="5" path="images\IMGL5192.jpg" />
-	<file id="132924728506544008-000000C24" version="34" path="images\DSC00005.jpg" />
-	<file id="132924728506544008-000000C25" version="7" path="images\IMGL5164.jpg" />
 	<file id="132924842457390260-000000D50" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\custom_bmjjl0lr.css" />
 	<file id="132924842457400245-000000D51" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\main_h48mo7n8.js" />
 	<file id="132925260463275524-000000E53" version="1" path="images\banner_presa_el_palmito.png" />
-	<file id="132925280799900957-000000EC0" version="1" path="images\IMG_6509_cpccm6x2.jpg" />
-	<file id="132925280799910953-000000EC1" version="1" path="images\banner_distrito_017.png" />
-	<file id="132925291303185339-000000EC6" version="5" path="style\bullets.png" />
-	<file id="132925327274034735-00000139F" version="1" path="images\IMG_1552.jpg" />
-	<file id="132925327274044733-0000013A0" version="1" path="images\banner_presa_fco_zarco.png" />
+	<file id="132925280799900957-000000EC0" version="3" path="images\IMG_6509_cpccm6x2.jpg" />
+	<file id="132925280799910953-000000EC1" version="3" path="images\banner_distrito_017.png" />
+	<file id="132925327274034735-00000139F" version="2" path="images\IMG_1552.jpg" />
+	<file id="132925327274044733-0000013A0" version="2" path="images\banner_presa_fco_zarco.png" />
 	<file id="132925330087280017-0000013E9" version="1" path="gallery\15-julio-2010-049_thumb.png" />
 	<file id="132925330087290009-0000013EA" version="1" path="gallery\IMG_1448_thumb.png" />
 	<file id="132925330087290009-0000013EB" version="1" path="gallery\IMG_1450_thumb.png" />
@@ -413,8 +398,8 @@
 	<file id="132925330087330008-000001404" version="1" path="gallery\IMG_1699.jpg" />
 	<file id="132925330087340005-000001405" version="1" path="gallery\IMG_1708.jpg" />
 	<file id="132925330087340005-000001406" version="1" path="gallery\IMG_3547.jpg" />
-	<file id="132925332312220577-000001407" version="1" path="images\15-julio-2010-049.jpg" />
-	<file id="132925332312220577-000001408" version="1" path="images\banner_rio_nazas.png" />
+	<file id="132925332312220577-000001407" version="2" path="images\15-julio-2010-049.jpg" />
+	<file id="132925332312220577-000001408" version="2" path="images\banner_rio_nazas.png" />
 	<file id="132925336597637126-00000153A" version="1" path="gallery\DSC00005_thumb.png" />
 	<file id="132925336597647148-00000153B" version="1" path="gallery\DSC09961_thumb.png" />
 	<file id="132925336597647148-00000153C" version="1" path="gallery\IMG_0563_thumb_lk452ynt.png" />
@@ -537,8 +522,8 @@
 	<file id="132925336598246712-0000015B1" version="1" path="gallery\IMGL5446_ylcekrot.jpg" />
 	<file id="132925336598246712-0000015B2" version="1" path="gallery\IMGL5463_irka7aoa.jpg" />
 	<file id="132925336598402963-0000015B3" version="1" path="gallery\IMGL5471.jpg" />
-	<file id="132925337887063101-0000015B4" version="1" path="images\IMG_1583_4s2hy1ex.jpg" />
-	<file id="132925337887063101-0000015B5" version="1" path="images\banner_canon_fdez.png" />
+	<file id="132925337887063101-0000015B4" version="3" path="images\IMG_1583_4s2hy1ex.jpg" />
+	<file id="132925337887063101-0000015B5" version="3" path="images\banner_canon_fdez.png" />
 	<file id="132927424918199459-0000018A6" version="1" path="appsresources\jssor.slider.min.js" />
 	<file id="132927424918199459-0000018A7" version="1" path="pluginAppObj/pluginAppObj_13_01\jssor.slider.css" />
 	<file id="132927424918199459-0000018A8" version="1" path="appsresources\examples\1.jpg" />
@@ -583,10 +568,8 @@
 	<file id="132927424918629312-0000018CF" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1422.jpg" />
 	<file id="132927424918639304-0000018D0" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1432.jpg" />
 	<file id="132927424918659297-0000018D1" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_6515.jpg" />
-	<file id="132927453288873639-0000018D4" version="1" path="images\IMG_1390_oocfkby0.jpg" />
-	<file id="132927453288873639-0000018D5" version="1" path="images\banner_presa_el_palmito_i2zbbkxp.png" />
-	<file id="132927466503978795-000001A18" version="1" path="style\scrollbutton.png" />
-	<file id="132927467986728400-000001A19" version="1" path="images\IMG_0632.jpg" />
+	<file id="132927453288873639-0000018D4" version="2" path="images\IMG_1390_oocfkby0.jpg" />
+	<file id="132927453288873639-0000018D5" version="2" path="images\banner_presa_el_palmito_i2zbbkxp.png" />
 	<file id="132928185881341267-000001AA7" version="1" path="style/content_slider/bullets.png" />
 	<file id="132928185881351264-000001AA8" version="1" path="images\IMG_1550.jpg" />
 	<file id="132928185881371240-000001AA9" version="1" path="images\IMG_1550_pdol9mid.jpg" />
@@ -605,12 +588,12 @@
 	<file id="132928761278622889-000001AD6" version="1" path="imObjectAnimation_9_01\WA_cwao4bjt.min.css" />
 	<file id="132928761278622889-000001AD7" version="1" path="imObjectAnimation_9_01\WA_h559dyay.min.js" />
 	<file id="132928761278622889-000001AD8" version="1" path="imObjectAnimation_9_01\WA_SCRIPT_vgacv7u8.js" />
-	<file id="132928761818343980-000001ADF" version="1" path="imObjectAnimation_9_01\ani.css" />
-	<file id="132928761818343980-000001AE0" version="1" path="imObjectAnimation_9_01\JQ_Textualizer.min.js" />
-	<file id="132928761818343980-000001AE1" version="1" path="imObjectAnimation_9_01\underscore.min.js" />
-	<file id="132928761818343980-000001AE2" version="1" path="imObjectAnimation_9_01\WA.min.css" />
-	<file id="132928761818343980-000001AE3" version="1" path="imObjectAnimation_9_01\WA.min.js" />
-	<file id="132928761818812754-000001AE4" version="1" path="imObjectAnimation_9_01\WA_SCRIPT.js" />
+	<file id="132928761818343980-000001ADF" version="3" path="imObjectAnimation_9_01\ani.css" />
+	<file id="132928761818343980-000001AE0" version="3" path="imObjectAnimation_9_01\JQ_Textualizer.min.js" />
+	<file id="132928761818343980-000001AE1" version="3" path="imObjectAnimation_9_01\underscore.min.js" />
+	<file id="132928761818343980-000001AE2" version="3" path="imObjectAnimation_9_01\WA.min.css" />
+	<file id="132928761818343980-000001AE3" version="3" path="imObjectAnimation_9_01\WA.min.js" />
+	<file id="132928761818812754-000001AE4" version="3" path="imObjectAnimation_9_01\WA_SCRIPT.js" />
 	<file id="132928762801608155-000001B03" version="20" path="imObjectAnimation_3_13\CUENCA_NAZAS-1.html" />
 	<file id="132928762801608155-000001B04" version="1" path="imObjectAnimation_3_13\ani_dgtpqca0.css" />
 	<file id="132928762801608155-000001B05" version="1" path="imObjectAnimation_3_13\imgl4984.jpg" />
@@ -626,15 +609,11 @@
 	<file id="132928851329129932-000001B1F" version="16" path="imObjectAnimation_3_13\img_1400_atppjq2f.jpg" />
 	<file id="132928851329129932-000001B20" version="7" path="imObjectAnimation_3_13\img_1550_sj0895zm.jpg" />
 	<file id="132928851329195065-000001B21" version="1" path="imObjectAnimation_3_13\WA_SCRIPT_l4xm3ltx.js" />
-	<file id="132928852229592265-000001B22" version="1" path="style\scrollbutton_494hsl44.png" />
 	<file id="132928853992866029-000001B24" version="1" path="imObjectAnimation_3_13\WA_SCRIPT_27p64dpj.js" />
 	<file id="132928905828476919-000001B62" version="1" path="style\fondo_pag_1.png" />
 	<file id="132928905828476919-000001B63" version="1" path="style\fondo_pie_pag.png" />
 	<file id="132928905828476919-000001B64" version="1" path="style\page-to-top.png" />
 	<file id="132928905828476919-000001B65" version="1" path="images\pleca_oficial_pie_pagina.png" />
-	<file id="132928906559284034-000001B69" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\custom.css" />
-	<file id="132928906559294011-000001B6A" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\main.js" />
-	<file id="132928906883098383-000001B6B" version="1" path="style\template.css" />
 	<file id="132928921989339667-000001B8B" version="3" path="imObjectAnimation_3_13\ani_fzm2vpxc.css" />
 	<file id="132928921989339667-000001B8C" version="3" path="imObjectAnimation_3_13\WA_SCRIPT_ekdvrk99.js" />
 	<file id="132929042671586935-000001BCC" version="8" path="imObjectAnimation_3_13\ani_fvsxwd2h.css" />
@@ -651,117 +630,161 @@
 	<file id="132929052818765130-000001C23" version="3" path="imObjectAnimation_3_10\WA.min.css" />
 	<file id="132929052818765130-000001C24" version="3" path="imObjectAnimation_3_10\WA.min.js" />
 	<file id="132929052818805125-000001C25" version="1" path="imObjectAnimation_3_10\WA_SCRIPT_e27sqhvb.js" />
-	<file id="132929842897807181-000001CBB" version="1" path="images\IMG_1137.jpg" />
-	<file id="132929842897817182-000001CBC" version="1" path="images\CA-ON-FERNANDEZ-BLANCO.png" />
-	<file id="132929847861711721-000001CBD" version="1" path="images\IMG_1450.jpg" />
-	<file id="132929847861721770-000001CBE" version="1" path="images\EL-RIO-NAZAS_BLANCO.png" />
-	<file id="132929854397534058-000001CC2" version="1" path="images\IMG_1399.jpg" />
-	<file id="132929854397534058-000001CC3" version="1" path="images\PRESA-EL-PALMITO_BLANCO.png" />
-	<file id="132929899081849055-000001CCA" version="1" path="images\IMG_1583.jpg" />
-	<file id="132929899081911896-000001CCB" version="1" path="images\15-julio-2010-075.jpg" />
-	<file id="132929899081911896-000001CCC" version="1" path="images\IMG_0589.jpg" />
-	<file id="132929899081911896-000001CCD" version="1" path="images\IMG_5138.jpg" />
-	<file id="132930001884130096-000001CE2" version="1" path="images\logos_gob_dgo_caed.png" />
-	<file id="132930004916962776-000001CFF" version="1" path="images\ico_mapa360.png" />
-	<file id="132930004916992778-000001D01" version="1" path="images\linea_separador_1.png" />
-	<file id="132930004916992778-000001D02" version="1" path="images\IMG_0615.jpg" />
-	<file id="132930006095044733-000001D0C" version="1" path="images\banner_comic_CAED.png" />
-	<file id="132930006190562186-000001D0D" version="1" path="images\banner_acercate_eca.png" />
-	<file id="132930008826771442-000001D12" version="1" path="images\logo_cultura_agua_dgo_2.png" />
-	<file id="132930009199090037-000001D13" version="1" path="style\scrollbutton_3tcstpos.png" />
-	<file id="132930025144753003-000001D41" version="1" path="images\presa_lazaro_cardenas.png" />
-	<file id="132930025144753003-000001D42" version="1" path="images\IMG_1550_6zkw9x5x.jpg" />
-	<file id="132930025144753003-000001D43" version="1" path="images\IMG_1485.jpg" />
-	<file id="132930025144753003-000001D44" version="1" path="images\IMG_1590.jpg" />
-	<file id="132930034409878897-000001D49" version="1" path="images\mapa-dgo-coah-23-03-2022_w8pphjx0.png" />
-	<file id="132930039650894113-000001D50" version="1" path="images\logo_voces_agua.png" />
-	<file id="132930039748799774-000001D52" version="1" path="images\IMG_1137_yhk5kc20.jpg" />
-	<file id="132930076109275843-000001D54" version="1" path="images\mapa-dgo-coah-23-03-2022.png" />
-	<file id="132930096727579747-000001D61" version="1" path="style\scrollbutton_icqcrnwk.png" />
-	<file id="132930103334950965-000001D84" version="1" path="images\IMGL5128.jpg" />
-	<file id="132930103334950965-000001D85" version="1" path="images\IMG_0596.jpg" />
-	<file id="132930103334950965-000001D86" version="1" path="images\IMGL5100_npwt63jl.jpg" />
-	<file id="132930103334950965-000001D87" version="1" path="images\IMGL5097.jpg" />
-	<file id="132930103334950965-000001D88" version="1" path="images\IMG_1577.jpg" />
-	<file id="132930103334960961-000001D89" version="1" path="images\estanque.jpg" />
-	<file id="132930355604537340-000001D8A" version="1" path="captcha\imcpa_wdz.gif" />
-	<file id="132930355604557342-000001D8B" version="1" path="captcha\imcpa_rsr.gif" />
-	<file id="132930355604557342-000001D8C" version="1" path="captcha\imcpa_4lm.gif" />
-	<file id="132930355604557342-000001D8D" version="1" path="captcha\imcpa_e7p.gif" />
-	<file id="132930355604557342-000001D8E" version="1" path="captcha\imcpa_7sz.gif" />
-	<file id="132930355604557342-000001D8F" version="1" path="captcha\imcpa_hv6.gif" />
-	<file id="132930355604557342-000001D90" version="1" path="captcha\imcpa_7e6.gif" />
-	<file id="132930355604557342-000001D91" version="1" path="captcha\imcpa_fgn.gif" />
-	<file id="132930355604557342-000001D92" version="1" path="captcha\imcpa_w4z.gif" />
-	<file id="132930355604557342-000001D93" version="1" path="captcha\imcpa_vcr.gif" />
-	<file id="132930355604557342-000001D94" version="1" path="captcha\x5captcha.php" />
-	<file id="132930438055194356-000001E15" version="1" path="style\scrollbutton_xhr5pd1h.png" />
-	<file id="132930441473717889-000001E29" version="1" path="images\logo_la-cuenca_nazas.png" />
-	<file id="132930442489107944-000001E2C" version="1" path="images\banner_rio_nazas_significado.png" />
-	<file id="132930459820181767-000001E31" version="1" path="images\IMG_6620.jpg" />
-	<file id="132930459820181767-000001E32" version="1" path="images\IMG_6617.jpg" />
 	<file id="132930512600023069-000001E5C" version="1" path="gallery\IMG_1237.jpg" />
 	<file id="132930512600033065-000001E5D" version="1" path="gallery\IMG_6738.jpg" />
 	<file id="132930512600053047-000001E5E" version="1" path="gallery\IMG_5138.jpg" />
 	<file id="132930512600063046-000001E5F" version="1" path="gallery\P1000074.jpg" />
-	<file id="132930564574223773-000001ECC" version="1" path="images\logo_agua_saludable_4n4kct34.png" />
-	<file id="132930587627212558-000001F2E" version="1" path="gallery\IMG_0632_el3jsan4.jpg" />
-	<file id="132930587627222551-000001F2F" version="1" path="gallery\IMG_0822.jpg" />
-	<file id="132930587627232546-000001F30" version="1" path="gallery\IMG_6620_c68hu6rm.jpg" />
-	<file id="132930587627232546-000001F31" version="1" path="gallery\IMG_5375.jpg" />
-	<file id="132930587627242541-000001F32" version="1" path="gallery\b03_l.png" />
-	<file id="132930587627242541-000001F33" version="1" path="gallery\b03_r.png" />
-	<file id="132930587627242541-000001F34" version="1" path="gallery\bullets.png" />
-	<file id="132930602764250493-000001F54" version="1" path="images\mapa-dgo-coah-23-03-2022-B.png" />
-	<file id="132930604453183385-000001F59" version="1" path="images\agua_saludable_01.png" />
-	<file id="132930604453183385-000001F5A" version="1" path="images\agua_saludable_02.png" />
-	<file id="132930604453223384-000001F5B" version="1" path="images\agua_saludable_03.png" />
-	<file id="132930604453223384-000001F5C" version="1" path="images\agua_saludable_04.png" />
-	<file id="132930606011555524-000001F62" version="1" path="images\IMG_1660.jpg" />
-	<file id="132930614382236766-000001F71" version="1" path="images\IMG_1895.jpg" />
-	<file id="132930632959321085-000001F7C" version="1" path="images\fondo_animacion_cuenca_nazas_4ae5ny9f.png" />
-	<file id="132930632959331082-000001F7D" version="2" path="images\DA-CLICK.png" />
-	<file id="132930633157351413-000001F7E" version="1" path="images\fondo_animacion_agua_saludable_ar5r9h0i.png" />
-	<file id="132930646383522589-000001F7F" version="1" path="style/content_slider/bullets_87x2jx03.png" />
-	<file id="132930646383532577-000001F80" version="1" path="images\IMG_0563.jpg" />
-	<file id="132930646383562582-000001F81" version="1" path="images\IMGL5097_d997tewq.jpg" />
-	<file id="132930646383586853-000001F82" version="1" path="images\IMGL5218.jpg" />
-	<file id="132930646383597584-000001F83" version="1" path="images\IMGL5256.jpg" />
-	<file id="132930646383607615-000001F84" version="1" path="images\15-julio-2010-082.jpg" />
-	<file id="132930646383621893-000001F85" version="1" path="images\000_2759.jpg" />
-	<file id="132930646383636170-000001F86" version="1" path="images\000_2760.jpg" />
-	<file id="132930646383646187-000001F87" version="1" path="images\IMGL4991.jpg" />
-	<file id="132930662066604693-000001F88" version="1" path="gallery\IMGL5041_thumb.png" />
-	<file id="132930662066614705-000001F89" version="1" path="gallery\IMGL5049_thumb.png" />
-	<file id="132930662066624704-000001F8A" version="1" path="gallery\IMGL5076_thumb.png" />
-	<file id="132930662066624704-000001F8B" version="1" path="gallery\IMGL5079_thumb.png" />
-	<file id="132930662066634699-000001F8C" version="1" path="gallery\IMGL5069_thumb.png" />
-	<file id="132930662066634699-000001F8D" version="1" path="gallery\IMGL5038_thumb.png" />
-	<file id="132930662066644698-000001F8E" version="1" path="gallery\IMG_1011_thumb.png" />
-	<file id="132930662066644698-000001F8F" version="1" path="gallery\IMGL4905_thumb.png" />
-	<file id="132930662066654693-000001F90" version="1" path="gallery\IMGL5446_thumb.png" />
-	<file id="132930662066654693-000001F91" version="1" path="gallery\IMGL4940_thumb.png" />
-	<file id="132930662066664690-000001F92" version="1" path="gallery\IMGL5041.jpg" />
-	<file id="132930662066674702-000001F93" version="1" path="gallery\IMGL5049.jpg" />
-	<file id="132930662066684687-000001F94" version="1" path="gallery\IMGL5076.jpg" />
-	<file id="132930662066684687-000001F95" version="1" path="gallery\IMGL5079.jpg" />
-	<file id="132930662066694683-000001F96" version="1" path="gallery\IMGL5069.jpg" />
-	<file id="132930662066704678-000001F97" version="1" path="gallery\IMGL5038.jpg" />
-	<file id="132930662066714670-000001F98" version="1" path="gallery\IMG_1011.jpg" />
-	<file id="132930662066714670-000001F99" version="1" path="gallery\IMGL4905.jpg" />
-	<file id="132930662066724672-000001F9A" version="1" path="gallery\IMGL5446.jpg" />
-	<file id="132930662066734672-000001F9B" version="1" path="gallery\IMGL4940.jpg" />
-	<page id="0" lastmodified="2022-03-29 10:16:24" path="index.html" upath="index.html" construction="False" />
-	<page id="-9" lastmodified="2022-03-29 00:00:00" path="imsearch.html" upath="imsearch.php" construction="False" />
-	<page id="3" lastmodified="2022-03-29 15:53:42" path="que-es-.html" upath="que-es-.html" construction="False" />
-	<page id="4" lastmodified="2022-03-29 15:49:18" path="agua-saludable.html" upath="agua-saludable.html" construction="False" />
-	<page id="6" lastmodified="2022-03-29 16:23:31" path="el-rio-nazas.html" upath="el-rio-nazas.html" construction="False" />
-	<page id="7" lastmodified="2022-03-29 14:55:55" path="mapas.html" upath="mapas.html" construction="False" />
-	<page id="9" lastmodified="2022-03-29 00:00:00" path="la-cuenca-del-nazas.html" upath="la-cuenca-del-nazas.html" construction="False" />
-	<page id="10" lastmodified="2022-03-29 00:00:01" path="agua-saludable-1.html" upath="agua-saludable-1.html" construction="False" />
-	<page id="11" lastmodified="2022-03-29 00:00:01" path="conoce-la-cuenca.html" upath="conoce-la-cuenca.html" construction="False" />
-	<page id="13" lastmodified="2022-03-29 00:00:04" path="p.-lazaro-cardenas.html" upath="p.-lazaro-cardenas.html" construction="False" />
-	<page id="14" lastmodified="2022-03-29 00:00:01" path="p.-fco-zarco.html" upath="p.-fco-zarco.html" construction="False" />
-	<page id="15" lastmodified="2022-03-29 00:00:04" path="rio-nazas.html" upath="rio-nazas.html" construction="False" />
-	<page id="16" lastmodified="2022-03-29 00:00:11" path="canon-fernandez.html" upath="canon-fernandez.html" construction="False" />
+	<file id="132930632959331082-000001F7D" version="13" path="images\DA-CLICK.png" />
+	<file id="132933424875470455-000001FCE" version="14" path="images\presa_lazaro_cardenas.png" />
+	<file id="132933424875470455-000001FCF" version="1" path="images\IMG_1550_3mq7qkcb.jpg" />
+	<file id="132933424875470455-000001FD0" version="14" path="images\IMG_1485.jpg" />
+	<file id="132933424875470455-000001FD1" version="14" path="images\IMG_1590.jpg" />
+	<file id="132933510169564298-000002099" version="101" path="images\linea_separador_1.png" />
+	<file id="132933924460290199-0000020DA" version="1" path="images\IMG_0615.jpg" />
+	<file id="132934311198844896-0000020EC" version="1" path="style\template.css" />
+	<file id="132934429414263610-00000213D" version="1" path="images\IMG_1550_zau0cwh3.jpg" />
+	<file id="132934457410614758-000002152" version="1" path="images\banner_comic_CAED.png" />
+	<file id="132934874676105850-00000221A" version="1" path="images\IMG_1396.jpg" />
+	<file id="132934874676105850-00000221B" version="1" path="images\IMG_1450_xwh5mx3m.jpg" />
+	<file id="132934874676105850-00000221C" version="1" path="images\IMG_1545.jpg" />
+	<file id="132934874676105850-00000221D" version="1" path="images\IMGL5192.jpg" />
+	<file id="132934874676105850-00000221E" version="1" path="images\DSC00005.jpg" />
+	<file id="132934874676105850-00000221F" version="2" path="images\IMGL5164.jpg" />
+	<file id="132934883789496397-000002267" version="1" path="pluginAppObj/pluginAppObj_3_30\custom.css" />
+	<file id="132934883789561512-000002268" version="1" path="pluginAppObj/pluginAppObj_3_30\main.js" />
+	<file id="132934883789561512-000002269" version="1" path="pluginAppObj/pluginAppObj_3_30\modernizr-custom-svg.js" />
+	<file id="132934888857434707-000002284" version="1" path="images\IMG_1583.jpg" />
+	<file id="132934888857444701-000002285" version="1" path="images\15-julio-2010-075.jpg" />
+	<file id="132934888857444701-000002286" version="1" path="images\IMG_0589.jpg" />
+	<file id="132934888857444701-000002287" version="1" path="images\IMG_5138.jpg" />
+	<file id="132934888973213783-000002296" version="1" path="images\logo_la_cuenca_nazas_2.png" />
+	<file id="132934891035709845-0000022AC" version="1" path="images\mapa-dgo-coah-23-03-2022.png" />
+	<file id="132934898128822837-0000022B5" version="1" path="images\IMG_1450.jpg" />
+	<file id="132934898128822837-0000022B6" version="1" path="files\IMG_1583.jpg" />
+	<file id="132934898128822837-0000022B7" version="1" path="files\thumb_IMG_1583.jpg" />
+	<file id="132934898128822837-0000022B8" version="1" path="files\IMG_1590.jpg" />
+	<file id="132934898128822837-0000022B9" version="1" path="files\thumb_IMG_1590.jpg" />
+	<file id="132934898128822837-0000022BA" version="1" path="files\IMG_1545.jpg" />
+	<file id="132934898128822837-0000022BB" version="1" path="files\thumb_IMG_1545.jpg" />
+	<file id="132934898128822837-0000022BC" version="1" path="files\IMG_1624.jpg" />
+	<file id="132934898128822837-0000022BD" version="1" path="files\thumb_IMG_1624.jpg" />
+	<file id="132934898128822837-0000022BE" version="1" path="images\EL-RIO-NAZAS_BLANCO.png" />
+	<file id="132934899951165604-0000022CF" version="1" path="images\IMG_1137.jpg" />
+	<file id="132934899951165604-0000022D0" version="1" path="files\DSC09961.jpg" />
+	<file id="132934899951165604-0000022D1" version="1" path="files\thumb_DSC09961.jpg" />
+	<file id="132934899951165604-0000022D2" version="1" path="files\IMG_0632.jpg" />
+	<file id="132934899951165604-0000022D3" version="1" path="files\thumb_IMG_0632.jpg" />
+	<file id="132934899951165604-0000022D4" version="1" path="files\IMG_0822.jpg" />
+	<file id="132934899951165604-0000022D5" version="1" path="files\thumb_IMG_0822.jpg" />
+	<file id="132934899951165604-0000022D6" version="1" path="files\IMG_0596.jpg" />
+	<file id="132934899951165604-0000022D7" version="1" path="files\thumb_IMG_0596.jpg" />
+	<file id="132934899951165604-0000022D8" version="1" path="images\CA-ON-FERNANDEZ-BLANCO.png" />
+	<file id="132934900951918735-0000022E9" version="1" path="images\IMG_1399.jpg" />
+	<file id="132934900951918735-0000022EA" version="1" path="files\15-julio-2010-075.jpg" />
+	<file id="132934900951918735-0000022EB" version="1" path="files\thumb_15-julio-2010-075.jpg" />
+	<file id="132934900951918735-0000022EC" version="1" path="files\15-julio-2010-082.jpg" />
+	<file id="132934900951918735-0000022ED" version="1" path="files\thumb_15-julio-2010-082.jpg" />
+	<file id="132934900951918735-0000022EE" version="1" path="files\IMG_1385.jpg" />
+	<file id="132934900951918735-0000022EF" version="1" path="files\thumb_IMG_1385.jpg" />
+	<file id="132934900951918735-0000022F0" version="1" path="files\IMG_1396.jpg" />
+	<file id="132934900951918735-0000022F1" version="1" path="files\thumb_IMG_1396.jpg" />
+	<file id="132934900951918735-0000022F2" version="1" path="images\PRESA-EL-PALMITO_BLANCO.png" />
+	<file id="132934905860036639-00000231D" version="1" path="images\IMGL5128.jpg" />
+	<file id="132934905860036639-00000231E" version="1" path="images\IMG_0596.jpg" />
+	<file id="132934905860036639-00000231F" version="1" path="images\IMGL5100_iypf955j.jpg" />
+	<file id="132934905860036639-000002320" version="1" path="images\IMGL5097.jpg" />
+	<file id="132934905860036639-000002321" version="1" path="images\IMG_1577.jpg" />
+	<file id="132934905860036639-000002322" version="1" path="images\estanque.jpg" />
+	<file id="132934906397141117-00000232F" version="2" path="images\banner_rio_nazas_significado.png" />
+	<file id="132934911035443981-0000023A3" version="1" path="gallery\IMGL5041_thumb.png" />
+	<file id="132934911035443981-0000023A4" version="1" path="gallery\IMGL5049_thumb.png" />
+	<file id="132934911035443981-0000023A5" version="1" path="gallery\IMGL5076_thumb.png" />
+	<file id="132934911035443981-0000023A6" version="1" path="gallery\IMGL5079_thumb.png" />
+	<file id="132934911035453967-0000023A7" version="1" path="gallery\IMGL5069_thumb.png" />
+	<file id="132934911035453967-0000023A8" version="1" path="gallery\IMGL5038_thumb.png" />
+	<file id="132934911035453967-0000023A9" version="1" path="gallery\IMG_1011_thumb.png" />
+	<file id="132934911035463964-0000023AA" version="1" path="gallery\IMGL4905_thumb.png" />
+	<file id="132934911035463964-0000023AB" version="1" path="gallery\IMGL5446_thumb.png" />
+	<file id="132934911035463964-0000023AC" version="1" path="gallery\IMGL4940_thumb.png" />
+	<file id="132934911035473961-0000023AD" version="1" path="gallery\IMGL5041.jpg" />
+	<file id="132934911035473961-0000023AE" version="1" path="gallery\IMGL5049.jpg" />
+	<file id="132934911035483958-0000023AF" version="1" path="gallery\IMGL5076.jpg" />
+	<file id="132934911035483958-0000023B0" version="1" path="gallery\IMGL5079.jpg" />
+	<file id="132934911035493954-0000023B1" version="1" path="gallery\IMGL5069.jpg" />
+	<file id="132934911035493954-0000023B2" version="1" path="gallery\IMGL5038.jpg" />
+	<file id="132934911035493954-0000023B3" version="1" path="gallery\IMG_1011.jpg" />
+	<file id="132934911035503952-0000023B4" version="1" path="gallery\IMGL4905.jpg" />
+	<file id="132934911035503952-0000023B5" version="1" path="gallery\IMGL5446.jpg" />
+	<file id="132934911035513948-0000023B6" version="1" path="gallery\IMGL4940.jpg" />
+	<file id="132934920713746324-000002417" version="1" path="pluginAppObj/pluginAppObj_6_31\custom.css" />
+	<file id="132934920713746324-000002418" version="1" path="pluginAppObj/pluginAppObj_6_31\main.js" />
+	<file id="132934920713811461-000002419" version="1" path="pluginAppObj/pluginAppObj_6_31\modernizr-custom-svg.js" />
+	<file id="132934922804939255-00000242C" version="1" path="style/content_slider/bullets_0v3d94qq.png" />
+	<file id="132934922805095488-00000242D" version="1" path="images\IMG_0563.jpg" />
+	<file id="132934922805095488-00000242E" version="1" path="images\IMGL5097_dmit1183.jpg" />
+	<file id="132934922805095488-00000242F" version="1" path="images\IMGL5218.jpg" />
+	<file id="132934922805095488-000002430" version="1" path="images\IMGL5256.jpg" />
+	<file id="132934922805095488-000002431" version="1" path="images\15-julio-2010-082.jpg" />
+	<file id="132934922805095488-000002432" version="1" path="images\000_2759.jpg" />
+	<file id="132934922805095488-000002433" version="1" path="images\000_2760.jpg" />
+	<file id="132934922805095488-000002434" version="1" path="images\IMGL4991.jpg" />
+	<file id="132934927711547394-000002458" version="1" path="images\IMG_6620.jpg" />
+	<file id="132934927711547394-000002459" version="1" path="images\IMG_6617.jpg" />
+	<file id="132934934364564377-000002469" version="2" path="images\logo_agua_saludable_2.png" />
+	<file id="132934936347490402-00000248C" version="1" path="images\IMG_1895.jpg" />
+	<file id="132934942682533600-0000024B9" version="7" path="images\mapa-dgo-coah-23-03-2022-B.png" />
+	<file id="132934942996599243-0000024BA" version="2" path="gallery\IMG_0632_rzp5lm6i.jpg" />
+	<file id="132934942996599243-0000024BB" version="2" path="gallery\IMG_0822.jpg" />
+	<file id="132934942996599243-0000024BC" version="2" path="gallery\IMG_6620_lc81gqct.jpg" />
+	<file id="132934942996599243-0000024BD" version="2" path="gallery\IMG_5375.jpg" />
+	<file id="132934942996599243-0000024BE" version="2" path="gallery\b03_l.png" />
+	<file id="132934942996599243-0000024BF" version="2" path="gallery\b03_r.png" />
+	<file id="132934942996599243-0000024C0" version="2" path="gallery\bullets.png" />
+	<file id="132934947247073802-0000024DC" version="1" path="pluginAppObj/pluginAppObj_4_32\custom.css" />
+	<file id="132934947247098893-0000024DD" version="1" path="pluginAppObj/pluginAppObj_4_32\main.js" />
+	<file id="132934947247098893-0000024DE" version="1" path="pluginAppObj/pluginAppObj_4_32\modernizr-custom-svg.js" />
+	<file id="132934970520838359-00000251E" version="1" path="images\agua_saludable_01.png" />
+	<file id="132934970520838359-00000251F" version="1" path="images\agua_saludable_02.png" />
+	<file id="132934970520838359-000002520" version="1" path="images\agua_saludable_03.png" />
+	<file id="132934970520838359-000002521" version="1" path="images\agua_saludable_04.png" />
+	<file id="132934971644687153-000002522" version="1" path="images\ico_mapa360_cavjsuev.png" />
+	<file id="132934979597866978-000002523" version="1" path="images\IMG_0632.jpg" />
+	<file id="132935022715540805-0000025E2" version="1" path="images\fondo_animacion_cuenca_nazas.png" />
+	<file id="132935022715560798-0000025E3" version="1" path="images\fondo_animacion_agua_saludable.png" />
+	<file id="132935047899733406-00000260B" version="1" path="style/fonts/BRUSHSCI.TTF" />
+	<file id="132935047899743390-00000260C" version="1" path="images\logo_cultura_agua_dgo_3.png" />
+	<file id="132935047899783369-00000260D" version="1" path="images\mapa-dgo-coah-23-03-2022-B_vgijva3a.png" />
+	<file id="132935047899853344-00000260E" version="1" path="pluginAppObj/pluginAppObj_39\custom.css" />
+	<file id="132935047899873348-00000260F" version="1" path="pluginAppObj/pluginAppObj_39\main.js" />
+	<file id="132935047899883342-000002610" version="1" path="pluginAppObj/pluginAppObj_39\modernizr-custom-svg.js" />
+	<file id="132935047900553134-000002611" version="1" path="images\logos_gob_dgo_caed.png" />
+	<file id="132935047900603132-000002614" version="1" path="images\ico_mapa360.png" />
+	<file id="132935068849821508-00000261F" version="1" path="images\banner_acercate_eca.png" />
+	<file id="132935074827898263-000002637" version="1" path="images\logo_voces_agua.png" />
+	<file id="132935075149398421-000002639" version="1" path="images\logo_voces_agua_2.png" />
+	<file id="132935076811058468-00000263F" version="1" path="images\IMG_1137_vc120rij.jpg" />
+	<file id="132935097324745084-000002640" version="1" path="captcha\imcpa_ey5.gif" />
+	<file id="132935097324745084-000002641" version="1" path="captcha\imcpa_get.gif" />
+	<file id="132935097324745084-000002642" version="1" path="captcha\imcpa_avn.gif" />
+	<file id="132935097324745084-000002643" version="1" path="captcha\imcpa_kwc.gif" />
+	<file id="132935097324745084-000002644" version="1" path="captcha\imcpa_a8x.gif" />
+	<file id="132935097324745084-000002645" version="1" path="captcha\imcpa_3c7.gif" />
+	<file id="132935097324745084-000002646" version="1" path="captcha\imcpa_zsj.gif" />
+	<file id="132935097324745084-000002647" version="1" path="captcha\imcpa_yye.gif" />
+	<file id="132935097324745084-000002648" version="1" path="captcha\imcpa_h87.gif" />
+	<file id="132935097324745084-000002649" version="1" path="captcha\imcpa_4rz.gif" />
+	<file id="132935097324745084-00000264A" version="1" path="captcha\x5captcha.php" />
+	<page id="0" lastmodified="2022-04-03 20:13:34" path="index.html" upath="index.html" construction="False" />
+	<page id="-9" lastmodified="2022-04-02 21:46:56" path="imsearch.html" upath="imsearch.php" construction="False" />
+	<page id="3" lastmodified="2022-04-03 15:16:29" path="que-es-.html" upath="que-es-.html" construction="False" />
+	<page id="4" lastmodified="2022-04-03 17:35:11" path="agua-saludable.html" upath="agua-saludable.html" construction="False" />
+	<page id="6" lastmodified="2022-04-03 16:03:11" path="el-rio-nazas.html" upath="el-rio-nazas.html" construction="False" />
+	<page id="7" lastmodified="2022-04-03 18:33:08" path="mapas.html" upath="mapas.html" construction="False" />
+	<page id="9" lastmodified="2022-04-03 17:28:40" path="la-cuenca-del-nazas.html" upath="la-cuenca-del-nazas.html" construction="False" />
+	<page id="10" lastmodified="2022-04-03 17:28:40" path="agua-saludable-1.html" upath="agua-saludable-1.html" construction="False" />
+	<page id="11" lastmodified="2022-04-03 17:28:40" path="conoce-la-cuenca.html" upath="conoce-la-cuenca.html" construction="False" />
+	<page id="13" lastmodified="2022-04-02 21:46:59" path="p.-lazaro-cardenas.html" upath="p.-lazaro-cardenas.html" construction="False" />
+	<page id="14" lastmodified="2022-04-02 21:46:57" path="p.-fco-zarco.html" upath="p.-fco-zarco.html" construction="False" />
+	<page id="15" lastmodified="2022-04-02 21:46:59" path="rio-nazas.html" upath="rio-nazas.html" construction="False" />
+	<page id="16" lastmodified="2022-04-02 21:47:04" path="canon-fernandez.html" upath="canon-fernandez.html" construction="False" />
 </fileversions>

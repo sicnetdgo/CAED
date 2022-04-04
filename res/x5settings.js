@@ -103,16 +103,16 @@
 	b.push(function () {
 		x5engine.captcha.instance = new x5engine.captcha.x5captcha({
 			"offlineCodes": {
-				"0": { letter: 'U', path: 'captcha/imcpa_wdz.gif'},
-				"1": { letter: 'J', path: 'captcha/imcpa_rsr.gif'},
-				"2": { letter: 'Z', path: 'captcha/imcpa_4lm.gif'},
-				"3": { letter: 'Y', path: 'captcha/imcpa_e7p.gif'},
-				"4": { letter: 'H', path: 'captcha/imcpa_7sz.gif'},
-				"5": { letter: 'C', path: 'captcha/imcpa_hv6.gif'},
-				"6": { letter: 'W', path: 'captcha/imcpa_7e6.gif'},
-				"7": { letter: 'J', path: 'captcha/imcpa_fgn.gif'},
-				"8": { letter: 'W', path: 'captcha/imcpa_w4z.gif'},
-				"9": { letter: '7', path: 'captcha/imcpa_vcr.gif'}
+				"0": { letter: '7', path: 'captcha/imcpa_8pf.gif'},
+				"1": { letter: '4', path: 'captcha/imcpa_4x5.gif'},
+				"2": { letter: 'T', path: 'captcha/imcpa_twk.gif'},
+				"3": { letter: '5', path: 'captcha/imcpa_lzp.gif'},
+				"4": { letter: 'A', path: 'captcha/imcpa_sc2.gif'},
+				"5": { letter: '8', path: 'captcha/imcpa_6x5.gif'},
+				"6": { letter: 'N', path: 'captcha/imcpa_c26.gif'},
+				"7": { letter: '6', path: 'captcha/imcpa_ym5.gif'},
+				"8": { letter: 'G', path: 'captcha/imcpa_nln.gif'},
+				"9": { letter: 'A', path: 'captcha/imcpa_mpx.gif'}
 			}
 		});
 	}, false, 'first');

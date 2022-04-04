@@ -78,11 +78,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #imFooter_imCellStyleGraphics_1 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imFooter_imCellStyleBorders_1 { position: absolute; top: 0px; bottom: 0px; }
 #imFooter_imObjectImage_01 { vertical-align: top; margin: 0 auto; }
-#imFooter_imObjectImage_01 #imFooter_imObjectImage_01_container img { width: 100%; vertical-align: top; }#imStickyBar_imCell_2 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
-#imStickyBar_pluginAppObj_02 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imStickyBar_imCellStyleGraphics_2 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
-#imStickyBar_imCellStyleBorders_2 { position: absolute; top: 0px; bottom: 0px; }
-.imPageRow { position: relative;  }
+#imFooter_imObjectImage_01 #imFooter_imObjectImage_01_container img { width: 100%; vertical-align: top; }.imPageRow { position: relative;  }
 #imCell_1 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectAnimation_9_01 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_1 { position: absolute; top: 10px; bottom: 10px; background-color: transparent; }
@@ -482,45 +478,6 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	#imFooter_imObjectImage_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imFooter_imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imFooter_imCellStyleGraphics_1 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	
-}
-
-@media (min-width: 1150.0px) {
-	#imStickyBar_pluginAppObj_02_wrapper { position: absolute; top: 5px; left: 962px; width: 190px; height: 40px; text-align: center; z-index: 1002;  }
-	#imStickyBar_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imStickyBar_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_imCellStyleGraphics_2 { left: 0px; right: 0px; }
-	#imStickyBar_imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	
-}
-
-@media (max-width: 1149.9px) and (min-width: 720.0px) {
-	#imStickyBar_pluginAppObj_02_wrapper { position: absolute; top: 5px; left: 710px; width: 340px; height: 50px; text-align: center; z-index: 1002;  }
-	#imStickyBar_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imStickyBar_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_imCellStyleGraphics_2 { left: 0px; right: 0px; }
-	#imStickyBar_imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	
-}
-
-@media (max-width: 719.9px) and (min-width: 480.0px) {
-	#imStickyBar_pluginAppObj_02_wrapper { position: absolute; top: 5px; left: 470px; width: 340px; height: 50px; text-align: center; z-index: 1002;  }
-	#imStickyBar_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imStickyBar_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_imCellStyleGraphics_2 { left: 0px; right: 0px; }
-	#imStickyBar_imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	
-}
-
-@media (max-width: 479.9px)  {
-	#imStickyBar_pluginAppObj_02_wrapper { position: absolute; top: 5px; left: 310px; width: 340px; height: 50px; text-align: center; z-index: 1002;  }
-	#imStickyBar_imCell_2 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_pluginAppObj_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imStickyBar_imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imStickyBar_imCellStyleGraphics_2 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
 	
 }
 
