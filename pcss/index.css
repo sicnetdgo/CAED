@@ -34,7 +34,7 @@
 	#imContentGraphics { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
 	
 }
-#imContent { display: -ms-grid; display: grid; -ms-grid-columns: minmax(0, 1fr) 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px minmax(0, 1fr); grid-template-columns: minmax(0, 1fr) 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px minmax(0, 1fr); -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; }
+#imContent { display: -ms-grid; display: grid; -ms-grid-columns: minmax(0, 1fr) 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px minmax(0, 1fr); grid-template-columns: minmax(0, 1fr) 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 12px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px 11.917px minmax(0, 1fr); -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; }
 #imGoToCont { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 #imCell_20 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 #imCell_33 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
@@ -46,25 +46,25 @@
 #imCell_34 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 6; -ms-grid-row-span: 1; grid-row: 6 / 7; }
 #imCell_5 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 7; -ms-grid-row-span: 1; grid-row: 7 / 8; }
 #imCell_36 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 1; grid-row: 8 / 9; }
-#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
+#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 36; grid-column: 14 / 50; -ms-grid-row: 9; -ms-grid-row-span: 2; grid-row: 9 / 11; }
 #imCell_37 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
-#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 10; -ms-grid-row-span: 1; grid-row: 10 / 11; }
-#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
-#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
-#imCell_40 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
-#imCell_41 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 14; -ms-grid-row-span: 1; grid-row: 14 / 15; }
-#imCell_24 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 15; -ms-grid-row-span: 1; grid-row: 15 / 16; }
-#imCell_28 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
-#imCell_16 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 13; -ms-grid-row-span: 3; grid-row: 13 / 16; }
-#imCell_42 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 48; grid-column: 26 / 74; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 72; grid-column: 14 / 86; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
+#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
+#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
+#imCell_40 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 14; -ms-grid-row-span: 1; grid-row: 14 / 15; }
+#imCell_41 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 15; -ms-grid-row-span: 1; grid-row: 15 / 16; }
+#imCell_24 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+#imCell_28 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
+#imCell_16 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 14; -ms-grid-row-span: 3; grid-row: 14 / 17; }
+#imCell_42 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 48; grid-column: 26 / 74; -ms-grid-row: 17; -ms-grid-row-span: 1; grid-row: 17 / 18; }
 #imPageRow_1 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 1; -ms-grid-row-span: 2; grid-row: 1 / 3; }
 #imPageRow_2 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 3; -ms-grid-row-span: 4; grid-row: 3 / 7; }
 #imPageRow_3 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 7; -ms-grid-row-span: 1; grid-row: 7 / 8; }
-#imPageRow_4 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 3; grid-row: 8 / 11; }
-#imPageRow_5 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 11; -ms-grid-row-span: 5; grid-row: 11 / 16; }
-#imPageRow_6 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+#imPageRow_4 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 4; grid-row: 8 / 12; }
+#imPageRow_5 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 12; -ms-grid-row-span: 5; grid-row: 12 / 17; }
+#imPageRow_6 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 17; -ms-grid-row-span: 1; grid-row: 17 / 18; }
 @media (max-width: 1149.9px) and (min-width: 720.0px) {
-	#imContent { display: -ms-grid; display: grid; -ms-grid-columns: minmax(0, 1fr) 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px minmax(0, 1fr); grid-template-columns: minmax(0, 1fr) 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px minmax(0, 1fr); -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; }
+	#imContent { display: -ms-grid; display: grid; -ms-grid-columns: minmax(0, 1fr) 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px minmax(0, 1fr); grid-template-columns: minmax(0, 1fr) 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px 7.5px minmax(0, 1fr); -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; }
 	#imGoToCont { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 	#imCell_20 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 	#imCell_33 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
@@ -76,27 +76,27 @@
 	#imCell_34 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 6; -ms-grid-row-span: 1; grid-row: 6 / 7; }
 	#imCell_5 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 7; -ms-grid-row-span: 1; grid-row: 7 / 8; }
 	#imCell_36 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 1; grid-row: 8 / 9; }
-	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
+	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 36; grid-column: 14 / 50; -ms-grid-row: 9; -ms-grid-row-span: 2; grid-row: 9 / 11; }
 	#imCell_37 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
-	#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 10; -ms-grid-row-span: 1; grid-row: 10 / 11; }
-	#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
-	#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
-	#imCell_40 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
-	#imCell_41 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 14; -ms-grid-row-span: 1; grid-row: 14 / 15; }
-	#imCell_24 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 15; -ms-grid-row-span: 1; grid-row: 15 / 16; }
-	#imCell_28 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
-	#imCell_16 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 13; -ms-grid-row-span: 3; grid-row: 13 / 16; }
-	#imCell_42 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 48; grid-column: 26 / 74; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+	#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 72; grid-column: 14 / 86; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
+	#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
+	#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
+	#imCell_40 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 14; -ms-grid-row-span: 1; grid-row: 14 / 15; }
+	#imCell_41 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 15; -ms-grid-row-span: 1; grid-row: 15 / 16; }
+	#imCell_24 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+	#imCell_28 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
+	#imCell_16 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 14; -ms-grid-row-span: 3; grid-row: 14 / 17; }
+	#imCell_42 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 48; grid-column: 26 / 74; -ms-grid-row: 17; -ms-grid-row-span: 1; grid-row: 17 / 18; }
 	#imPageRow_1 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 1; -ms-grid-row-span: 2; grid-row: 1 / 3; }
 	#imPageRow_2 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 3; -ms-grid-row-span: 4; grid-row: 3 / 7; }
 	#imPageRow_3 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 7; -ms-grid-row-span: 1; grid-row: 7 / 8; }
-	#imPageRow_4 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 3; grid-row: 8 / 11; }
-	#imPageRow_5 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 11; -ms-grid-row-span: 5; grid-row: 11 / 16; }
-	#imPageRow_6 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+	#imPageRow_4 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 4; grid-row: 8 / 12; }
+	#imPageRow_5 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 12; -ms-grid-row-span: 5; grid-row: 12 / 17; }
+	#imPageRow_6 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 17; -ms-grid-row-span: 1; grid-row: 17 / 18; }
 	
 }
 @media (max-width: 719.9px) and (min-width: 480.0px) {
-	#imContent { display: -ms-grid; display: grid; -ms-grid-columns: minmax(0, 1fr) 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px minmax(0, 1fr); grid-template-columns: minmax(0, 1fr) 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px minmax(0, 1fr); -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; }
+	#imContent { display: -ms-grid; display: grid; -ms-grid-columns: minmax(0, 1fr) 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px minmax(0, 1fr); grid-template-columns: minmax(0, 1fr) 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px 5px minmax(0, 1fr); -ms-grid-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto; }
 	#imGoToCont { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 	#imCell_20 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 	#imCell_33 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
@@ -108,23 +108,23 @@
 	#imCell_34 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 6; -ms-grid-row-span: 1; grid-row: 6 / 7; }
 	#imCell_5 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 7; -ms-grid-row-span: 1; grid-row: 7 / 8; }
 	#imCell_36 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 1; grid-row: 8 / 9; }
-	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
+	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 36; grid-column: 14 / 50; -ms-grid-row: 9; -ms-grid-row-span: 2; grid-row: 9 / 11; }
 	#imCell_37 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
-	#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 10; -ms-grid-row-span: 1; grid-row: 10 / 11; }
-	#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
-	#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
-	#imCell_40 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
-	#imCell_41 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 14; -ms-grid-row-span: 1; grid-row: 14 / 15; }
-	#imCell_24 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 15; -ms-grid-row-span: 1; grid-row: 15 / 16; }
-	#imCell_28 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
-	#imCell_16 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 13; -ms-grid-row-span: 3; grid-row: 13 / 16; }
-	#imCell_42 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 48; grid-column: 26 / 74; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+	#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 72; grid-column: 14 / 86; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
+	#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
+	#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
+	#imCell_40 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 14; -ms-grid-row-span: 1; grid-row: 14 / 15; }
+	#imCell_41 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 24; grid-column: 26 / 50; -ms-grid-row: 15; -ms-grid-row-span: 1; grid-row: 15 / 16; }
+	#imCell_24 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+	#imCell_28 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
+	#imCell_16 { display: -ms-grid; display: grid; -ms-grid-column: 74; -ms-grid-column-span: 24; grid-column: 74 / 98; -ms-grid-row: 14; -ms-grid-row-span: 3; grid-row: 14 / 17; }
+	#imCell_42 { display: -ms-grid; display: grid; -ms-grid-column: 26; -ms-grid-column-span: 48; grid-column: 26 / 74; -ms-grid-row: 17; -ms-grid-row-span: 1; grid-row: 17 / 18; }
 	#imPageRow_1 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 1; -ms-grid-row-span: 2; grid-row: 1 / 3; }
 	#imPageRow_2 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 3; -ms-grid-row-span: 4; grid-row: 3 / 7; }
 	#imPageRow_3 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 7; -ms-grid-row-span: 1; grid-row: 7 / 8; }
-	#imPageRow_4 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 3; grid-row: 8 / 11; }
-	#imPageRow_5 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 11; -ms-grid-row-span: 5; grid-row: 11 / 16; }
-	#imPageRow_6 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 16; -ms-grid-row-span: 1; grid-row: 16 / 17; }
+	#imPageRow_4 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 8; -ms-grid-row-span: 4; grid-row: 8 / 12; }
+	#imPageRow_5 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 12; -ms-grid-row-span: 5; grid-row: 12 / 17; }
+	#imPageRow_6 { display: block; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 17; -ms-grid-row-span: 1; grid-row: 17 / 18; }
 	
 }
 @media (max-width: 479.9px)  {
@@ -178,14 +178,13 @@ html.no-cssanimations .animable { visibility: visible; }
 .animable.animated { visibility: visible; -webkit-animation-fill-mode: both;  animation-fill-mode: both; -webkit-animation-delay: 0s; animation-delay: 0s; }
 :-webkit-full-screen-ancestor{ animation-fill-mode: none !important; }
 #imPageRowGraphics_1_0 { background: transparent url('../images/presa_lazaro_cardenas.png') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
-#imPageRowGraphics_1_1 { background: transparent url('../images/IMG_1550_zau0cwh3.jpg') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
-#imPageRowGraphics_1_2 { background: transparent url('../') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
-#imPageRowGraphics_1_3 { background: transparent url('../images/IMG_1485.jpg') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
-#imPageRowGraphics_1_4 { background: transparent url('../images/IMG_1590.jpg') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
+#imPageRowGraphics_1_1 { background: transparent url('../images/IMG_1385.jpg') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
+#imPageRowGraphics_1_2 { background: transparent url('../images/DSC00005.jpg') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
+#imPageRowGraphics_1_3 { background: transparent url('../images/IMG_1590.jpg') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
 #imCell_33 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_33 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_33 { position: absolute; top: 100px; bottom: 100px; background-color: transparent; }
-#imCellStyleBorders_33 { position: absolute; top: 100px; bottom: 100px; }
+#imCellStyleGraphics_33 { position: absolute; top: 100px; bottom: 200px; background-color: transparent; }
+#imCellStyleBorders_33 { position: absolute; top: 100px; bottom: 200px; }
 html:not(.no-cssanimations) #imCell_33.animated {   -webkit-animation-duration: 4000ms;
   animation-duration: 4000ms;
   -webkit-animation-iteration-count: 1;
@@ -201,7 +200,7 @@ html:not(.no-cssanimations) #imCell_33.animated {   -webkit-animation-duration: 
 }
 #imCell_33.animated.fadeInRight {  -webkit-animation-name: imCell_33-anim-fadeInRight;  animation-name: imCell_33-anim-fadeInRight; }
 #imPage.imCell_33_animation-in-progress { overflow: hidden }
-#imObjectImage_33 #imObjectImage_33_container { width: 479px; max-width: 100%; line-height: 0; }
+#imObjectImage_33 #imObjectImage_33_container { width: 440px; max-width: 100%; line-height: 0; }
 #imObjectImage_33 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_33 #imObjectImage_33_container img { width: 100%; vertical-align: top; }#imCell_20 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imMenuObject_20 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 103; }
@@ -249,8 +248,8 @@ html:not(.no-cssanimations) #imCell_2.animated {   -webkit-animation-duration: 4
 #imObjectImage_02 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_02 #imObjectImage_02_container img { width: 100%; vertical-align: top; }#imCell_39 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #pluginAppObj_39 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_39 { position: absolute; top: 100px; bottom: 150px; background-color: transparent; }
-#imCellStyleBorders_39 { position: absolute; top: 100px; bottom: 150px; }
+#imCellStyleGraphics_39 { position: absolute; top: 150px; bottom: 250px; background-color: transparent; }
+#imCellStyleBorders_39 { position: absolute; top: 150px; bottom: 250px; }
 html:not(.no-cssanimations) #imCell_39.animated {   -webkit-animation-duration: 10000ms;
   animation-duration: 10000ms;
   -webkit-animation-iteration-count: infinite;
@@ -290,8 +289,8 @@ html:not(.no-cssanimations) #imCell_39.animated {   -webkit-animation-duration: 
 #imTextObject_32 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_32 { position: absolute; top: 0px; bottom: 0px; background-color: rgba(60, 120, 216, 1); opacity: 0.55; }
 #imCellStyleBorders_32 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_32.animated {   -webkit-animation-duration: 4000ms;
-  animation-duration: 4000ms;
+html:not(.no-cssanimations) #imCell_32.animated {   -webkit-animation-duration: 3000ms;
+  animation-duration: 3000ms;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
@@ -344,7 +343,8 @@ html:not(.no-cssanimations) #imCell_32.animated {   -webkit-animation-duration: 
 #imTextObject_32_tab0 .imVc { vertical-align: middle; }
 #imTextObject_32_tab0 .imVb { vertical-align: bottom; }
 #imTextObject_32_tab0 hr { border-width: 1px 0 0 0; border-style: solid; }
-#imTextObject_32_tab0 .fs36lh1-5 { vertical-align: baseline; font-size: 36pt; line-height: 72px; }
+#imTextObject_32_tab0 .lh1 { line-height: 1; }
+#imTextObject_32_tab0 .fs36lh1 { vertical-align: baseline; font-size: 36pt; line-height: 48px; }
 #imTextObject_32_tab0 .cf1 { color: rgb(243, 243, 243); }
 #imTextObject_32_tab0 .ff1 { font-family: 'Avenir Regular'; }
 #imTextObject_32 .text-container {width: 100%;}#imTextObject_32 .text-container {margin: 0 auto; position: relative;overflow: hidden; display: -ms-grid; display: grid; -ms-grid-template-rows: 1fr; grid-template-rows: 1fr; -ms-grid-template-columns: 1fr; grid-template-columns: 1fr; background-color: rgba(255, 255, 255, 1); border-style: solid;border-color: rgba(169, 169, 169, 1); }
@@ -355,8 +355,8 @@ html:not(.no-cssanimations) #imCell_32.animated {   -webkit-animation-duration: 
 #imTextObject_03 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_3 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imCellStyleBorders_3 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_3.animated {   -webkit-animation-duration: 5000ms;
-  animation-duration: 5000ms;
+html:not(.no-cssanimations) #imCell_3.animated {   -webkit-animation-duration: 3000ms;
+  animation-duration: 3000ms;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
@@ -421,8 +421,8 @@ html:not(.no-cssanimations) #imCell_3.animated {   -webkit-animation-duration: 5
 #imTextObject_35 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_35 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imCellStyleBorders_35 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_35.animated {   -webkit-animation-duration: 6000ms;
-  animation-duration: 6000ms;
+html:not(.no-cssanimations) #imCell_35.animated {   -webkit-animation-duration: 3000ms;
+  animation-duration: 3000ms;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
@@ -486,8 +486,8 @@ html:not(.no-cssanimations) #imCell_35.animated {   -webkit-animation-duration: 
 #imTextObject_34 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_34 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imCellStyleBorders_34 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_34.animated {   -webkit-animation-duration: 5000ms;
-  animation-duration: 5000ms;
+html:not(.no-cssanimations) #imCell_34.animated {   -webkit-animation-duration: 3000ms;
+  animation-duration: 3000ms;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
@@ -562,8 +562,8 @@ html:not(.no-cssanimations) #imCell_34.animated {   -webkit-animation-duration: 
 #imTextObject_36 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_36 { position: absolute; top: 0px; bottom: 0px; background-color: rgba(67, 71, 90, 1); opacity: 0.65; }
 #imCellStyleBorders_36 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_36.animated {   -webkit-animation-duration: 4000ms;
-  animation-duration: 4000ms;
+html:not(.no-cssanimations) #imCell_36.animated {   -webkit-animation-duration: 3000ms;
+  animation-duration: 3000ms;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
@@ -625,8 +625,8 @@ html:not(.no-cssanimations) #imCell_36.animated {   -webkit-animation-duration: 
 #imTextObject_36 .text-container .text-tab-content.detach {position: absolute; top: 0; left: 0; width: 100%; display: none; }
 #imCell_37 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_37 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_37 { position: absolute; top: 10px; bottom: 10px; background-color: transparent; }
-#imCellStyleBorders_37 { position: absolute; top: 10px; bottom: 10px; }
+#imCellStyleGraphics_37 { position: absolute; top: 100px; bottom: 20px; background-color: transparent; }
+#imCellStyleBorders_37 { position: absolute; top: 100px; bottom: 20px; }
 html:not(.no-cssanimations) #imCell_37.animated {   -webkit-animation-duration: 10000ms;
   animation-duration: 10000ms;
   -webkit-animation-iteration-count: infinite;
@@ -687,21 +687,21 @@ html:not(.no-cssanimations) #imCell_43.animated {   -webkit-animation-duration: 
 }
 #imCell_43.animated.bounce {  -webkit-animation-name: imCell_43-anim-bounce;  animation-name: imCell_43-anim-bounce;  -webkit-transform-origin: center bottom;  transform-origin: center bottom;}
 #imPage.imCell_43_animation-in-progress { overflow: hidden }
-#imObjectImage_43 #imObjectImage_43_container { width: 167px; max-width: 100%; line-height: 0; }
+#imObjectImage_43 #imObjectImage_43_container { width: 404px; max-width: 100%; line-height: 0; }
 #imObjectImage_43 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_43 #imObjectImage_43_container img { width: 100%; vertical-align: top; }#imCell_38 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_38 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_38 { position: absolute; top: 10px; bottom: 55px; background-color: transparent; }
 #imCellStyleBorders_38 { position: absolute; top: 10px; bottom: 55px; }
-#imObjectImage_38 #imObjectImage_38_container { width: 1985px; max-width: 100%; line-height: 0; }
+#imObjectImage_38 #imObjectImage_38_container { width: 1471px; max-width: 100%; line-height: 0; }
 #imPageRowGraphics_5 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0.9; }
 #imPageRowGraphics_5 { background-color: rgba(241, 194, 50, 1); }
 #imCell_30 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imTextObject_30 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_30 { position: absolute; top: 0px; bottom: 0px; background-color: rgba(255, 217, 102, 1); opacity: 0.85; }
 #imCellStyleBorders_30 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_30.animated {   -webkit-animation-duration: 4000ms;
-  animation-duration: 4000ms;
+html:not(.no-cssanimations) #imCell_30.animated {   -webkit-animation-duration: 3000ms;
+  animation-duration: 3000ms;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
@@ -1088,8 +1088,8 @@ html:not(.no-cssanimations) #imCell_16.animated {   -webkit-animation-duration: 
 #imPageRowGraphics_6 { background: transparent url('../images/IMG_1137_vc120rij.jpg') no-repeat center center; background-size: cover; }
 #imCell_42 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_42 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_42 { position: absolute; top: 200px; bottom: 200px; background-color: transparent; }
-#imCellStyleBorders_42 { position: absolute; top: 200px; bottom: 200px; }
+#imCellStyleGraphics_42 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
+#imCellStyleBorders_42 { position: absolute; top: 0px; bottom: 0px; }
 html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 10000ms;
   animation-duration: 10000ms;
   -webkit-animation-iteration-count: infinite;
@@ -1110,7 +1110,7 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 #imObjectImage_42 #imObjectImage_42_container { width: 486px; max-width: 100%; line-height: 0; }
 #imObjectImage_42 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_42 #imObjectImage_42_container img { width: 100%; vertical-align: top; }@media (min-width: 1150.0px) {
-	#imCell_33 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imCell_33 { padding-top: 100px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
 	#imCell_33 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_33 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_33 { left: 0px; right: 0px; }
@@ -1205,7 +1205,7 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imObjectImage_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_2 { left: 0px; right: 0px; }
 	#imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imCell_39 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
+	#imCell_39 { padding-top: 150px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#imCell_39 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#pluginAppObj_39 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_39 { left: 0px; right: 0px; }
@@ -1245,14 +1245,14 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCellStyleGraphics_36 { left: 0px; right: 0px; }
 	#imCellStyleBorders_36 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imTextObject_36 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imCell_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+	#imCell_37 { padding-top: 100px; padding-bottom: 20px; padding-left: 0px; padding-right: 0px; }
 	#imCell_37 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
-	#imCellStyleGraphics_37 { left: 10px; right: 10px; }
-	#imCellStyleBorders_37 { left: 10px; right: 10px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imObjectImage_37 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCellStyleGraphics_37 { left: 0px; right: 0px; }
+	#imCellStyleBorders_37 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCell_43 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+	#imObjectImage_43 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_43 { left: 10px; right: 10px; }
 	#imCellStyleBorders_43 { left: 10px; right: 10px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_38 { padding-top: 10px; padding-bottom: 55px; padding-left: 10px; padding-right: 15px; }
@@ -1301,16 +1301,16 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCellStyleGraphics_16 { left: 0px; right: 0px; }
 	#imCellStyleBorders_16 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imTableObject_16 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imCell_42 { padding-top: 200px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
+	#imCell_42 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_42 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_42 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imObjectImage_42 { padding-top: 250px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_42 { left: 0px; right: 0px; }
 	#imCellStyleBorders_42 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	
 }
 
 @media (max-width: 1149.9px) and (min-width: 720.0px) {
-	#imCell_33 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imCell_33 { padding-top: 100px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
 	#imCell_33 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_33 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_33 { left: 0px; right: 0px; }
@@ -1405,7 +1405,7 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imObjectImage_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_2 { left: 0px; right: 0px; }
 	#imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imCell_39 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
+	#imCell_39 { padding-top: 150px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#imCell_39 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#pluginAppObj_39 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_39 { left: 0px; right: 0px; }
@@ -1445,14 +1445,14 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCellStyleGraphics_36 { left: 0px; right: 0px; }
 	#imCellStyleBorders_36 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imTextObject_36 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imCell_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 6px; padding-right: 6px; }
+	#imCell_37 { padding-top: 100px; padding-bottom: 20px; padding-left: 0px; padding-right: 0px; }
 	#imCell_37 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
-	#imCellStyleGraphics_37 { left: 6px; right: 6px; }
-	#imCellStyleBorders_37 { left: 6px; right: 6px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imObjectImage_37 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCellStyleGraphics_37 { left: 0px; right: 0px; }
+	#imCellStyleBorders_37 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 6px; padding-right: 6px; }
 	#imCell_43 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+	#imObjectImage_43 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_43 { left: 6px; right: 6px; }
 	#imCellStyleBorders_43 { left: 6px; right: 6px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_38 { padding-top: 10px; padding-bottom: 55px; padding-left: 6px; padding-right: 11px; }
@@ -1502,16 +1502,16 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCellStyleBorders_16 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imTableObject_16 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imTableObject_16 { width: 100%; overflow-x: scroll; }
-	#imCell_42 { padding-top: 200px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
+	#imCell_42 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_42 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_42 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imObjectImage_42 { padding-top: 250px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_42 { left: 0px; right: 0px; }
 	#imCellStyleBorders_42 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	
 }
 
 @media (max-width: 719.9px) and (min-width: 480.0px) {
-	#imCell_33 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imCell_33 { padding-top: 100px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
 	#imCell_33 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_33 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_33 { left: 0px; right: 0px; }
@@ -1606,7 +1606,7 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imObjectImage_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_2 { left: 0px; right: 0px; }
 	#imCellStyleBorders_2 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
-	#imCell_39 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
+	#imCell_39 { padding-top: 150px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#imCell_39 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#pluginAppObj_39 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_39 { left: 0px; right: 0px; }
@@ -1646,14 +1646,14 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCellStyleGraphics_36 { left: 0px; right: 0px; }
 	#imCellStyleBorders_36 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imTextObject_36 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imCell_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 4px; padding-right: 4px; }
+	#imCell_37 { padding-top: 100px; padding-bottom: 20px; padding-left: 0px; padding-right: 0px; }
 	#imCell_37 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
-	#imCellStyleGraphics_37 { left: 4px; right: 4px; }
-	#imCellStyleBorders_37 { left: 4px; right: 4px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imObjectImage_37 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCellStyleGraphics_37 { left: 0px; right: 0px; }
+	#imCellStyleBorders_37 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 4px; padding-right: 4px; }
 	#imCell_43 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+	#imObjectImage_43 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_43 { left: 4px; right: 4px; }
 	#imCellStyleBorders_43 { left: 4px; right: 4px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_38 { padding-top: 10px; padding-bottom: 55px; padding-left: 4px; padding-right: 9px; }
@@ -1703,19 +1703,19 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCellStyleBorders_16 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imTableObject_16 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imTableObject_16 { width: 100%; overflow-x: scroll; }
-	#imCell_42 { padding-top: 200px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
+	#imCell_42 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_42 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imObjectImage_42 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imObjectImage_42 { padding-top: 250px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_42 { left: 0px; right: 0px; }
 	#imCellStyleBorders_42 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	
 }
 
 @media (max-width: 479.9px)  {
-	#imCell_33 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imCell_33 { padding-top: 100px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
 	#imObjectImage_33 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_33 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_33 { top: 100px; bottom: 100px; left: 0px; right: 0px; box-sizing: border-box; }
+	#imCellStyleGraphics_33 { top: 100px; bottom: 200px; left: 0px; right: 0px; box-sizing: border-box; }
 	#imCell_20 { padding-top: 100px; padding-bottom: 100px; padding-left: 5px; padding-right: 5px; }
 	#imMenuObject_20 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_20 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
@@ -1794,10 +1794,10 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imObjectImage_02 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_2 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imCellStyleGraphics_2 { top: 100px; bottom: 250px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imCell_39 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
+	#imCell_39 { padding-top: 150px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#pluginAppObj_39 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_39 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_39 { top: 100px; bottom: 150px; left: 0px; right: 0px; box-sizing: border-box; }
+	#imCellStyleGraphics_39 { top: 150px; bottom: 250px; left: 0px; right: 0px; box-sizing: border-box; }
 	#imCell_32 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imTextObject_32 { padding-top: 40px; padding-bottom: 40px; padding-left: 0px; padding-right: 0px; }
 	#imCell_32 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
@@ -1827,12 +1827,12 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCell_36 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imCellStyleGraphics_36 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
 	#imTextObject_36 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imCell_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px; }
-	#imObjectImage_37 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+	#imCell_37 { padding-top: 100px; padding-bottom: 20px; padding-left: 0px; padding-right: 0px; }
+	#imObjectImage_37 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_37 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_37 { top: 10px; bottom: 10px; left: 5px; right: 5px; box-sizing: border-box; }
+	#imCellStyleGraphics_37 { top: 100px; bottom: 20px; left: 0px; right: 0px; box-sizing: border-box; }
 	#imCell_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px; }
-	#imObjectImage_43 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
+	#imObjectImage_43 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_43 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imCellStyleGraphics_43 { top: 10px; bottom: 10px; left: 5px; right: 5px; box-sizing: border-box; }
 	#imCell_38 { padding-top: 10px; padding-bottom: 50px; padding-left: 5px; padding-right: 5px; }
@@ -1874,10 +1874,10 @@ html:not(.no-cssanimations) #imCell_42.animated {   -webkit-animation-duration: 
 	#imCellStyleGraphics_16 { top: 0px; bottom: 150px; left: 0px; right: 0px; box-sizing: border-box; }
 	#imTableObject_16 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
 	#imTableObject_16 { width: 100%; overflow-x: scroll; }
-	#imCell_42 { padding-top: 200px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
-	#imObjectImage_42 { padding-top: 100px; padding-bottom: 100px; padding-left: 0px; padding-right: 0px; }
+	#imCell_42 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imObjectImage_42 { padding-top: 250px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
 	#imCell_42 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_42 { top: 200px; bottom: 200px; left: 0px; right: 0px; box-sizing: border-box; }
+	#imCellStyleGraphics_42 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
 	
 }
 

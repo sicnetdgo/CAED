@@ -38,7 +38,7 @@
 #imGoToCont { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 #imCell_22 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 48; grid-column: 2 / 50; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
 #imCell_1 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
-#imCell_31 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 3; -ms-grid-row-span: 1; grid-row: 3 / 4; }
+#imCell_47 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 3; -ms-grid-row-span: 1; grid-row: 3 / 4; }
 #imCell_32 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 74; grid-column: 1 / 75; -ms-grid-row: 4; -ms-grid-row-span: 1; grid-row: 4 / 5; }
 #imCell_2 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 5; -ms-grid-row-span: 1; grid-row: 5 / 6; }
 #imCell_3 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 36; grid-column: 2 / 38; -ms-grid-row: 6; -ms-grid-row-span: 1; grid-row: 6 / 7; }
@@ -63,7 +63,7 @@
 	#imGoToCont { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 	#imCell_22 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 48; grid-column: 2 / 50; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
 	#imCell_1 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
-	#imCell_31 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 3; -ms-grid-row-span: 1; grid-row: 3 / 4; }
+	#imCell_47 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 3; -ms-grid-row-span: 1; grid-row: 3 / 4; }
 	#imCell_32 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 74; grid-column: 1 / 75; -ms-grid-row: 4; -ms-grid-row-span: 1; grid-row: 4 / 5; }
 	#imCell_2 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 5; -ms-grid-row-span: 1; grid-row: 5 / 6; }
 	#imCell_3 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 36; grid-column: 2 / 38; -ms-grid-row: 6; -ms-grid-row-span: 1; grid-row: 6 / 7; }
@@ -90,7 +90,7 @@
 	#imGoToCont { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 	#imCell_22 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 48; grid-column: 2 / 50; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
 	#imCell_1 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
-	#imCell_31 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 3; -ms-grid-row-span: 1; grid-row: 3 / 4; }
+	#imCell_47 { display: -ms-grid; display: grid; -ms-grid-column: 50; -ms-grid-column-span: 24; grid-column: 50 / 74; -ms-grid-row: 3; -ms-grid-row-span: 1; grid-row: 3 / 4; }
 	#imCell_32 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 74; grid-column: 1 / 75; -ms-grid-row: 4; -ms-grid-row-span: 1; grid-row: 4 / 5; }
 	#imCell_2 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 5; -ms-grid-row-span: 1; grid-row: 5 / 6; }
 	#imCell_3 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 36; grid-column: 2 / 38; -ms-grid-row: 6; -ms-grid-row-span: 1; grid-row: 6 / 7; }
@@ -117,7 +117,7 @@
 	#imGoToCont { display: block; -ms-grid-column: 2; -ms-grid-column-span: 1; grid-column: 2 / 3; -ms-grid-row: 1; -ms-grid-row-span: 1; grid-row: 1 / 2; }
 	#imCell_1 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 2; -ms-grid-row-span: 1; grid-row: 2 / 3; }
 	#imCell_22 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 3; -ms-grid-row-span: 1; grid-row: 3 / 4; }
-	#imCell_31 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 4; -ms-grid-row-span: 1; grid-row: 4 / 5; }
+	#imCell_47 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 4; -ms-grid-row-span: 1; grid-row: 4 / 5; }
 	#imCell_32 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 74; grid-column: 1 / 75; -ms-grid-row: 5; -ms-grid-row-span: 1; grid-row: 5 / 6; }
 	#imCell_2 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 6; -ms-grid-row-span: 1; grid-row: 6 / 7; }
 	#imCell_4 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 72; grid-column: 2 / 74; -ms-grid-row: 7; -ms-grid-row-span: 1; grid-row: 7 / 8; }
@@ -164,8 +164,8 @@ html.no-cssanimations .animable { visibility: visible; }
 #imPageRowGraphics_1_5 { background: transparent url('../images/estanque.jpg') no-repeat center center; opacity: 1; background-size: cover; top: -70%; bottom: -70%; visibility: hidden; animation-duration: 6000ms; }
 #imCell_1 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_6_01 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_1 { position: absolute; top: 100px; bottom: 250px; background-color: transparent; }
-#imCellStyleBorders_1 { position: absolute; top: 100px; bottom: 250px; }
+#imCellStyleGraphics_1 { position: absolute; top: 100px; bottom: 150px; background-color: transparent; }
+#imCellStyleBorders_1 { position: absolute; top: 100px; bottom: 150px; }
 html:not(.no-cssanimations) #imCell_1.animated {   -webkit-animation-duration: 6000ms;
   animation-duration: 6000ms;
   -webkit-animation-iteration-count: 1;
@@ -206,16 +206,16 @@ html:not(.no-cssanimations) #imCell_22.animated {   -webkit-animation-duration: 
 max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto; z-index: 0; 
 }
 .im-menu-opened #imStickyBarContainer, .im-menu-opened #imPageToTop { visibility: hidden !important; }
-#imCell_31 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
-#pluginAppObj_6_31 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_31 { position: absolute; top: 50px; bottom: 150px; background-color: transparent; }
-#imCellStyleBorders_31 { position: absolute; top: 50px; bottom: 150px; }
-html:not(.no-cssanimations) #imCell_31.animated {   -webkit-animation-duration: 10000ms;
+#imCell_47 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
+#pluginAppObj_6_47 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
+#imCellStyleGraphics_47 { position: absolute; top: 150px; bottom: 200px; background-color: transparent; }
+#imCellStyleBorders_47 { position: absolute; top: 150px; bottom: 200px; }
+html:not(.no-cssanimations) #imCell_47.animated {   -webkit-animation-duration: 10000ms;
   animation-duration: 10000ms;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
 }
-@-webkit-keyframes imCell_31-anim-shake {
+@-webkit-keyframes imCell_47-anim-shake {
 	0% { -webkit-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0); }
 	20% { -webkit-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0); }
 	2% { -webkit-transform: translate3d(-10px, 0, 0);    transform: translate3d(-10px, 0, 0); }
@@ -228,7 +228,7 @@ html:not(.no-cssanimations) #imCell_31.animated {   -webkit-animation-duration: 
 	12% { -webkit-transform: translate3d(10px, 0, 0);    transform: translate3d(10px, 0, 0); }
 	16% { -webkit-transform: translate3d(10px, 0, 0);    transform: translate3d(10px, 0, 0); }
 }
-@keyframes imCell_31-anim-shake {
+@keyframes imCell_47-anim-shake {
 	0% { -webkit-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0); }
 	20% { -webkit-transform: translate3d(0, 0, 0);    transform: translate3d(0, 0, 0); }
 	2% { -webkit-transform: translate3d(-10px, 0, 0);    transform: translate3d(-10px, 0, 0); }
@@ -241,8 +241,8 @@ html:not(.no-cssanimations) #imCell_31.animated {   -webkit-animation-duration: 
 	12% { -webkit-transform: translate3d(10px, 0, 0);    transform: translate3d(10px, 0, 0); }
 	16% { -webkit-transform: translate3d(10px, 0, 0);    transform: translate3d(10px, 0, 0); }
 }
-#imCell_31.animated.shake {  -webkit-animation-name: imCell_31-anim-shake;  animation-name: imCell_31-anim-shake; }
-#imPage.imCell_31_animation-in-progress { overflow: hidden }
+#imCell_47.animated.shake {  -webkit-animation-name: imCell_47-anim-shake;  animation-name: imCell_47-anim-shake; }
+#imPage.imCell_47_animation-in-progress { overflow: hidden }
 #imPageRowGraphics_2 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0.9; }
 #imPageRowGraphics_2 { background-color: rgba(60, 120, 216, 1); }
 #imCell_32 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
@@ -884,7 +884,7 @@ html:not(.no-cssanimations) #imCell_45.animated {   -webkit-animation-duration: 
 }
 #imCell_45.animated.bounce {  -webkit-animation-name: imCell_45-anim-bounce;  animation-name: imCell_45-anim-bounce;  -webkit-transform-origin: center bottom;  transform-origin: center bottom;}
 #imPage.imCell_45_animation-in-progress { overflow: hidden }
-#imObjectImage_6_45 #imObjectImage_6_45_container { width: 167px; max-width: 100%; line-height: 0; }
+#imObjectImage_6_45 #imObjectImage_6_45_container { width: 404px; max-width: 100%; line-height: 0; }
 #imObjectImage_6_45 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_6_45 #imObjectImage_6_45_container img { width: 100%; vertical-align: top; }#imCell_46 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_6_46 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
@@ -919,7 +919,7 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 #imObjectImage_6_46 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_6_46 #imObjectImage_6_46_container img { width: 100%; vertical-align: top; }@media (min-width: 1150.0px) {
 	#imBreadcrumb { width: 1134px; margin-left: 6px; margin-right: 6px; }
-	#imCell_1 { padding-top: 100px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
+	#imCell_1 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
 	#imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_6_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_1 { left: 0px; right: 0px; }
@@ -1009,11 +1009,11 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 	}
 	#imMenuObject_6_22-menu-opened { display: none; }
 	#imMenuObject_6_22 .hamburger-component { display: none; }
-	#imCell_31 { padding-top: 50px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
-	#imCell_31 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#pluginAppObj_6_31 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imCellStyleGraphics_31 { left: 0px; right: 0px; }
-	#imCellStyleBorders_31 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imCell_47 { padding-top: 150px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
+	#imCell_47 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
+	#pluginAppObj_6_47 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCellStyleGraphics_47 { left: 0px; right: 0px; }
+	#imCellStyleBorders_47 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_32 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_32 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imTextObject_6_32 { padding-top: 40px; padding-bottom: 40px; padding-left: 0px; padding-right: 0px; }
@@ -1094,7 +1094,7 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 
 @media (max-width: 1149.9px) and (min-width: 720.0px) {
 	#imBreadcrumb { width: 706px; margin-left: 6px; margin-right: 6px; }
-	#imCell_1 { padding-top: 100px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
+	#imCell_1 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
 	#imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_6_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_1 { left: 0px; right: 0px; }
@@ -1184,11 +1184,11 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 	}
 	#imMenuObject_6_22-menu-opened { display: none; }
 	#imMenuObject_6_22 .hamburger-component { display: none; }
-	#imCell_31 { padding-top: 50px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
-	#imCell_31 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#pluginAppObj_6_31 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imCellStyleGraphics_31 { left: 0px; right: 0px; }
-	#imCellStyleBorders_31 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imCell_47 { padding-top: 150px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
+	#imCell_47 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
+	#pluginAppObj_6_47 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCellStyleGraphics_47 { left: 0px; right: 0px; }
+	#imCellStyleBorders_47 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_32 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_32 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imTextObject_6_32 { padding-top: 40px; padding-bottom: 40px; padding-left: 0px; padding-right: 0px; }
@@ -1269,7 +1269,7 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 
 @media (max-width: 719.9px) and (min-width: 480.0px) {
 	#imBreadcrumb { width: 466px; margin-left: 6px; margin-right: 6px; }
-	#imCell_1 { padding-top: 100px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
+	#imCell_1 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
 	#imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_6_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCellStyleGraphics_1 { left: 0px; right: 0px; }
@@ -1359,11 +1359,11 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 	}
 	#imMenuObject_6_22-menu-opened { display: none; }
 	#imMenuObject_6_22 .hamburger-component { display: none; }
-	#imCell_31 { padding-top: 50px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
-	#imCell_31 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#pluginAppObj_6_31 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imCellStyleGraphics_31 { left: 0px; right: 0px; }
-	#imCellStyleBorders_31 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
+	#imCell_47 { padding-top: 150px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
+	#imCell_47 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
+	#pluginAppObj_6_47 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCellStyleGraphics_47 { left: 0px; right: 0px; }
+	#imCellStyleBorders_47 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imCell_32 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_32 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imTextObject_6_32 { padding-top: 40px; padding-bottom: 40px; padding-left: 0px; padding-right: 0px; }
@@ -1444,10 +1444,10 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 
 @media (max-width: 479.9px)  {
 	#imBreadcrumb { width: 100%; margin-left: 0px; margin-right: 0px; }
-	#imCell_1 { padding-top: 100px; padding-bottom: 250px; padding-left: 0px; padding-right: 0px; }
+	#imCell_1 { padding-top: 100px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
 	#imObjectImage_6_01 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_1 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_1 { top: 100px; bottom: 250px; left: 0px; right: 0px; box-sizing: border-box; }
+	#imCellStyleGraphics_1 { top: 100px; bottom: 150px; left: 0px; right: 0px; box-sizing: border-box; }
 	#imCell_22 { padding-top: 100px; padding-bottom: 100px; padding-left: 5px; padding-right: 5px; }
 	#imMenuObject_6_22 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imCell_22 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
@@ -1522,10 +1522,10 @@ html:not(.no-cssanimations) #imCell_46.animated {   -webkit-animation-duration: 
 	/* Responsive menu separation line style */
 	#imMenuObject_6_22-menu-opened {  transform: translate3d(-160px, 0 ,0);  transition: transform 1000ms;  -webkit-transition: transform 1000ms;}
 	#imMenuObject_6_22-menu-opened.animated {  transform: translate3d(0, 0, 0);}
-	#imCell_31 { padding-top: 50px; padding-bottom: 150px; padding-left: 0px; padding-right: 0px; }
-	#pluginAppObj_6_31 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
-	#imCell_31 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_31 { top: 50px; bottom: 150px; left: 0px; right: 0px; box-sizing: border-box; }
+	#imCell_47 { padding-top: 150px; padding-bottom: 200px; padding-left: 0px; padding-right: 0px; }
+	#pluginAppObj_6_47 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCell_47 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
+	#imCellStyleGraphics_47 { top: 150px; bottom: 200px; left: 0px; right: 0px; box-sizing: border-box; }
 	#imCell_32 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imTextObject_6_32 { padding-top: 40px; padding-bottom: 40px; padding-left: 0px; padding-right: 0px; }
 	#imCell_32 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
