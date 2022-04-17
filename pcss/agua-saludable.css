@@ -1586,8 +1586,8 @@ html:not(.no-cssanimations) #imCell_53.animated {   -webkit-animation-duration: 
 #imTextObject_4_53 .text-container .grid-prop.current-tab {z-index: 1; opacity: 1;  }
 #imTextObject_4_53 .text-container .grid-prop {-ms-grid-column: 1; -ms-grid-row: 1; grid-area: 1 / 1 / 2 / 2; opacity: 0; box-sizing: border-box; position: relative;  }
 #imTextObject_4_53 .text-container .text-tab-content.detach {position: absolute; top: 0; left: 0; width: 100%; display: none; }
-#imPageRowGraphics_6 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0.75; }
-#imPageRowGraphics_6 { background: transparent url('../images/mapa-3D-5-4-22-prueba-iluminacion_go1t16oh.png') no-repeat center center; background-size: cover; }
+#imPageRowGraphics_6 { position: absolute; top: -70%; bottom: -70%; left: 0; right: 0; visibility: hidden; opacity: 0.75; }
+#imPageRowGraphics_6 { background: transparent url('../images/MAPA-AGUA-SALUDABLE-RENDER-12-04-22_rvqiuwon.png') no-repeat center center; background-size: cover; }
 #imCell_62 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_4_62 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_62 { position: absolute; top: 150px; bottom: 26px; background-color: transparent; }

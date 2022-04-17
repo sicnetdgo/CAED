@@ -116,7 +116,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -142,8 +142,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '292px',
-                    'Left': '191px',
+                    'Top': '425px',
+                    'Left': '343px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '10','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -175,8 +175,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '360px',
-                    'Left': '444px',
+                    'Top': '525px',
+                    'Left': '474px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -208,8 +208,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '196px',
-                    'Left': '444px',
+                    'Top': '416px',
+                    'Left': '508px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '12','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -241,8 +241,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '272px',
-                    'Left': '640px',
+                    'Top': '556px',
+                    'Left': '569px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '13','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -273,10 +273,10 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '92px',
-                    'Left': '737px',
-                    'Height': '400px',
-                    'Width': '500px',
+                    'Top': '140px',
+                    'Left': '804px',
+                    'Height': '500px',
+                    'Width': '463px',
                     'ZIndex': '17','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/por que agua saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -303,8 +303,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '390px',
-                    'Left': '376px',
+                    'Top': '536px',
+                    'Left': '399px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -335,10 +335,10 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '459px',
-                    'Left': '1050px',
-                    'Height': '253px',
-                    'Width': '214px',
+                    'Top': '300px',
+                    'Left': '56px',
+                    'Height': '340px',
+                    'Width': '280px',
                     'ZIndex': '19','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -348,41 +348,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                 'LineHeight': '1em',
 
                 
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
-                    'Oid': 'X9cff14e_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': 'Coloca el ratón sobre un puntero'
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '467px',
-                    'Left': '1128px',
-                    'Height': '56px',
-                    'Width': '117px',
-                    'ZIndex': '20','Display': 'block','TextAlign': 'center',
-
-                'TextColor': '#0000FF',
-                'Opacity': '0',
-                'FontFamily': 'Comic Sans MS',
-                'FontSize': '17px',
-                'LineHeight': '1em',
-
-                  
-                        'TextShadow': [{
-                            'BlurRadius': '3px',
-                            'Color':'#000000',
-                            'OffsetX' : '1px',
-                            'OffsetY' : '1px'
-                        }],
 
                 'Visible': 'true',
 
@@ -492,19 +457,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                             'EndValue': '1'
                         }]
 },
-{
-                            'ObjectId':'X9cff14e_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
 
 
 			    ],
@@ -528,7 +480,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             'Name': 'SCENE_2',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 2000,
+            'SceneEnd': 4500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -558,7 +510,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -581,48 +533,16 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
-                    'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '272px',
-                    'Left': '640px',
+                    'Top': '556px',
+                    'Left': '569px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '13','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-'OnMouseClick' : 4,
-'OnMouseClickParam' : 'https://trial-8899.websitex5.me/agua-saludable.html',
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
-                    'Oid': 'X9cc59e8_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '197px',
-                    'Left': '667px',
-                    'Height': '117px',
-                    'Width': '128px',
-                    'ZIndex': '17','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/tanque coahuila.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
                 'FontFamily': 'Arial',
                 'FontSize': '14px',
                 'LineHeight': '1em',
@@ -644,11 +564,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '273px',
-                    'Left': '10px',
-                    'Height': '400px',
-                    'Width': '550px',
-                    'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas por gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '140px',
+                    'Left': '30px',
+                    'Height': '500px',
+                    'Width': '463px',
+                    'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -673,11 +593,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '459px',
-                    'Left': '1050px',
-                    'Height': '253px',
-                    'Width': '214px',
-                    'ZIndex': '19','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '450px',
+                    'Left': '1150px',
+                    'Height': '250px',
+                    'Width': '120px',
+                    'ZIndex': '19','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -696,52 +616,17 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff2f9_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': 'Dá Click para Saber más'
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '473px',
-                    'Left': '1124px',
-                    'Height': '42px',
-                    'Width': '129px',
-                    'ZIndex': '20','Display': 'block','TextAlign': 'center',
-
-                'TextColor': '#0000FF',
-                'Opacity': '0',
-                'FontFamily': 'Comic Sans MS',
-                'FontSize': '19px',
-                'LineHeight': '1em',
-
-                  
-                        'TextShadow': [{
-                            'BlurRadius': '2px',
-                            'Color':'#000000',
-                            'OffsetX' : '1px',
-                            'OffsetY' : '1px'
-                        }],
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cff571_f1c7c7c68c24b8524e944badc8f10d41',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(247,218,113,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '0px',
-                    'Left': '1180px',
-                    'Height': '100px',
-                    'Width': '100px',
+                    'Left': '1200px',
+                    'Height': '80px',
+                    'Width': '80px',
                     'ZIndex': '21','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -762,7 +647,96 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
 
 'Pressed': [],
                     
-                    'Hover': [],}
+                    'Hover': [],},
+                {
+                    'Oid': 'X9f2993a_f1c7c7c68c24b8524e944badc8f10d41',                
+                    'Type': 'box',
+                    'InnerHTML': '<P>Da Click!</P>  <P>Para saber más.</P>  '
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '390px',
+                    'Left': '1112px',
+                    'Height': '55px',
+                    'Width': '138px',
+                    'ZIndex': '22','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
+                
+                        'BorderLeftColor': '#B5B5B5',
+                        'BorderLeftWidth': '1px',
+                        'BorderLeftStyle': 'solid', 
+                        'BorderRightColor': '#B5B5B5',
+                        'BorderRightWidth': '1px',
+                        'BorderRightStyle': 'solid', 
+                        'BorderTopColor': '#B5B5B5',
+                        'BorderTopWidth': '1px',
+                        'BorderTopStyle': 'solid', 
+                        'BorderBottomColor': '#B5B5B5',
+                        'BorderBottomWidth': '1px',
+                        'BorderBottomStyle': 'solid','BorderRadiusTopLeft': '5px',
+'BorderRadiusTopRight': '5px',
+'BorderRadiusBottomLeft': '5px',
+'BorderRadiusBottomRight': '5px',
+'Bold': 'true',
+
+                'TextColor': '#F5F5F5',
+                'Opacity': '0',
+                'FontFamily': 'Montserrat',
+                'FontSize': '15px',
+                'LineHeight': '0.3em',
+
+                
+
+                'Visible': 'true',
+
+'OnMouseClick' : 4,
+'OnMouseClickParam' : 'https://sicnetdgo.github.io/CAED/agua-saludable.html',
+
+
+
+'Pressed': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#A9A9A9',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#A9A9A9',
+                             'BackgroundGradientColor2' : '#A9A9A9',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'TextColor',
+                            'EndValue': '#000000'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],
+                    
+                    'Hover': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#6495ED',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#6495ED',
+                             'BackgroundGradientColor2' : '#6495ED',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],}
 
                 ],
                 'Transforms': [
@@ -786,32 +760,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cc59e8_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':100,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1.2s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
-                            'ObjectId':'X9cff2f9_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
                             'ObjectId':'X9cff23c_f1c7c7c68c24b8524e944badc8f10d41',
                             'StartTime':1000,
                             'TransitionElements':[
@@ -819,6 +767,19 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                             'Oid':'TRANSITION_BLOCK_1',
                             'Property':'Opacity',
                             'Duration':'1s',
+                            'Delay':'0s',
+                            'TimingFunc':'linear',
+                            'EndValue': '1'
+                        }]
+},
+{
+                            'ObjectId':'X9f2993a_f1c7c7c68c24b8524e944badc8f10d41',
+                            'StartTime':3000,
+                            'TransitionElements':[
+                        {
+                            'Oid':'TRANSITION_BLOCK_1',
+                            'Property':'Opacity',
+                            'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
                             'EndValue': '1'
@@ -847,7 +808,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             'Name': 'SCENE_3',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 2000,
+            'SceneEnd': 4500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -877,7 +838,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -900,48 +861,16 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
-                    'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '196px',
-                    'Left': '444px',
+                    'Top': '416px',
+                    'Left': '508px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '12','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-'OnMouseClick' : 4,
-'OnMouseClickParam' : 'https://trial-8899.websitex5.me/agua-saludable.html',
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
-                    'Oid': 'X9cc56ff_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '119px',
-                    'Left': '471px',
-                    'Height': '120px',
-                    'Width': '128px',
-                    'ZIndex': '17','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/tanque durango.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
                 'FontFamily': 'Arial',
                 'FontSize': '14px',
                 'LineHeight': '1em',
@@ -963,11 +892,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '87px',
-                    'Left': '624px',
-                    'Height': '400px',
-                    'Width': '550px',
-                    'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas por gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '186px',
+                    'Left': '10px',
+                    'Height': '500px',
+                    'Width': '463px',
+                    'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -992,11 +921,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '459px',
-                    'Left': '1050px',
-                    'Height': '253px',
-                    'Width': '214px',
-                    'ZIndex': '19','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '450px',
+                    'Left': '1150px',
+                    'Height': '250px',
+                    'Width': '120px',
+                    'ZIndex': '19','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -1015,52 +944,17 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff36d_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': 'Dá Click para Saber más'
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '473px',
-                    'Left': '1125px',
-                    'Height': '42px',
-                    'Width': '129px',
-                    'ZIndex': '20','Display': 'block','TextAlign': 'center',
-
-                'TextColor': '#0000FF',
-                'Opacity': '0',
-                'FontFamily': 'Comic Sans MS',
-                'FontSize': '19px',
-                'LineHeight': '1em',
-
-                  
-                        'TextShadow': [{
-                            'BlurRadius': '2px',
-                            'Color':'#000000',
-                            'OffsetX' : '1px',
-                            'OffsetY' : '1px'
-                        }],
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cff5bf_f1c7c7c68c24b8524e944badc8f10d41',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(247,218,113,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '0px',
-                    'Left': '1180px',
-                    'Height': '100px',
-                    'Width': '100px',
+                    'Left': '1200px',
+                    'Height': '80px',
+                    'Width': '80px',
                     'ZIndex': '21','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -1081,7 +975,96 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
 
 'Pressed': [],
                     
-                    'Hover': [],}
+                    'Hover': [],},
+                {
+                    'Oid': 'X9f29c65_f1c7c7c68c24b8524e944badc8f10d41',                
+                    'Type': 'box',
+                    'InnerHTML': '<P>Da Click!</P>  <P>Para saber más.</P>  '
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '390px',
+                    'Left': '1112px',
+                    'Height': '55px',
+                    'Width': '138px',
+                    'ZIndex': '22','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
+                
+                        'BorderLeftColor': '#B5B5B5',
+                        'BorderLeftWidth': '1px',
+                        'BorderLeftStyle': 'solid', 
+                        'BorderRightColor': '#B5B5B5',
+                        'BorderRightWidth': '1px',
+                        'BorderRightStyle': 'solid', 
+                        'BorderTopColor': '#B5B5B5',
+                        'BorderTopWidth': '1px',
+                        'BorderTopStyle': 'solid', 
+                        'BorderBottomColor': '#B5B5B5',
+                        'BorderBottomWidth': '1px',
+                        'BorderBottomStyle': 'solid','BorderRadiusTopLeft': '5px',
+'BorderRadiusTopRight': '5px',
+'BorderRadiusBottomLeft': '5px',
+'BorderRadiusBottomRight': '5px',
+'Bold': 'true',
+
+                'TextColor': '#F5F5F5',
+                'Opacity': '0',
+                'FontFamily': 'Montserrat',
+                'FontSize': '15px',
+                'LineHeight': '0.3em',
+
+                
+
+                'Visible': 'true',
+
+'OnMouseClick' : 4,
+'OnMouseClickParam' : 'https://sicnetdgo.github.io/CAED/agua-saludable.html',
+
+
+
+'Pressed': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#A9A9A9',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#A9A9A9',
+                             'BackgroundGradientColor2' : '#A9A9A9',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'TextColor',
+                            'EndValue': '#000000'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],
+                    
+                    'Hover': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#6495ED',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#6495ED',
+                             'BackgroundGradientColor2' : '#6495ED',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],}
 
                 ],
                 'Transforms': [
@@ -1105,32 +1088,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cc56ff_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':100,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1.2s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
-                            'ObjectId':'X9cff36d_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
                             'ObjectId':'X9cff368_f1c7c7c68c24b8524e944badc8f10d41',
                             'StartTime':1000,
                             'TransitionElements':[
@@ -1138,6 +1095,19 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                             'Oid':'TRANSITION_BLOCK_1',
                             'Property':'Opacity',
                             'Duration':'1s',
+                            'Delay':'0s',
+                            'TimingFunc':'linear',
+                            'EndValue': '1'
+                        }]
+},
+{
+                            'ObjectId':'X9f29c65_f1c7c7c68c24b8524e944badc8f10d41',
+                            'StartTime':3000,
+                            'TransitionElements':[
+                        {
+                            'Oid':'TRANSITION_BLOCK_1',
+                            'Property':'Opacity',
+                            'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
                             'EndValue': '1'
@@ -1196,7 +1166,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1222,8 +1192,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '360px',
-                    'Left': '444px',
+                    'Top': '525px',
+                    'Left': '474px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1247,75 +1217,17 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cc4f40_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '276px',
-                    'Left': '472px',
-                    'Height': '117px',
-                    'Width': '128px',
-                    'ZIndex': '17','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/derivadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
-                    'Oid': 'X9cc4f6e_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '20px',
-                    'Left': '591px',
-                    'Height': '400px',
-                    'Width': '550px',
-                    'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta derivadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cc4fba_f1c7c7c68c24b8524e944badc8f10d41',                
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '180px',
-                    'Left': '618px',
+                    'Top': '311px',
+                    'Left': '615px',
                     'Height': '400px',
-                    'Width': '550px',
-                    'ZIndex': '19','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta de bombeo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Width': '463px',
+                    'ZIndex': '23','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta bombeo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -1340,11 +1252,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '454px',
-                    'Left': '1054px',
-                    'Height': '253px',
-                    'Width': '214px',
-                    'ZIndex': '20','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '450px',
+                    'Left': '1150px',
+                    'Height': '250px',
+                    'Width': '120px',
+                    'ZIndex': '19','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -1363,53 +1275,18 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff3fd_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': 'Dá Click para Saber más'
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '469px',
-                    'Left': '1128px',
-                    'Height': '42px',
-                    'Width': '129px',
-                    'ZIndex': '21','Display': 'block','TextAlign': 'center',
-
-                'TextColor': '#0000FF',
-                'Opacity': '0',
-                'FontFamily': 'Comic Sans MS',
-                'FontSize': '19px',
-                'LineHeight': '1em',
-
-                  
-                        'TextShadow': [{
-                            'BlurRadius': '2px',
-                            'Color':'#000000',
-                            'OffsetX' : '1px',
-                            'OffsetY' : '1px'
-                        }],
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cff685_f1c7c7c68c24b8524e944badc8f10d41',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(247,218,113,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '0px',
-                    'Left': '1180px',
-                    'Height': '100px',
-                    'Width': '100px',
-                    'ZIndex': '22','Display': 'block','TextAlign': 'left',
+                    'Left': '1200px',
+                    'Height': '80px',
+                    'Width': '80px',
+                    'ZIndex': '21','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1429,7 +1306,125 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
 
 'Pressed': [],
                     
-                    'Hover': [],}
+                    'Hover': [],},
+                {
+                    'Oid': 'X9f29e4b_f1c7c7c68c24b8524e944badc8f10d41',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '134px',
+                    'Left': '591px',
+                    'Height': '549px',
+                    'Width': '463px',
+                    'ZIndex': '22','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta derivadora1111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'X9f29f14_f1c7c7c68c24b8524e944badc8f10d41',                
+                    'Type': 'box',
+                    'InnerHTML': '<P>Da Click!</P>  <P>Para saber más.</P>  '
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '390px',
+                    'Left': '1112px',
+                    'Height': '55px',
+                    'Width': '138px',
+                    'ZIndex': '24','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
+                
+                        'BorderLeftColor': '#B5B5B5',
+                        'BorderLeftWidth': '1px',
+                        'BorderLeftStyle': 'solid', 
+                        'BorderRightColor': '#B5B5B5',
+                        'BorderRightWidth': '1px',
+                        'BorderRightStyle': 'solid', 
+                        'BorderTopColor': '#B5B5B5',
+                        'BorderTopWidth': '1px',
+                        'BorderTopStyle': 'solid', 
+                        'BorderBottomColor': '#B5B5B5',
+                        'BorderBottomWidth': '1px',
+                        'BorderBottomStyle': 'solid','BorderRadiusTopLeft': '5px',
+'BorderRadiusTopRight': '5px',
+'BorderRadiusBottomLeft': '5px',
+'BorderRadiusBottomRight': '5px',
+'Bold': 'true',
+
+                'TextColor': '#F5F5F5',
+                'Opacity': '0',
+                'FontFamily': 'Montserrat',
+                'FontSize': '15px',
+                'LineHeight': '0.3em',
+
+                
+
+                'Visible': 'true',
+
+'OnMouseClick' : 4,
+'OnMouseClickParam' : 'https://sicnetdgo.github.io/CAED/agua-saludable.html',
+
+
+
+'Pressed': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#A9A9A9',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#A9A9A9',
+                             'BackgroundGradientColor2' : '#A9A9A9',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'TextColor',
+                            'EndValue': '#000000'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],
+                    
+                    'Hover': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#6495ED',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#6495ED',
+                             'BackgroundGradientColor2' : '#6495ED',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],}
 
                 ],
                 'Transforms': [
@@ -1440,45 +1435,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                 'Transitions': [
 			
                     {
-                            'ObjectId':'X9cc4f6e_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':100,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
-                            'ObjectId':'X9cc4f40_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':100,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
-                            'ObjectId':'X9cff3fd_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
                             'ObjectId':'X9cff3f8_f1c7c7c68c24b8524e944badc8f10d41',
                             'StartTime':1000,
                             'TransitionElements':[
@@ -1486,6 +1442,19 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                             'Oid':'TRANSITION_BLOCK_1',
                             'Property':'Opacity',
                             'Duration':'1s',
+                            'Delay':'0s',
+                            'TimingFunc':'linear',
+                            'EndValue': '1'
+                        }]
+},
+{
+                            'ObjectId':'X9f29f14_f1c7c7c68c24b8524e944badc8f10d41',
+                            'StartTime':3000,
+                            'TransitionElements':[
+                        {
+                            'Oid':'TRANSITION_BLOCK_1',
+                            'Property':'Opacity',
+                            'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
                             'EndValue': '1'
@@ -1527,7 +1496,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             'Name': 'SCENE_5',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 2000,
+            'SceneEnd': 4500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -1557,7 +1526,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1580,11 +1549,10 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
-                    'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '390px',
-                    'Left': '376px',
+                    'Top': '536px',
+                    'Left': '399px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1599,8 +1567,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
 
                 'Visible': 'true',
 
-'OnMouseClick' : 4,
-'OnMouseClickParam' : 'https://www.redalyc.org/articulo.oa?id=455545068010',
 
 
 
@@ -1643,11 +1609,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '59px',
+                    'Top': '142px',
                     'Left': '536px',
-                    'Height': '400px',
-                    'Width': '550px',
-                    'ZIndex': '20','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/info-cfdez111111111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Height': '550px',
+                    'Width': '463px',
+                    'ZIndex': '20','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/cañon fdez 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -1672,11 +1638,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '451px',
-                    'Left': '1052px',
-                    'Height': '253px',
-                    'Width': '214px',
-                    'ZIndex': '21','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '450px',
+                    'Left': '1150px',
+                    'Height': '250px',
+                    'Width': '120px',
+                    'ZIndex': '21','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -1695,52 +1661,17 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff4cc_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': 'Dá Click para Saber más'
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '464px',
-                    'Left': '1127px',
-                    'Height': '42px',
-                    'Width': '129px',
-                    'ZIndex': '22','Display': 'block','TextAlign': 'center',
-
-                'TextColor': '#0000FF',
-                'Opacity': '0',
-                'FontFamily': 'Comic Sans MS',
-                'FontSize': '19px',
-                'LineHeight': '1em',
-
-                  
-                        'TextShadow': [{
-                            'BlurRadius': '2px',
-                            'Color':'#000000',
-                            'OffsetX' : '1px',
-                            'OffsetY' : '1px'
-                        }],
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cff6b5_f1c7c7c68c24b8524e944badc8f10d41',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(247,218,113,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '0px',
-                    'Left': '1180px',
-                    'Height': '100px',
-                    'Width': '100px',
+                    'Left': '1200px',
+                    'Height': '80px',
+                    'Width': '80px',
                     'ZIndex': '23','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -1761,7 +1692,96 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
 
 'Pressed': [],
                     
-                    'Hover': [],}
+                    'Hover': [],},
+                {
+                    'Oid': 'X9f2a041_f1c7c7c68c24b8524e944badc8f10d41',                
+                    'Type': 'box',
+                    'InnerHTML': '<P>Da Click!</P>  <P>Para saber más.</P>  '
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '390px',
+                    'Left': '1112px',
+                    'Height': '55px',
+                    'Width': '138px',
+                    'ZIndex': '24','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
+                
+                        'BorderLeftColor': '#B5B5B5',
+                        'BorderLeftWidth': '1px',
+                        'BorderLeftStyle': 'solid', 
+                        'BorderRightColor': '#B5B5B5',
+                        'BorderRightWidth': '1px',
+                        'BorderRightStyle': 'solid', 
+                        'BorderTopColor': '#B5B5B5',
+                        'BorderTopWidth': '1px',
+                        'BorderTopStyle': 'solid', 
+                        'BorderBottomColor': '#B5B5B5',
+                        'BorderBottomWidth': '1px',
+                        'BorderBottomStyle': 'solid','BorderRadiusTopLeft': '5px',
+'BorderRadiusTopRight': '5px',
+'BorderRadiusBottomLeft': '5px',
+'BorderRadiusBottomRight': '5px',
+'Bold': 'true',
+
+                'TextColor': '#F5F5F5',
+                'Opacity': '0',
+                'FontFamily': 'Montserrat',
+                'FontSize': '15px',
+                'LineHeight': '0.3em',
+
+                
+
+                'Visible': 'true',
+
+'OnMouseClick' : 4,
+'OnMouseClickParam' : 'https://sicnetdgo.github.io/CAED/agua-saludable.html',
+
+
+
+'Pressed': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#A9A9A9',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#A9A9A9',
+                             'BackgroundGradientColor2' : '#A9A9A9',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'TextColor',
+                            'EndValue': '#000000'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],
+                    
+                    'Hover': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#6495ED',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#6495ED',
+                             'BackgroundGradientColor2' : '#6495ED',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],}
 
                 ],
                 'Transforms': [
@@ -1798,7 +1818,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cff4cc_f1c7c7c68c24b8524e944badc8f10d41',
+                            'ObjectId':'X9cff4c7_f1c7c7c68c24b8524e944badc8f10d41',
                             'StartTime':1000,
                             'TransitionElements':[
                         {
@@ -1811,13 +1831,13 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cff4c7_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':1000,
+                            'ObjectId':'X9f2a041_f1c7c7c68c24b8524e944badc8f10d41',
+                            'StartTime':3000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
                             'Property':'Opacity',
-                            'Duration':'1s',
+                            'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
                             'EndValue': '1'
@@ -1846,7 +1866,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             'Name': 'SCENE_6',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 2000,
+            'SceneEnd': 4500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -1876,7 +1896,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1899,48 +1919,16 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
-                    'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '292px',
-                    'Left': '191px',
+                    'Top': '425px',
+                    'Left': '343px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '10','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-'OnMouseClick' : 4,
-'OnMouseClickParam' : 'https://trial-8899.websitex5.me/agua-saludable.html',
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
-                    'Oid': 'X9cc48f0_f1c7c7c68c24b8524e944badc8f10d41',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '220px',
-                    'Left': '219px',
-                    'Height': '117px',
-                    'Width': '128px',
-                    'ZIndex': '17','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/p potabilizadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
                 'FontFamily': 'Arial',
                 'FontSize': '14px',
                 'LineHeight': '1em',
@@ -1962,11 +1950,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '78px',
-                    'Left': '436px',
-                    'Height': '400px',
-                    'Width': '550px',
-                    'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta potebilizadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '180px',
+                    'Left': '585px',
+                    'Height': '500px',
+                    'Width': '463px',
+                    'ZIndex': '18','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta potabilizadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -1987,15 +1975,15 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                 {
                     'Oid': 'X9cff6f1_f1c7c7c68c24b8524e944badc8f10d41',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(247,218,113,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '0px',
-                    'Left': '1180px',
-                    'Height': '100px',
-                    'Width': '100px',
+                    'Left': '1200px',
+                    'Height': '80px',
+                    'Width': '80px',
                     'ZIndex': '19','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2024,11 +2012,11 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '451px',
-                    'Left': '1050px',
-                    'Height': '253px',
-                    'Width': '214px',
-                    'ZIndex': '20','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Top': '450px',
+                    'Left': '1150px',
+                    'Height': '250px',
+                    'Width': '120px',
+                    'ZIndex': '20','BackgroundImage': '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -2047,40 +2035,94 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff70b_f1c7c7c68c24b8524e944badc8f10d41',                
+                    'Oid': 'X9f2a0d4_f1c7c7c68c24b8524e944badc8f10d41',                
                     'Type': 'box',
-                    'InnerHTML': 'Dá Click para Saber más'
+                    'InnerHTML': '<P>Da Click!</P>  <P>Para saber más.</P>  '
                     ,
+                    'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '464px',
-                    'Left': '1125px',
-                    'Height': '42px',
-                    'Width': '129px',
-                    'ZIndex': '21','Display': 'block','TextAlign': 'center',
+                    'Top': '390px',
+                    'Left': '1112px',
+                    'Height': '55px',
+                    'Width': '138px',
+                    'ZIndex': '21','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
+                
+                        'BorderLeftColor': '#B5B5B5',
+                        'BorderLeftWidth': '1px',
+                        'BorderLeftStyle': 'solid', 
+                        'BorderRightColor': '#B5B5B5',
+                        'BorderRightWidth': '1px',
+                        'BorderRightStyle': 'solid', 
+                        'BorderTopColor': '#B5B5B5',
+                        'BorderTopWidth': '1px',
+                        'BorderTopStyle': 'solid', 
+                        'BorderBottomColor': '#B5B5B5',
+                        'BorderBottomWidth': '1px',
+                        'BorderBottomStyle': 'solid','BorderRadiusTopLeft': '5px',
+'BorderRadiusTopRight': '5px',
+'BorderRadiusBottomLeft': '5px',
+'BorderRadiusBottomRight': '5px',
+'Bold': 'true',
 
-                'TextColor': '#0000FF',
+                'TextColor': '#F5F5F5',
                 'Opacity': '0',
-                'FontFamily': 'Comic Sans MS',
-                'FontSize': '19px',
-                'LineHeight': '1em',
+                'FontFamily': 'Montserrat',
+                'FontSize': '15px',
+                'LineHeight': '0.3em',
 
-                  
-                        'TextShadow': [{
-                            'BlurRadius': '2px',
-                            'Color':'#000000',
-                            'OffsetX' : '1px',
-                            'OffsetY' : '1px'
-                        }],
+                
 
                 'Visible': 'true',
 
+'OnMouseClick' : 4,
+'OnMouseClickParam' : 'https://sicnetdgo.github.io/CAED/agua-saludable.html',
 
 
 
-'Pressed': [],
+'Pressed': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#A9A9A9',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#A9A9A9',
+                             'BackgroundGradientColor2' : '#A9A9A9',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'TextColor',
+                            'EndValue': '#000000'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],
                     
-                    'Hover': [],}
+                    'Hover': [
+                         {
+                            'Property': 'ZIndex',
+                            'EndValue': '16'
+                         },
+                         {
+                            'Property': 'Background',
+                            'BackgroundColor': '#6495ED',
+                             'BackgroundGradientType':'singleColor',
+                             'BackgroundGradientStart' : 'left top',
+                             'BackgroundGradientEnd' : 'right top',
+                             'BackgroundGradientColor1' : '#6495ED',
+                             'BackgroundGradientColor2' : '#6495ED',
+                             'BackgroundGradientAngle': '90deg'
+                         },
+                         {
+                            'Property': 'Opacity',
+                            'EndValue': '1'
+                         }],}
 
                 ],
                 'Transforms': [
@@ -2104,32 +2146,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cc48f0_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':100,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
-                            'ObjectId':'X9cff70b_f1c7c7c68c24b8524e944badc8f10d41',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '0.98'
-                        }]
-},
-{
                             'ObjectId':'X9cff706_f1c7c7c68c24b8524e944badc8f10d41',
                             'StartTime':1000,
                             'TransitionElements':[
@@ -2140,6 +2156,19 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                             'Delay':'0s',
                             'TimingFunc':'linear',
                             'EndValue': '0.98'
+                        }]
+},
+{
+                            'ObjectId':'X9f2a0d4_f1c7c7c68c24b8524e944badc8f10d41',
+                            'StartTime':3000,
+                            'TransitionElements':[
+                        {
+                            'Oid':'TRANSITION_BLOCK_1',
+                            'Property':'Opacity',
+                            'Duration':'1.5s',
+                            'Delay':'0s',
+                            'TimingFunc':'linear',
+                            'EndValue': '1'
                         }]
 },
 
@@ -2180,7 +2209,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             MAPA_AGUA_SUSTENTABLE.debug = false;
             MAPA_AGUA_SUSTENTABLE.preloadImages = true;
 MAPA_AGUA_SUSTENTABLE.imagesToPreload = [
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
@@ -2188,32 +2217,28 @@ MAPA_AGUA_SUSTENTABLE.imagesToPreload = [
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/por que agua saludable.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/tanque coahuila.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas por gravedad.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas gravedad.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/tanque durango.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas por gravedad.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/lineas gravedad.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/derivadora.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta derivadora.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta de bombeo.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta bombeo.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta derivadora1111.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/bandera_cañon fernandez.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/info-cfdez111111111.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/cañon fdez 2.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/fondo_animacion_agua_saludable_2.png',
 '' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/puntero_3d_rojo.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/p potabilizadora.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta potebilizadora.png',
-'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_saber_mas.png'
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/planta potabilizadora.png',
+'' + x5engine.settings.currentPath + 'imObjectAnimation_10_01/jaa_izquierda_2.png'
 ];MAPA_AGUA_SUSTENTABLE.createWorkspace('imObjectAnimation_10_01_stage');
 
                 }

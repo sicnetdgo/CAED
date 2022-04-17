@@ -180,6 +180,8 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #imFooter_imTableObject_07 .text-container .text-tab-content.detach {position: absolute; top: 0; left: 0; width: 100%; display: none; }
 #imFooter_imTableObject_07 table { margin: 0 auto; }
 .imPageRow { position: relative;  }
+#imPageRowGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0.8; }
+#imPageRowGraphics_1 { background: transparent url('../images/MAPA-AGUA-SALUDABLE-RENDER-12-04-22_rvqiuwon.png') no-repeat center center; background-size: cover; }
 #imCell_1 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectAnimation_9_01 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_1 { position: absolute; top: 10px; bottom: 10px; background-color: transparent; }
