@@ -6,7 +6,7 @@
 .alert { padding: 5px 7px; margin: 5px 0 10px 0; border-radius: 5px; border: 1px solid; font: inherit; }
 .alert-red { color: #ff6565; border-color: #ff6565; background-color: #fcc; }
 .alert-green { color: #46543b; border-color: #8da876; background-color: #d5ffb3; }
-.object-generic-error { display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; background-color: black; color: white; font-family: 'Tahoma'; }
+.object-generic-error { display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; background-color: black; color: white; font-family: 'Montserrat'; }
 .object-generic-error div { padding: 5px 20px; }
 .text-right { text-align: right; }
 .text-center { text-align: center; }
@@ -35,8 +35,8 @@
 }
 
 .im-common-close-button{
-	width: 40px;
-	height: 40px;
+	width: 50px;
+	height: 50px;
 }
 .im-common-close-button.disabled{
 	opacity: 0.4 !important; cursor: default;
@@ -46,8 +46,8 @@
 }
 
 .im-common-enter-fs-button{
-	width: 40px;
-	height: 40px;
+	width: 50px;
+	height: 50px;
 }
 .im-common-enter-fs-button.disabled{
 	opacity: 0.4 !important; cursor: default;
@@ -57,8 +57,8 @@
 }
 
 .im-common-exit-fs-button{
-	width: 40px;
-	height: 40px;
+	width: 50px;
+	height: 50px;
 }
 .im-common-exit-fs-button.disabled{
 	opacity: 0.4 !important; cursor: default;
@@ -68,8 +68,8 @@
 }
 
 .im-common-zoom-in-button{
-	width: 40px;
-	height: 40px;
+	width: 50px;
+	height: 50px;
 }
 .im-common-zoom-in-button.disabled{
 	opacity: 0.4 !important; cursor: default;
@@ -79,8 +79,8 @@
 }
 
 .im-common-zoom-out-button{
-	width: 40px;
-	height: 40px;
+	width: 50px;
+	height: 50px;
 }
 .im-common-zoom-out-button.disabled{
 	opacity: 0.4 !important; cursor: default;
@@ -90,8 +90,8 @@
 }
 
 .im-common-zoom-restore-button{
-	width: 40px;
-	height: 40px;
+	width: 50px;
+	height: 50px;
 }
 .im-common-zoom-restore-button.disabled{
 	opacity: 0.4 !important; cursor: default;
@@ -101,11 +101,11 @@
 }
 
 .im-common-button-text-style{
-	font-family: Tahoma;
+	font-family: 'Arial Black';
 	font-size: 16pt;
-	color: #010101;
+	color: #9fabaf;
 	font-style: normal;
-	font-weight: normal;
+	font-weight: bold;
 }
 #imShowBox .grabbable { cursor: grab; cursor: -webkit-grab; }
 #imShowBox .grabbing { cursor: grabbing; cursor: -webkit-grabbing; }
@@ -114,32 +114,32 @@
 
 
 /* Page default */
-#imPage { font: normal normal normal 12pt 'Tahoma'; color: rgba(0, 0, 0, 1); background-color: transparent; text-decoration: none; text-align: left; }
+#imPage { font: normal normal normal 14pt 'Montserrat'; color: rgba(0, 0, 0, 1); background-color: transparent; text-decoration: none; text-align: left; }
 .text-tab-content { text-align: left; }
-.text-tab-content hr { border-color: rgba(0, 0, 0, 1); }body.wysiwyg { padding: 3px; font: normal normal normal 12pt 'Tahoma';  color: black; line-height: 1; }
-body.wysiwyg p { margin: 0; line-height: 24px; }
-.dynamic-object-text p { line-height: 24px; }
+.text-tab-content hr { border-color: rgba(0, 0, 0, 1); }body.wysiwyg { padding: 3px; font: normal normal normal 14pt 'Montserrat';  color: black; line-height: 1; }
+body.wysiwyg p { margin: 0; line-height: 28px; }
+.dynamic-object-text p { line-height: 28px; }
 
 
 /* Page Title */
-#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 14pt 'Tahoma'; color: rgba(54, 71, 79, 1); background-color: transparent; text-decoration: none; text-align: left; }
+#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 14pt 'Montserrat'; color: rgba(54, 71, 79, 1); background-color: transparent; text-decoration: none; text-align: left; }
 #imPgTitle, .imPgTitle { border-width: 0 0 0 0; border-style: solid; border-color: transparent transparent transparent transparent; }
 #imPgTitle.imTitleMargin, .imPgTitle.imTitleMargin { margin-left: 6px; margin-right: 6px; }
 #imPgTitle, .imPgTitle { display: none; }
 
 
 /* Headings */
-.imHeading1 {font: normal normal bold 36pt 'Tahoma'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 72px; margin: 15px 0px 15px 0px;}
-.imHeading2 {font: normal normal bold 28pt 'Tahoma'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 56px; margin: 14px 0px 14px 0px;}
-.imHeading3 {font: normal normal bold 24pt 'Tahoma'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 48px; margin: 13px 0px 13px 0px;}
-.imHeading4 {font: normal normal bold 20pt 'Tahoma'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 40px; margin: 15px 0px 15px 0px;}
-.imHeading5 {font: normal normal bold 18pt 'Tahoma'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 36px; margin: 15px 0px 15px 0px;}
-.imHeading6 {font: normal normal bold 16pt 'Tahoma'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 32px; margin: 17px 0px 17px 0px;}
+.imHeading1 {font: normal normal bold 48pt 'Montserrat'; color: rgba(243, 243, 243, 1); text-decoration: none; text-align: left;  line-height: 96px; margin: 15px 0px 15px 0px;}
+.imHeading2 {font: normal normal bold 28pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 56px; margin: 14px 0px 14px 0px;}
+.imHeading3 {font: normal normal bold 24pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 48px; margin: 13px 0px 13px 0px;}
+.imHeading4 {font: normal normal bold 20pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 40px; margin: 15px 0px 15px 0px;}
+.imHeading5 {font: normal normal bold 18pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 36px; margin: 15px 0px 15px 0px;}
+.imHeading6 {font: normal normal bold 16pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 32px; margin: 17px 0px 17px 0px;}
 
 
 /* Breadcrumb */
 .imBreadcrumb, #imBreadcrumb { display: none; }
-.imBreadcrumb, .imBreadcrumb a, #imBreadcrumb, #imBreadcrumb a { padding-top: 2px; padding-bottom: 2px; font: normal normal normal 7pt 'Tahoma'; color: rgba(159, 171, 176, 1); background-color: transparent; text-decoration: none; text-align: left; }
+.imBreadcrumb, .imBreadcrumb a, #imBreadcrumb, #imBreadcrumb a { padding-top: 2px; padding-bottom: 2px; font: normal normal normal 7pt 'Montserrat'; color: rgba(159, 171, 176, 1); background-color: transparent; text-decoration: none; text-align: left; }
 .imBreadcrumb, #imBreadcrumb { border-width: 0 0 0 0; border-style: solid; border-color: transparent transparent transparent transparent}
 .imBreadcrumb a, .imBreadcrumb a:link, .imBreadcrumb a:hover, .imBreadcrumb a:visited, .imBreadcrumb a:active { color: rgba(159, 171, 176, 1); display: inline-block; }
 
@@ -154,7 +154,7 @@ body.wysiwyg p { margin: 0; line-height: 24px; }
 #imPage input[type=text], #imPage input[type=password], #imPage input[type=email], #imPage input[type=tel], textarea, span.textarea, #cart-container .user-form select { font: inherit; border-style: solid; border-width: 1px 1px 1px 1px; border-color: rgba(159, 171, 176, 1) rgba(159, 171, 176, 1) rgba(159, 171, 176, 1) rgba(159, 171, 176, 1); background-color: rgba(255, 255, 255, 1); color: rgba(0, 0, 0, 1); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;padding: 10px 10px 10px 10px; box-shadow: none; box-sizing: border-box; }
 #imPage input[type=text].captchaInvalid, #imPage input[type=text].mandatoryInvalid, #imPage input[type=password].mandatoryInvalid, #imPage input[type=email].mandatoryInvalid, #imPage input[type=tel].mandatoryInvalid, textarea.mandatoryInvalid, span.textarea.mandatoryInvalid { border-color: red; }
 textarea { resize: none; }
-#imPage input[type=button], #imPage input[type=submit], #imPage input[type=reset], #imPage button.imButton {padding: 10px 10px 10px 10px; cursor: pointer; font: inherit; background-color: rgba(54, 71, 79, 1); color: rgba(255, 255, 255, 1); border-style: solid; border-width: 0px 0px 0px 0px; border-color: rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;box-sizing: content-box; -webkit-appearance: none; }
+#imPage input[type=button], #imPage input[type=submit], #imPage input[type=reset], #imPage button.imButton {padding: 10px 10px 10px 10px; cursor: pointer; font: inherit; background-color: rgba(67, 67, 67, 1); color: rgba(255, 255, 255, 1); border-style: solid; border-width: 0px 0px 0px 0px; border-color: rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1); border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px;box-sizing: content-box; -webkit-appearance: none; }
 .search_form input { border-radius: 0; }
 input[type=button], input[type=submit], input[type=reset], button { -webkit-appearance: none; }
 .pagination-container { text-align: center; margin: 10px 0; box-sizing: border-box; }
@@ -162,12 +162,15 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 .pagination-container .page { margin: 0 1px; padding: 5px 8px; border-radius: 3px; background-color: transparent; color: rgba(0, 0, 0, 1); text-decoration: none; transition: color 0.2s linear, background-color 0.2s linear; cursor: pointer;}
 .pagination-container .page:hover  { background-color: transparent; color: rgba(0, 191, 191, 1); }
 .pagination-container .page.current  { background-color: transparent; color: rgba(0, 191, 191, 1); }
-.imNoScript { position: absolute; top: 5px; left: 5%; width: 90%; font: normal normal normal 12pt 'Tahoma'; text-decoration: none; text-align: left; }
+.imNoScript { position: absolute; top: 5px; left: 5%; width: 90%; font: normal normal normal 14pt 'Montserrat'; text-decoration: none; text-align: left; }
 
 /* Tip */
 .imTip { position: absolute; z-index: 100201; margin: 0 auto; padding: 10px; background-color: rgba(255, 255, 255, 1); border-style: solid; border-width: 1px 1px 1px 1px; border-color: rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;}
-.imTip { opacity: 0; }
-.imTip.imTipVisible { opacity: 1; }
+.imTip { opacity: 0; transition: opacity 1s; }
+@keyframes imTipTopBounce { 0% { transform: translateY(-200px); } 50% { transform: translateY(0); } 70% { transform: translateY(-20px); } 90% { transform: translateY(0); } 95% { transform: translateY(-3px); } 100% { transform: translateY(0); } }@keyframes imTipBottomBounce { 0% { transform: translateY(200px); } 50% { transform: translateY(0); } 70% { transform: translateY(20px); } 90% { transform: translateY(0); } 95% { transform: translateY(3px); } 100% { transform: translateY(0); } }@keyframes imTipLeftBounce { 0% { transform: translateX(-200px); } 50% { transform: translateX(0); } 70% { transform: translateX(-20px); } 90% { transform: translateX(0); } 95% { transform: translateX(-3px); } 100% { transform: translateX(0); } }@keyframes imTipRightBounce { 0% { transform: translateX(200px); } 50% { transform: translateX(0); } 70% { transform: translateX(20px); } 90% { transform: translateX(0); } 95% { transform: translateX(3px); } 100% { transform: translateX(0); } }.imTip.imTipTop.imTipVisible { opacity: 1; animation: 1s imTipTopBounce; }
+.imTip.imTipBottom.imTipVisible { opacity: 1; animation: 1s imTipBottomBounce; }
+.imTip.imTipLeft.imTipVisible { opacity: 1; animation: 1s imTipLeftBounce; }
+.imTip.imTipRight.imTipVisible { opacity: 1; animation: 1s imTipRightBounce; }
 .imTipArrowBorder, .imTipArrow { border-style: solid; height: 0; width: 0; position: absolute; }
 .imTip.imTipTop>.imTipArrowBorder { border-color: rgba(55, 71, 79, 1) transparent transparent transparent; border-width: 11px 11px 0px 11px; top: 100%; left: calc(50% - 11px); }
 .imTip.imTipTop>.imTipArrow { border-color: rgba(255, 255, 255, 1) transparent transparent transparent; border-width: 10px 10px 0px 10px; top: 100%; left: calc(50% - 10px); }
@@ -177,7 +180,7 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 .imTip.imTipLeft>.imTipArrow { border-color: transparent transparent transparent rgba(255, 255, 255, 1); border-width: 10px 0px 10px 10px; left: 100%; top: calc(50% - 10px); }
 .imTip.imTipRight>.imTipArrowBorder { border-color: transparent rgba(55, 71, 79, 1) transparent transparent; border-width: 11px 11px 11px 0px; right: 100%; top: calc(50% - 11px); }
 .imTip.imTipRight>.imTipArrow { border-color: transparent rgba(255, 255, 255, 1) transparent transparent; border-width: 10px 10px 10px 0px; right: 100%; top: calc(50% - 10px); }
-.imTipContent { width: 100%; font: normal normal normal 10pt 'Tahoma'; color: rgba(55, 71, 79, 1); background-color: rgba(255, 255, 255, 1); text-decoration: none; text-align: center;  }
+.imTipContent { width: 100%; font: normal normal normal 10pt 'Montserrat'; color: rgba(7, 55, 99, 1); background-color: rgba(255, 255, 255, 1); text-decoration: none; text-align: center;  }
 .imTipContent img { margin-bottom: 6px; max-width: 100%; }
 .imTip.textLeft .imTipContent { text-align: left; }
 
@@ -200,7 +203,7 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 
 
 /* Popup */
-#imGuiPopUp { padding: 20px; position: fixed; background-color: rgba(55, 71, 79, 1); border-style: solid; border-width: 0px 0px 0px 0px; border-color: rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;font: normal normal normal 12pt 'Tahoma'; color: rgba(0, 0, 0, 1); background-color: rgba(255, 255, 255, 1); text-decoration: none; text-align: left; }
+#imGuiPopUp { padding: 20px; position: fixed; background-color: rgba(55, 71, 79, 1); border-style: solid; border-width: 0px 0px 0px 0px; border-color: rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;font: normal normal normal 12pt 'Montserrat'; color: rgba(0, 0, 0, 1); background-color: rgba(243, 243, 243, 1); text-decoration: none; text-align: left; }
 .imGuiButton { margin-top: 20px; margin-left: auto; margin-right: auto; text-align: center;  width: 80px; cursor: pointer; background-color: #444; color: white; padding: 5px; font-size: 14px; font-family: Arial; }
 #imGuiPopUpBg { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(55, 71, 79, 1); }
 .alertbox { cursor: default; text-align: center; padding: 0; }
