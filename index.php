@@ -48,8 +48,8 @@
 ]</script>
 	</head>
 	<body>
-		<div id="fb-root"></div>
-		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="6ZdS3oPY"></script>
+		<div id="fb-root">
+			<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="gkiKVyLY"></script></div>
 		<div id="imPageExtContainer">
 			<div id="imPageIntContainer">
 				<div id="imHeaderBg"></div>
@@ -686,7 +686,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 						</script>
 						<div id="imCell_46" class=""  data-responsive-sequence-number="20"> <div id="imCellStyleGraphics_46"></div><div id="imCellStyleBorders_46"></div><div id="GuestBookObject_46">
-						<div id="fb-root"></div><div class="fb-comments" data-href="https://sicnetdgo.github.io/CAED/index.php" data-numposts="3" data-width="100%" data-colorscheme="light"></div><script>$(".fb-comments").attr("data-href", location.href);(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.6";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script></div>
+						<div id="fb-root"></div><div class="fb-comments" data-href="https://www.facebook.com/profile.php?id=100063497119371" data-width="100%" data-numposts="3"></div>
 						</div><div id="imPageRow_6" class="imPageRow imParallax">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_6" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
 						</div>
