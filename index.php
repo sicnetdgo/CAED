@@ -20,10 +20,10 @@
 		<link rel="stylesheet" href="style/style.css?2022-1-2-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-1-2-0" media="screen" />
 		<link rel="stylesheet" href="pluginAppObj/pluginAppObj_39/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/index.css?2022-1-2-0-637861707123981630" media="screen,print" />
+		<link rel="stylesheet" href="pcss/index.css?2022-1-2-0-637861692677953215" media="screen,print" />
 		<script src="res/jquery.js?2022-1-2-0"></script>
 		<script src="res/x5engine.js?2022-1-2-0" data-files-version="2022-1-2-0"></script>
-		<script src="res/x5engine.offline.js?2022-1-2-0-637861707122861985"></script>
+		<script src="res/x5engine.offline.js?2022-1-2-0-637861692676545873"></script>
 		<script src="pluginAppObj/pluginAppObj_39/main.js"></script>
 		<script>x5engine.boot.push(function () { x5engine.image.activateLazyLoading(); });</script>
 		<script>
@@ -33,7 +33,7 @@
 			x5engine.boot.push(function () { x5engine.imageSequence.start(); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2022-1-2-0-637861707123160566" type="image/png" />
+		<link rel="icon" href="favicon.png?2022-1-2-0-637861692676859911" type="image/png" />
 		<link rel="alternate" type="application/rss+xml" title="" href="blog/x5feed.php" />
 		<script type="application/ld+json">[
 	{
@@ -48,6 +48,8 @@
 ]</script>
 	</head>
 	<body>
+		<div id="fb-root"></div>
+		<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v13.0" nonce="6ZdS3oPY"></script>
 		<div id="imPageExtContainer">
 			<div id="imPageIntContainer">
 				<div id="imHeaderBg"></div>
@@ -684,7 +686,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 						</script>
 						<div id="imCell_46" class=""  data-responsive-sequence-number="20"> <div id="imCellStyleGraphics_46"></div><div id="imCellStyleBorders_46"></div><div id="GuestBookObject_46">
-						<div id="fb-root"></div><div class="fb-comments" data-href="http://127.0.0.1:8080/index.php" data-numposts="3" data-width="100%" data-colorscheme="light"></div><script>$(".fb-comments").attr("data-href", location.href);(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.6";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script></div>
+						<div id="fb-root"></div><div class="fb-comments" data-href="https://sicnetdgo.github.io/CAED/index.php" data-numposts="3" data-width="100%" data-colorscheme="light"></div><script>$(".fb-comments").attr("data-href", location.href);(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.6";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script></div>
 						</div><div id="imPageRow_6" class="imPageRow imParallax">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_6" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
 						</div>
