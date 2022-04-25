@@ -78,11 +78,11 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #imFooter_imCellStyleGraphics_1 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imFooter_imCellStyleBorders_1 { position: absolute; top: 0px; bottom: 0px; }
 #imFooter_imTextObject_01 { width: 100%; }
-#imFooter_imTextObject_01 { font-style: normal; font-weight: normal; line-height: 28px; }
-#imFooter_imTextObject_01_tab0 div { line-height: 28px; }
+#imFooter_imTextObject_01 { font-style: normal; font-weight: normal; line-height: 32px; }
+#imFooter_imTextObject_01_tab0 div { line-height: 32px; }
 #imFooter_imTextObject_01_tab0 .imHeading1 { line-height: 96px; }
-#imFooter_imTextObject_01_tab0 .imHeading2 { line-height: 56px; }
-#imFooter_imTextObject_01_tab0 .imHeading3 { line-height: 48px; }
+#imFooter_imTextObject_01_tab0 .imHeading2 { line-height: 72px; }
+#imFooter_imTextObject_01_tab0 .imHeading3 { line-height: 56px; }
 #imFooter_imTextObject_01_tab0 .imHeading4 { line-height: 40px; }
 #imFooter_imTextObject_01_tab0 .imHeading5 { line-height: 36px; }
 #imFooter_imTextObject_01_tab0 .imHeading6 { line-height: 32px; }
@@ -128,11 +128,11 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #imFooter_imCellStyleGraphics_7 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imFooter_imCellStyleBorders_7 { position: absolute; top: 0px; bottom: 0px; }
 #imFooter_imTableObject_07 { width: 100%; }
-#imFooter_imTableObject_07 { font-style: normal; font-weight: normal; line-height: 28px; }
-#imFooter_imTableObject_07_tab0 div { line-height: 28px; }
+#imFooter_imTableObject_07 { font-style: normal; font-weight: normal; line-height: 32px; }
+#imFooter_imTableObject_07_tab0 div { line-height: 32px; }
 #imFooter_imTableObject_07_tab0 .imHeading1 { line-height: 96px; }
-#imFooter_imTableObject_07_tab0 .imHeading2 { line-height: 56px; }
-#imFooter_imTableObject_07_tab0 .imHeading3 { line-height: 48px; }
+#imFooter_imTableObject_07_tab0 .imHeading2 { line-height: 72px; }
+#imFooter_imTableObject_07_tab0 .imHeading3 { line-height: 56px; }
 #imFooter_imTableObject_07_tab0 .imHeading4 { line-height: 40px; }
 #imFooter_imTableObject_07_tab0 .imHeading5 { line-height: 36px; }
 #imFooter_imTableObject_07_tab0 .imHeading6 { line-height: 32px; }
@@ -173,7 +173,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 #image-2{ width: 144px; height: 37px; }
 #image-3{ width: 79px; height: 44px; }
 #image-4{ width: 129px; height: 49px; }
-#image-5{ width: 131px; height: 43px; }
+#image-6{ width: 143px; height: 47px; }
 #imFooter_imTableObject_07 .text-container {width: 100%;}#imFooter_imTableObject_07 .text-container {margin: 0 auto; position: relative;overflow: hidden; display: -ms-grid; display: grid; -ms-grid-template-rows: 1fr; grid-template-rows: 1fr; -ms-grid-template-columns: 1fr; grid-template-columns: 1fr; background-color: rgba(255, 255, 255, 1); border-style: solid;border-color: rgba(169, 169, 169, 1); }
 #imFooter_imTableObject_07 .text-container .grid-prop.current-tab {z-index: 1; opacity: 1;  }
 #imFooter_imTableObject_07 .text-container .grid-prop {-ms-grid-column: 1; -ms-grid-row: 1; grid-area: 1 / 1 / 2 / 2; opacity: 0; box-sizing: border-box; position: relative;  }
@@ -553,7 +553,7 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 	#imFooter_imCellStyleGraphics_1 { left: 0px; right: 0px; }
 	#imFooter_imCellStyleBorders_1 { left: 0px; right: 0px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; }
 	#imFooter_imTextObject_01 .text-container {border-width: 0 1px 1px 1px;box-sizing: border-box;width: 100%;}
-	#imFooter_imTableObject_07_wrapper { position: absolute; top: 50px; left: 0px; width: 1150px; height: 60px; text-align: center; z-index: 1003; overflow: hidden; }
+	#imFooter_imTableObject_07_wrapper { position: absolute; top: 50px; left: 0px; width: 1150px; height: 80px; text-align: center; z-index: 1003; overflow: hidden; }
 	#imFooter_imCell_7 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
 	#imFooter_imCell_7 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imFooter_imTableObject_07 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }

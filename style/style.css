@@ -114,15 +114,15 @@
 
 
 /* Page default */
-#imPage { font: normal normal normal 14pt 'Montserrat'; color: rgba(0, 0, 0, 1); background-color: transparent; text-decoration: none; text-align: left; }
+#imPage { font: normal normal normal 16pt 'Montserrat'; color: rgba(243, 243, 243, 1); background-color: transparent; text-decoration: none; text-align: left; }
 .text-tab-content { text-align: left; }
-.text-tab-content hr { border-color: rgba(0, 0, 0, 1); }body.wysiwyg { padding: 3px; font: normal normal normal 14pt 'Montserrat';  color: black; line-height: 1; }
-body.wysiwyg p { margin: 0; line-height: 28px; }
-.dynamic-object-text p { line-height: 28px; }
+.text-tab-content hr { border-color: rgba(243, 243, 243, 1); }body.wysiwyg { padding: 3px; font: normal normal normal 16pt 'Montserrat';  color: black; line-height: 1; }
+body.wysiwyg p { margin: 0; line-height: 32px; }
+.dynamic-object-text p { line-height: 32px; }
 
 
 /* Page Title */
-#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 14pt 'Montserrat'; color: rgba(54, 71, 79, 1); background-color: transparent; text-decoration: none; text-align: left; }
+#imPgTitle, #imPgTitle a, .imPgTitle, .imPgTitle a { padding-top: 2px; padding-bottom: 2px; margin: 5px 0; font: normal normal bold 14pt 'Montserrat'; color: rgba(67, 67, 67, 1); background-color: transparent; text-decoration: none; text-align: left; }
 #imPgTitle, .imPgTitle { border-width: 0 0 0 0; border-style: solid; border-color: transparent transparent transparent transparent; }
 #imPgTitle.imTitleMargin, .imPgTitle.imTitleMargin { margin-left: 6px; margin-right: 6px; }
 #imPgTitle, .imPgTitle { display: none; }
@@ -130,8 +130,8 @@ body.wysiwyg p { margin: 0; line-height: 28px; }
 
 /* Headings */
 .imHeading1 {font: normal normal bold 48pt 'Montserrat'; color: rgba(243, 243, 243, 1); text-decoration: none; text-align: left;  line-height: 96px; margin: 15px 0px 15px 0px;}
-.imHeading2 {font: normal normal bold 28pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 56px; margin: 14px 0px 14px 0px;}
-.imHeading3 {font: normal normal bold 24pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 48px; margin: 13px 0px 13px 0px;}
+.imHeading2 {font: normal normal normal 36pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 72px; margin: 14px 0px 14px 0px;}
+.imHeading3 {font: normal normal bold 28pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 56px; margin: 13px 0px 13px 0px;}
 .imHeading4 {font: normal normal bold 20pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 40px; margin: 15px 0px 15px 0px;}
 .imHeading5 {font: normal normal bold 18pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 36px; margin: 15px 0px 15px 0px;}
 .imHeading6 {font: normal normal bold 16pt 'Montserrat'; color: rgba(54, 71, 79, 1); text-decoration: none; text-align: left;  line-height: 32px; margin: 17px 0px 17px 0px;}
@@ -145,12 +145,12 @@ body.wysiwyg p { margin: 0; line-height: 28px; }
 
 
 /* Links */
-.imCssLink:link, .imCssLink { background-color: transparent; color: rgba(0, 191, 191, 1); text-decoration: none; transition: color 0.2s linear, background-color 0.2s linear;}
-.imCssLink:visited { background-color: transparent; color: rgba(0, 128, 128, 1); text-decoration: none; }
-.imCssLink:hover, .imCssLink:active, .imCssLink:hover, .imCssLink:active { background-color: transparent; color: rgba(0, 191, 191, 1); text-decoration: underline; }
-.imAbbr:link { background-color: transparent; color: rgba(0, 191, 191, 1); text-decoration: none; }
-.imAbbr:visited { background-color: transparent; color: rgba(0, 128, 128, 1); text-decoration: none; }
-.imAbbr:hover, .imAbbr:active { background-color: transparent; color: rgba(0, 191, 191, 1); border-bottom: 1px dotted rgba(0, 191, 191, 1); text-decoration: none; }
+.imCssLink:link, .imCssLink { background-color: transparent; color: rgba(61, 133, 198, 1); text-decoration: none; transition: color 0.2s linear, background-color 0.2s linear;}
+.imCssLink:visited { background-color: transparent; color: rgba(164, 194, 244, 1); text-decoration: none; }
+.imCssLink:hover, .imCssLink:active, .imCssLink:hover, .imCssLink:active { background-color: transparent; color: rgba(159, 197, 232, 1); text-decoration: underline; }
+.imAbbr:link { background-color: transparent; color: rgba(61, 133, 198, 1); text-decoration: none; }
+.imAbbr:visited { background-color: transparent; color: rgba(164, 194, 244, 1); text-decoration: none; }
+.imAbbr:hover, .imAbbr:active { background-color: transparent; color: rgba(159, 197, 232, 1); border-bottom: 1px dotted rgba(159, 197, 232, 1); text-decoration: none; }
 #imPage input[type=text], #imPage input[type=password], #imPage input[type=email], #imPage input[type=tel], textarea, span.textarea, #cart-container .user-form select { font: inherit; border-style: solid; border-width: 1px 1px 1px 1px; border-color: rgba(159, 171, 176, 1) rgba(159, 171, 176, 1) rgba(159, 171, 176, 1) rgba(159, 171, 176, 1); background-color: rgba(255, 255, 255, 1); color: rgba(0, 0, 0, 1); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;padding: 10px 10px 10px 10px; box-shadow: none; box-sizing: border-box; }
 #imPage input[type=text].captchaInvalid, #imPage input[type=text].mandatoryInvalid, #imPage input[type=password].mandatoryInvalid, #imPage input[type=email].mandatoryInvalid, #imPage input[type=tel].mandatoryInvalid, textarea.mandatoryInvalid, span.textarea.mandatoryInvalid { border-color: red; }
 textarea { resize: none; }
@@ -159,10 +159,10 @@ textarea { resize: none; }
 input[type=button], input[type=submit], input[type=reset], button { -webkit-appearance: none; }
 .pagination-container { text-align: center; margin: 10px 0; box-sizing: border-box; }
 .pagination-container .dots-page { margin: 0 3px; padding: 0; }
-.pagination-container .page { margin: 0 1px; padding: 5px 8px; border-radius: 3px; background-color: transparent; color: rgba(0, 0, 0, 1); text-decoration: none; transition: color 0.2s linear, background-color 0.2s linear; cursor: pointer;}
-.pagination-container .page:hover  { background-color: transparent; color: rgba(0, 191, 191, 1); }
-.pagination-container .page.current  { background-color: transparent; color: rgba(0, 191, 191, 1); }
-.imNoScript { position: absolute; top: 5px; left: 5%; width: 90%; font: normal normal normal 14pt 'Montserrat'; text-decoration: none; text-align: left; }
+.pagination-container .page { margin: 0 1px; padding: 5px 8px; border-radius: 3px; background-color: transparent; color: rgba(243, 243, 243, 1); text-decoration: none; transition: color 0.2s linear, background-color 0.2s linear; cursor: pointer;}
+.pagination-container .page:hover  { background-color: transparent; color: rgba(159, 197, 232, 1); }
+.pagination-container .page.current  { background-color: transparent; color: rgba(61, 133, 198, 1); }
+.imNoScript { position: absolute; top: 5px; left: 5%; width: 90%; font: normal normal normal 16pt 'Montserrat'; text-decoration: none; text-align: left; }
 
 /* Tip */
 .imTip { position: absolute; z-index: 100201; margin: 0 auto; padding: 10px; background-color: rgba(255, 255, 255, 1); border-style: solid; border-width: 1px 1px 1px 1px; border-color: rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;}
@@ -219,7 +219,7 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 #welcome-flags div { display: inline-block; margin: 10px; }
 #welcome-mediaplayertarget { overflow: hidden; }
 .prt_field { display: none; }
-.topic-summary { display: flex; flex-flow: row wrap; justify-content: space-around; align-items: center; align-content: center; margin-bottom: 5px; padding: 10px 0; border-width: 1px 0; border-style: solid; border-color: rgba(35, 35, 35, 0.5); }
+.topic-summary { display: flex; flex-flow: row wrap; justify-content: space-around; align-items: center; align-content: center; margin-bottom: 5px; padding: 10px 0; border-width: 1px 0; border-style: solid; border-color: rgba(208, 208, 208, 0.5); }
 .topic-average { flex-grow: 1; box-sizing: border-box; padding: 0 5px; text-align: center; min-width: 250px; }
 .topic-average .rating-value { display: flex; align-self: center; justify-content: center; align-items: center; font-weight: bold; }
 .topic-average .rating-value .big { font-size: 64px; font-weight: 100; line-height: 64px; }
@@ -231,7 +231,7 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 .topic-bar .bar-star-n .star { width: 32px; position: unset; background-repeat: no-repeat; background-position: center; }
 .topic-bar .bar-progress { width: 100%; max-width: 100%; height: 12px; }
 .topic-bar .bar-progress > span { width: 50%; max-width: 100%; background-color: red; height: 100%; display: block; }
-.topic-bar .bar-total { padding: 0 10px; font-size: 0.95em; border-radius: 6px; border: 1px solid rgba(35, 35, 35, 0.5); }
+.topic-bar .bar-total { padding: 0 10px; font-size: 0.95em; border-radius: 6px; border: 1px solid rgba(208, 208, 208, 0.5); }
 .topic-add-review { flex-grow: 1; box-sizing: border-box; text-align: center; padding: 5px; min-width: 250px; }
 .topic-form { text-align: left; max-height: 0; overflow: hidden; transition: max-height 0.5s ease-in; }
 .topic-form.offline { margin-bottom: 0; }
@@ -264,7 +264,7 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 .topic-form-row .topic-form-item.rating label { margin-bottom: 0; width: auto; margin-right: 1em; }
 .topic-form-row .topic-form-item label { display: block; width: 100%; margin-bottom: 0.5em; }
 .topic-form-row .topic-form-item input { width: 100%; }
-.topic-comment { box-sizing: border-box; margin: 0 0 10px 0; padding: 10px; border-radius: 3px 3px 3px 3px; border: 1px solid rgba(35, 35, 35, 0.5); }
+.topic-comment { box-sizing: border-box; margin: 0 0 10px 0; padding: 10px; border-radius: 3px 3px 3px 3px; border: 1px solid rgba(208, 208, 208, 0.5); }
 .topic-comment-count { font-weight: bold; margin: 10px 0 7px; }
 .topic-comment-user { margin-bottom: 5px; font-weight: bold; }
 .topic-comment-user > span { word-wrap: break-word; overflow: hidden; }
@@ -272,7 +272,7 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 .topic-comment-abuse { margin: 5px 0 0 0; border: none; text-align: right; visibility: hidden; }
 .topic-comment:hover .topic-comment-abuse, .topic-comment .topic-comment-abuse.mobile { visibility: visible; }
 .topic-comment-abuse:hover { text-decoration: underline; }
-.topic-comment-abuse > a { font-size: 0.8em; text-decoration: none; color: rgba(0, 0, 0, 0.7); }
+.topic-comment-abuse > a { font-size: 0.8em; text-decoration: none; color: rgba(243, 243, 243, 0.7); }
 .topic-comment-date { margin-bottom: 5px; display: block; }
 .topic-comment-info-body { display: flex; }
 .topic-comment-info-body .topic-comment-body { word-wrap: break-word; overflow: hidden; }

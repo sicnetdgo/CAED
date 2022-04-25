@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <fileversions wsx5-version="2022.1.2.0" wsx5-edition="Professional Demo" wsx5-circuit="">
-	<file id="132917944815692493-0000001A7" version="771" path="res/search.inc.php" />
-	<file id="132947334759993529-000002D85" version="8" path="res/blog.inc.php" />
-	<file id="132947334760003520-000002D88" version="8" path="blog/x5blog.js" />
-	<file id="132947883785539124-000002DAE" version="1" path="blog/x5feed.php" />
-	<page id="-5" lastmodified="2022-04-20 15:27:24" path="blog/index.html" upath="blog/index.php" construction="False" />
+	<file id="132917944815692493-0000001A7" version="813" path="res/search.inc.php" />
+	<file id="132947334759993529-000002D85" version="11" path="res/blog.inc.php" />
+	<file id="132947334760003520-000002D88" version="11" path="blog/x5blog.js" />
+	<file id="132947883785539124-000002DAE" version="4" path="blog/x5feed.php" />
+	<page id="-5" lastmodified="2022-04-25 11:29:16" path="blog/index.html" upath="blog/index.php" construction="False" />
 </fileversions>

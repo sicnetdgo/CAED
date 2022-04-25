@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100");
+#MUNICIPIOS_AGUA_SALUDABLEStage {
+                  width:1920px;
+			      height:1080px;
+			      transform-origin: top left;
+			      transition: all 100ms ease-in-out !important;
+			      position: absolute;  
+			    }
