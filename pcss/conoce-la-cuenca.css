@@ -201,26 +201,26 @@ max-height: 100%; position: absolute; top: 0; bottom: 0; left: 3px; margin: auto
 html.no-cssanimations .animable { visibility: visible; }
 .animable.animated { visibility: visible; -webkit-animation-fill-mode: both;  animation-fill-mode: both; -webkit-animation-delay: 0s; animation-delay: 0s; }
 :-webkit-full-screen-ancestor{ animation-fill-mode: none !important; }
-#imPageRowGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 1; }
-#imPageRowGraphics_1 { background: transparent url('../images/IMG_0632.jpg') no-repeat center center; background-size: cover; }
+#imPageRowGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0.95; }
+#imPageRowGraphics_1 { background-color: rgba(67, 67, 67, 1); }
 #imCell_8 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imTextObject_11_08 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_8 { position: absolute; top: 0px; bottom: 0px; background-color: rgba(243, 243, 243, 1); opacity: 0.3; }
 #imCellStyleBorders_8 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_8.animated {   -webkit-animation-duration: 4000ms;
-  animation-duration: 4000ms;
+html:not(.no-cssanimations) #imCell_8.animated {   -webkit-animation-duration: 3000ms;
+  animation-duration: 3000ms;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
-@-webkit-keyframes imCell_8-anim-fadeInDown {
-	0% { opacity: 0;    -webkit-transform: translate3d(0, -100%, 0);    transform: translate3d(0, -100%, 0); }
+@-webkit-keyframes imCell_8-anim-fadeInLeft {
+	0% { opacity: 0;    -webkit-transform: translate3d(-100%, 0, 0);    transform: translate3d(-100%, 0, 0); }
 	100% { opacity: 1;    -webkit-transform: none;    transform: none; }
 }
-@keyframes imCell_8-anim-fadeInDown {
-	0% { opacity: 0;    -webkit-transform: translate3d(0, -100%, 0);    transform: translate3d(0, -100%, 0); }
+@keyframes imCell_8-anim-fadeInLeft {
+	0% { opacity: 0;    -webkit-transform: translate3d(-100%, 0, 0);    transform: translate3d(-100%, 0, 0); }
 	100% { opacity: 1;    -webkit-transform: none;    transform: none; }
 }
-#imCell_8.animated.fadeInDown {  -webkit-animation-name: imCell_8-anim-fadeInDown;  animation-name: imCell_8-anim-fadeInDown; }
+#imCell_8.animated.fadeInLeft {  -webkit-animation-name: imCell_8-anim-fadeInLeft;  animation-name: imCell_8-anim-fadeInLeft; }
 #imPage.imCell_8_animation-in-progress { overflow: hidden }
 #imTextObject_11_08 { width: 100%; }
 #imTextObject_11_08 { font-style: normal; font-weight: normal; line-height: 32px; }
@@ -271,7 +271,7 @@ html:not(.no-cssanimations) #imCell_8.animated {   -webkit-animation-duration: 4
 #imTextObject_11_08 .text-container .text-tab-content.detach {position: absolute; top: 0; left: 0; width: 100%; display: none; }
 #imCell_5 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_11_05 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_5 { position: absolute; top: 0px; bottom: 5px; background-color: transparent; }
+#imCellStyleGraphics_5 { position: absolute; top: 0px; bottom: 5px; background-color: rgba(241, 194, 50, 1); }
 #imCellStyleBorders_5 { position: absolute; top: 0px; bottom: 5px; }
 html:not(.no-cssanimations) #imCell_5.animated {   -webkit-animation-duration: 4000ms;
   animation-duration: 4000ms;
@@ -292,7 +292,7 @@ html:not(.no-cssanimations) #imCell_5.animated {   -webkit-animation-duration: 4
 #imObjectImage_11_05 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_11_05 #imObjectImage_11_05_container img { width: 100%; vertical-align: top; }#imCell_4 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_11_04 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_4 { position: absolute; top: 0px; bottom: 5px; background-color: transparent; }
+#imCellStyleGraphics_4 { position: absolute; top: 0px; bottom: 5px; background-color: rgba(78, 58, 110, 1); }
 #imCellStyleBorders_4 { position: absolute; top: 0px; bottom: 5px; }
 html:not(.no-cssanimations) #imCell_4.animated {   -webkit-animation-duration: 6000ms;
   animation-duration: 6000ms;
@@ -313,7 +313,7 @@ html:not(.no-cssanimations) #imCell_4.animated {   -webkit-animation-duration: 6
 #imObjectImage_11_04 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_11_04 #imObjectImage_11_04_container img { width: 100%; vertical-align: top; }#imCell_6 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_11_06 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_6 { position: absolute; top: 0px; bottom: 5px; background-color: transparent; }
+#imCellStyleGraphics_6 { position: absolute; top: 0px; bottom: 5px; background-color: rgba(28, 69, 135, 1); }
 #imCellStyleBorders_6 { position: absolute; top: 0px; bottom: 5px; }
 html:not(.no-cssanimations) #imCell_6.animated {   -webkit-animation-duration: 5000ms;
   animation-duration: 5000ms;
@@ -334,8 +334,8 @@ html:not(.no-cssanimations) #imCell_6.animated {   -webkit-animation-duration: 5
 #imObjectImage_11_06 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_11_06 #imObjectImage_11_06_container img { width: 100%; vertical-align: top; }#imCell_3 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_11_03 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_3 { position: absolute; top: 0px; bottom: 5px; background-color: transparent; }
-#imCellStyleBorders_3 { position: absolute; top: 0px; bottom: 5px; }
+#imCellStyleGraphics_3 { position: absolute; top: 0px; bottom: 55px; background-color: rgba(76, 17, 48, 1); }
+#imCellStyleBorders_3 { position: absolute; top: 0px; bottom: 55px; }
 html:not(.no-cssanimations) #imCell_3.animated {   -webkit-animation-duration: 5000ms;
   animation-duration: 5000ms;
   -webkit-animation-iteration-count: 1;
@@ -355,8 +355,8 @@ html:not(.no-cssanimations) #imCell_3.animated {   -webkit-animation-duration: 5
 #imObjectImage_11_03 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_11_03 #imObjectImage_11_03_container img { width: 100%; vertical-align: top; }#imCell_7 { -ms-grid-columns: 100%; grid-template-columns: 100%; position: relative; box-sizing: border-box; }
 #imObjectImage_11_07 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
-#imCellStyleGraphics_7 { position: absolute; top: 0px; bottom: 5px; background-color: transparent; }
-#imCellStyleBorders_7 { position: absolute; top: 0px; bottom: 5px; }
+#imCellStyleGraphics_7 { position: absolute; top: 0px; bottom: 55px; background-color: rgba(19, 79, 92, 1); }
+#imCellStyleBorders_7 { position: absolute; top: 0px; bottom: 55px; }
 html:not(.no-cssanimations) #imCell_7.animated {   -webkit-animation-duration: 6000ms;
   animation-duration: 6000ms;
   -webkit-animation-iteration-count: 1;
@@ -397,12 +397,12 @@ html:not(.no-cssanimations) #imCell_7.animated {   -webkit-animation-duration: 6
 	#imObjectImage_11_06 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_6 { left: 0px; right: 5px; }
 	#imCellStyleBorders_6 { left: 0px; right: 5px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 1); }
-	#imCell_3 { padding-top: 0px; padding-bottom: 5px; padding-left: 0px; padding-right: 5px; }
+	#imCell_3 { padding-top: 0px; padding-bottom: 55px; padding-left: 0px; padding-right: 5px; }
 	#imCell_3 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_11_03 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_3 { left: 0px; right: 5px; }
 	#imCellStyleBorders_3 { left: 0px; right: 5px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 1); }
-	#imCell_7 { padding-top: 0px; padding-bottom: 5px; padding-left: 0px; padding-right: 5px; }
+	#imCell_7 { padding-top: 0px; padding-bottom: 55px; padding-left: 0px; padding-right: 5px; }
 	#imCell_7 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_11_07 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_7 { left: 0px; right: 5px; }
@@ -433,12 +433,12 @@ html:not(.no-cssanimations) #imCell_7.animated {   -webkit-animation-duration: 6
 	#imObjectImage_11_06 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_6 { left: 0px; right: 5px; }
 	#imCellStyleBorders_6 { left: 0px; right: 5px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 1); }
-	#imCell_3 { padding-top: 0px; padding-bottom: 5px; padding-left: 0px; padding-right: 5px; }
+	#imCell_3 { padding-top: 0px; padding-bottom: 55px; padding-left: 0px; padding-right: 5px; }
 	#imCell_3 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_11_03 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_3 { left: 0px; right: 5px; }
 	#imCellStyleBorders_3 { left: 0px; right: 5px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 1); }
-	#imCell_7 { padding-top: 0px; padding-bottom: 5px; padding-left: 0px; padding-right: 5px; }
+	#imCell_7 { padding-top: 0px; padding-bottom: 55px; padding-left: 0px; padding-right: 5px; }
 	#imCell_7 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_11_07 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_7 { left: 0px; right: 5px; }
@@ -469,12 +469,12 @@ html:not(.no-cssanimations) #imCell_7.animated {   -webkit-animation-duration: 6
 	#imObjectImage_11_06 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_6 { left: 0px; right: 5px; }
 	#imCellStyleBorders_6 { left: 0px; right: 5px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 1); }
-	#imCell_3 { padding-top: 0px; padding-bottom: 5px; padding-left: 0px; padding-right: 5px; }
+	#imCell_3 { padding-top: 0px; padding-bottom: 55px; padding-left: 0px; padding-right: 5px; }
 	#imCell_3 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_11_03 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_3 { left: 0px; right: 5px; }
 	#imCellStyleBorders_3 { left: 0px; right: 5px; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 1); }
-	#imCell_7 { padding-top: 0px; padding-bottom: 5px; padding-left: 0px; padding-right: 5px; }
+	#imCell_7 { padding-top: 0px; padding-bottom: 55px; padding-left: 0px; padding-right: 5px; }
 	#imCell_7 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imObjectImage_11_07 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCellStyleGraphics_7 { left: 0px; right: 5px; }
@@ -501,14 +501,14 @@ html:not(.no-cssanimations) #imCell_7.animated {   -webkit-animation-duration: 6
 	#imObjectImage_11_06 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCell_6 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
 	#imCellStyleGraphics_6 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imCell_3 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCell_3 { padding-top: 0px; padding-bottom: 50px; padding-left: 0px; padding-right: 0px; }
 	#imObjectImage_11_03 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCell_3 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_3 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
-	#imCell_7 { padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; }
+	#imCellStyleGraphics_3 { top: 0px; bottom: 50px; left: 0px; right: 0px; box-sizing: border-box; }
+	#imCell_7 { padding-top: 0px; padding-bottom: 50px; padding-left: 0px; padding-right: 0px; }
 	#imObjectImage_11_07 { padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; }
 	#imCell_7 { -ms-grid-rows: 100%; grid-template-rows: 100%; }
-	#imCellStyleGraphics_7 { top: 0px; bottom: 0px; left: 0px; right: 0px; box-sizing: border-box; }
+	#imCellStyleGraphics_7 { top: 0px; bottom: 50px; left: 0px; right: 0px; box-sizing: border-box; }
 	
 }
 

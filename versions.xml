@@ -12,7 +12,7 @@
 	<file id="132917944815692493-00000019B" version="1" path="res\x5engine.deferrable.js" />
 	<file id="132917944815692493-00000019C" version="1" path="res\modernizr-custom.js" />
 	<file id="132917944815692493-00000019D" version="1" path="res\x5cartengine.js" />
-	<file id="132917944815692493-00000019E" version="216" path="res/x5settings.php" />
+	<file id="132917944815692493-00000019E" version="240" path="res/x5settings.php" />
 	<file id="132917944815692493-00000019F" version="1" path="res\imemail.inc.php" />
 	<file id="132917944815692493-0000001A0" version="1" path="res\class.phpmailer.php" />
 	<file id="132917944815692493-0000001A1" version="1" path="res\class.smtp.php" />
@@ -21,7 +21,7 @@
 	<file id="132917944815692493-0000001A4" version="1" path="res\masonry.pkgd.min.js" />
 	<file id="132917944815692493-0000001A5" version="1" path="res\swiper-bundle.min.js" />
 	<file id="132917944815692493-0000001A6" version="1" path="res\swiper-bundle.min.css" />
-	<file id="132917944815692493-0000001A7" version="813" path="res/search.inc.php" />
+	<file id="132917944815692493-0000001A7" version="847" path="res/search.inc.php" />
 	<file id="132917944815692493-0000001A8" version="1" path="res/emailtemplates\address.csv.template.php" />
 	<file id="132917944815692493-0000001A9" version="1" path="res/emailtemplates\digitalshipping.html.template.php" />
 	<file id="132917944815692493-0000001AA" version="1" path="res/emailtemplates\digitalshipping.text.template.php" />
@@ -258,8 +258,8 @@
 	<file id="132921726918593690-0000007AB" version="1" path="imObjectAnimation_3_10\WA_SCRIPT_fzmt7gyg.js" />
 	<file id="132921733910078051-0000007AE" version="4" path="imObjectAnimation_3_10\info ca¤on fdez_q44iecrh.png" />
 	<file id="132921733910537899-0000007AF" version="4" path="imObjectAnimation_3_10\WA_SCRIPT_5eoqyqzq.js" />
-	<file id="132921777422479428-0000007CB" version="763" path="sitemap.xml" />
-	<file id="132921927735570368-00000089F" version="1136" path="style/fonts/Avenir-Regular.ttf" />
+	<file id="132921777422479428-0000007CB" version="797" path="sitemap.xml" />
+	<file id="132921927735570368-00000089F" version="1137" path="style/fonts/Avenir-Regular.ttf" />
 	<file id="132921964136624345-0000008E2" version="1" path="gallery\IMGL5256.jpg" />
 	<file id="132921964136644350-0000008E3" version="1" path="gallery\IMGL5093.jpg" />
 	<file id="132921964136654368-0000008E4" version="1" path="gallery\IMGL5097.jpg" />
@@ -364,220 +364,6 @@
 	<file id="132924842457390260-000000D50" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\custom_bmjjl0lr.css" />
 	<file id="132924842457400245-000000D51" version="1" path="pluginAppObj/imStickyBar_pluginAppObj_02\main_h48mo7n8.js" />
 	<file id="132925260463275524-000000E53" version="1" path="images\banner_presa_el_palmito.png" />
-	<file id="132925280799900957-000000EC0" version="3" path="images\IMG_6509_cpccm6x2.jpg" />
-	<file id="132925280799910953-000000EC1" version="3" path="images\banner_distrito_017.png" />
-	<file id="132925327274034735-00000139F" version="2" path="images\IMG_1552.jpg" />
-	<file id="132925327274044733-0000013A0" version="2" path="images\banner_presa_fco_zarco.png" />
-	<file id="132925330087280017-0000013E9" version="1" path="gallery\15-julio-2010-049_thumb.png" />
-	<file id="132925330087290009-0000013EA" version="1" path="gallery\IMG_1448_thumb.png" />
-	<file id="132925330087290009-0000013EB" version="1" path="gallery\IMG_1450_thumb.png" />
-	<file id="132925330087290009-0000013EC" version="1" path="gallery\IMG_1454_thumb.png" />
-	<file id="132925330087290009-0000013ED" version="1" path="gallery\IMG_1466_thumb.png" />
-	<file id="132925330087290009-0000013EE" version="1" path="gallery\IMG_1485_thumb.png" />
-	<file id="132925330087290009-0000013EF" version="1" path="gallery\IMG_1493_thumb.png" />
-	<file id="132925330087290009-0000013F0" version="1" path="gallery\IMG_1495_thumb.png" />
-	<file id="132925330087290009-0000013F1" version="1" path="gallery\IMG_1624_thumb.png" />
-	<file id="132925330087290009-0000013F2" version="1" path="gallery\IMG_1691_thumb.png" />
-	<file id="132925330087290009-0000013F3" version="1" path="gallery\IMG_1695_thumb.png" />
-	<file id="132925330087290009-0000013F4" version="1" path="gallery\IMG_1696_thumb.png" />
-	<file id="132925330087290009-0000013F5" version="1" path="gallery\IMG_1699_thumb.png" />
-	<file id="132925330087290009-0000013F6" version="1" path="gallery\IMG_1708_thumb.png" />
-	<file id="132925330087290009-0000013F7" version="1" path="gallery\IMG_3547_thumb.png" />
-	<file id="132925330087300021-0000013F8" version="1" path="gallery\15-julio-2010-049.jpg" />
-	<file id="132925330087300021-0000013F9" version="1" path="gallery\IMG_1448.jpg" />
-	<file id="132925330087300021-0000013FA" version="1" path="gallery\IMG_1450.jpg" />
-	<file id="132925330087310016-0000013FB" version="1" path="gallery\IMG_1454.jpg" />
-	<file id="132925330087310016-0000013FC" version="1" path="gallery\IMG_1466.jpg" />
-	<file id="132925330087310016-0000013FD" version="1" path="gallery\IMG_1485.jpg" />
-	<file id="132925330087320012-0000013FE" version="1" path="gallery\IMG_1493.jpg" />
-	<file id="132925330087320012-0000013FF" version="1" path="gallery\IMG_1495.jpg" />
-	<file id="132925330087320012-000001400" version="1" path="gallery\IMG_1624.jpg" />
-	<file id="132925330087320012-000001401" version="1" path="gallery\IMG_1691.jpg" />
-	<file id="132925330087330008-000001402" version="1" path="gallery\IMG_1695.jpg" />
-	<file id="132925330087330008-000001403" version="1" path="gallery\IMG_1696.jpg" />
-	<file id="132925330087330008-000001404" version="1" path="gallery\IMG_1699.jpg" />
-	<file id="132925330087340005-000001405" version="1" path="gallery\IMG_1708.jpg" />
-	<file id="132925330087340005-000001406" version="1" path="gallery\IMG_3547.jpg" />
-	<file id="132925332312220577-000001407" version="2" path="images\15-julio-2010-049.jpg" />
-	<file id="132925332312220577-000001408" version="2" path="images\banner_rio_nazas.png" />
-	<file id="132925336597637126-00000153A" version="1" path="gallery\DSC00005_thumb.png" />
-	<file id="132925336597647148-00000153B" version="1" path="gallery\DSC09961_thumb.png" />
-	<file id="132925336597647148-00000153C" version="1" path="gallery\IMG_0563_thumb_lk452ynt.png" />
-	<file id="132925336597657145-00000153D" version="1" path="gallery\IMG_0589_thumb.png" />
-	<file id="132925336597667146-00000153E" version="1" path="gallery\IMG_0596_thumb.png" />
-	<file id="132925336597667146-00000153F" version="1" path="gallery\IMG_0615_thumb.png" />
-	<file id="132925336597667146-000001540" version="1" path="gallery\IMG_0632_thumb.png" />
-	<file id="132925336597677135-000001541" version="1" path="gallery\IMG_0768_thumb_owqhuxv2.png" />
-	<file id="132925336597697125-000001542" version="1" path="gallery\IMG_0790_thumb.png" />
-	<file id="132925336597707129-000001543" version="1" path="gallery\IMG_0804_thumb.png" />
-	<file id="132925336597707129-000001544" version="1" path="gallery\IMG_0822_thumb_3djk5dph.png" />
-	<file id="132925336597717124-000001545" version="1" path="gallery\IMG_0893_thumb.png" />
-	<file id="132925336597717124-000001546" version="1" path="gallery\IMG_1011_thumb_ca1vh7ce.png" />
-	<file id="132925336597727116-000001547" version="1" path="gallery\IMG_1049_thumb.png" />
-	<file id="132925336597727116-000001548" version="1" path="gallery\IMG_1137_thumb.png" />
-	<file id="132925336597727116-000001549" version="1" path="gallery\IMG_1483_thumb.png" />
-	<file id="132925336597737116-00000154A" version="1" path="gallery\IMG_1498_thumb.png" />
-	<file id="132925336597737116-00000154B" version="1" path="gallery\IMG_1567_thumb.png" />
-	<file id="132925336597747110-00000154C" version="1" path="gallery\IMG_1572_thumb.png" />
-	<file id="132925336597747110-00000154D" version="1" path="gallery\IMG_1577_thumb.png" />
-	<file id="132925336597757107-00000154E" version="1" path="gallery\IMG_1579_thumb.png" />
-	<file id="132925336597757107-00000154F" version="1" path="gallery\IMG_1583_thumb.png" />
-	<file id="132925336597767107-000001550" version="1" path="gallery\IMG_1595_thumb.png" />
-	<file id="132925336597767107-000001551" version="1" path="gallery\IMG_1596_thumb.png" />
-	<file id="132925336597777931-000001552" version="1" path="gallery\IMG_6614_thumb.png" />
-	<file id="132925336597777931-000001553" version="1" path="gallery\IMG_6617_thumb.png" />
-	<file id="132925336597777931-000001554" version="1" path="gallery\IMG_6619_thumb.png" />
-	<file id="132925336597777931-000001555" version="1" path="gallery\IMG_6620_thumb.png" />
-	<file id="132925336597777931-000001556" version="1" path="gallery\IMGL4905_thumb_noyr7s29.png" />
-	<file id="132925336597777931-000001557" version="1" path="gallery\IMGL4906_thumb.png" />
-	<file id="132925336597777931-000001558" version="1" path="gallery\IMGL4909_thumb.png" />
-	<file id="132925336597777931-000001559" version="1" path="gallery\IMGL4918_thumb.png" />
-	<file id="132925336597777931-00000155A" version="1" path="gallery\IMGL4921_thumb.png" />
-	<file id="132925336597777931-00000155B" version="1" path="gallery\IMGL4924_thumb.png" />
-	<file id="132925336597777931-00000155C" version="1" path="gallery\IMGL4930_thumb.png" />
-	<file id="132925336597777931-00000155D" version="1" path="gallery\IMGL4933_thumb.png" />
-	<file id="132925336597777931-00000155E" version="1" path="gallery\IMGL4937_thumb.png" />
-	<file id="132925336597777931-00000155F" version="1" path="gallery\IMGL4940_thumb_d2qc0rt9.png" />
-	<file id="132925336597777931-000001560" version="1" path="gallery\IMGL4957_thumb_3e48o2q7.png" />
-	<file id="132925336597777931-000001561" version="1" path="gallery\IMGL4960_thumb.png" />
-	<file id="132925336597777931-000001562" version="1" path="gallery\IMGL4963_thumb.png" />
-	<file id="132925336597777931-000001563" version="1" path="gallery\IMGL4971_thumb.png" />
-	<file id="132925336597777931-000001564" version="1" path="gallery\IMGL4973_thumb.png" />
-	<file id="132925336597777931-000001565" version="1" path="gallery\IMGL4984_thumb.png" />
-	<file id="132925336597777931-000001566" version="1" path="gallery\IMGL4988_thumb.png" />
-	<file id="132925336597777931-000001567" version="1" path="gallery\IMGL4991_thumb.png" />
-	<file id="132925336597777931-000001568" version="1" path="gallery\IMGL4995_thumb.png" />
-	<file id="132925336597777931-000001569" version="1" path="gallery\IMGL5007_thumb.png" />
-	<file id="132925336597777931-00000156A" version="1" path="gallery\IMGL5013_thumb.png" />
-	<file id="132925336597777931-00000156B" version="1" path="gallery\IMGL5023_thumb.png" />
-	<file id="132925336597777931-00000156C" version="1" path="gallery\IMGL5026_thumb.png" />
-	<file id="132925336597777931-00000156D" version="1" path="gallery\IMGL5030_thumb.png" />
-	<file id="132925336597777931-00000156E" version="1" path="gallery\IMGL5412_thumb.png" />
-	<file id="132925336597777931-00000156F" version="1" path="gallery\IMGL5419_thumb.png" />
-	<file id="132925336597777931-000001570" version="1" path="gallery\IMGL5421_thumb.png" />
-	<file id="132925336597777931-000001571" version="1" path="gallery\IMGL5430_thumb.png" />
-	<file id="132925336597934215-000001572" version="1" path="gallery\IMGL5434_thumb.png" />
-	<file id="132925336597934215-000001573" version="1" path="gallery\IMGL5438_thumb.png" />
-	<file id="132925336597934215-000001574" version="1" path="gallery\IMGL5446_thumb_umssxrbh.png" />
-	<file id="132925336597934215-000001575" version="1" path="gallery\IMGL5463_thumb.png" />
-	<file id="132925336597934215-000001576" version="1" path="gallery\IMGL5471_thumb.png" />
-	<file id="132925336597934215-000001577" version="1" path="gallery\DSC00005.jpg" />
-	<file id="132925336597934215-000001578" version="1" path="gallery\DSC09961.jpg" />
-	<file id="132925336597934215-000001579" version="1" path="gallery\IMG_0563_kbu6z4ub.jpg" />
-	<file id="132925336597934215-00000157A" version="1" path="gallery\IMG_0589.jpg" />
-	<file id="132925336597934215-00000157B" version="1" path="gallery\IMG_0596.jpg" />
-	<file id="132925336597934215-00000157C" version="1" path="gallery\IMG_0615.jpg" />
-	<file id="132925336597934215-00000157D" version="1" path="gallery\IMG_0632.jpg" />
-	<file id="132925336597934215-00000157E" version="1" path="gallery\IMG_0768_ba73mcgl.jpg" />
-	<file id="132925336597934215-00000157F" version="1" path="gallery\IMG_0790.jpg" />
-	<file id="132925336597934215-000001580" version="1" path="gallery\IMG_0804.jpg" />
-	<file id="132925336597934215-000001581" version="1" path="gallery\IMG_0822_gsr334pk.jpg" />
-	<file id="132925336597934215-000001582" version="1" path="gallery\IMG_0893_xqxkz9bl.jpg" />
-	<file id="132925336597934215-000001583" version="1" path="gallery\IMG_1011_r8spwnaz.jpg" />
-	<file id="132925336597934215-000001584" version="1" path="gallery\IMG_1049.jpg" />
-	<file id="132925336597934215-000001585" version="1" path="gallery\IMG_1137.jpg" />
-	<file id="132925336597934215-000001586" version="1" path="gallery\IMG_1483.jpg" />
-	<file id="132925336597934215-000001587" version="1" path="gallery\IMG_1498.jpg" />
-	<file id="132925336597934215-000001588" version="1" path="gallery\IMG_1567.jpg" />
-	<file id="132925336598090468-000001589" version="1" path="gallery\IMG_1572.jpg" />
-	<file id="132925336598090468-00000158A" version="1" path="gallery\IMG_1577.jpg" />
-	<file id="132925336598090468-00000158B" version="1" path="gallery\IMG_1579.jpg" />
-	<file id="132925336598090468-00000158C" version="1" path="gallery\IMG_1583.jpg" />
-	<file id="132925336598090468-00000158D" version="1" path="gallery\IMG_1595.jpg" />
-	<file id="132925336598090468-00000158E" version="1" path="gallery\IMG_1596.jpg" />
-	<file id="132925336598090468-00000158F" version="1" path="gallery\IMG_6614.jpg" />
-	<file id="132925336598090468-000001590" version="1" path="gallery\IMG_6617.jpg" />
-	<file id="132925336598090468-000001591" version="1" path="gallery\IMG_6619.jpg" />
-	<file id="132925336598090468-000001592" version="1" path="gallery\IMG_6620.jpg" />
-	<file id="132925336598090468-000001593" version="1" path="gallery\IMGL4905_jswevnkh.jpg" />
-	<file id="132925336598090468-000001594" version="1" path="gallery\IMGL4906.jpg" />
-	<file id="132925336598090468-000001595" version="1" path="gallery\IMGL4909.jpg" />
-	<file id="132925336598090468-000001596" version="1" path="gallery\IMGL4918.jpg" />
-	<file id="132925336598090468-000001597" version="1" path="gallery\IMGL4921.jpg" />
-	<file id="132925336598090468-000001598" version="1" path="gallery\IMGL4924.jpg" />
-	<file id="132925336598090468-000001599" version="1" path="gallery\IMGL4930.jpg" />
-	<file id="132925336598090468-00000159A" version="1" path="gallery\IMGL4933.jpg" />
-	<file id="132925336598090468-00000159B" version="1" path="gallery\IMGL4937.jpg" />
-	<file id="132925336598090468-00000159C" version="1" path="gallery\IMGL4940_56b5z7ef.jpg" />
-	<file id="132925336598090468-00000159D" version="1" path="gallery\IMGL4957_l9886ab1.jpg" />
-	<file id="132925336598246712-00000159E" version="1" path="gallery\IMGL4960.jpg" />
-	<file id="132925336598246712-00000159F" version="1" path="gallery\IMGL4963.jpg" />
-	<file id="132925336598246712-0000015A0" version="1" path="gallery\IMGL4971.jpg" />
-	<file id="132925336598246712-0000015A1" version="1" path="gallery\IMGL4973.jpg" />
-	<file id="132925336598246712-0000015A2" version="1" path="gallery\IMGL4984.jpg" />
-	<file id="132925336598246712-0000015A3" version="1" path="gallery\IMGL4988.jpg" />
-	<file id="132925336598246712-0000015A4" version="1" path="gallery\IMGL4991.jpg" />
-	<file id="132925336598246712-0000015A5" version="1" path="gallery\IMGL4995.jpg" />
-	<file id="132925336598246712-0000015A6" version="1" path="gallery\IMGL5007.jpg" />
-	<file id="132925336598246712-0000015A7" version="1" path="gallery\IMGL5013.jpg" />
-	<file id="132925336598246712-0000015A8" version="1" path="gallery\IMGL5023.jpg" />
-	<file id="132925336598246712-0000015A9" version="1" path="gallery\IMGL5026.jpg" />
-	<file id="132925336598246712-0000015AA" version="1" path="gallery\IMGL5030.jpg" />
-	<file id="132925336598246712-0000015AB" version="1" path="gallery\IMGL5412.jpg" />
-	<file id="132925336598246712-0000015AC" version="1" path="gallery\IMGL5419.jpg" />
-	<file id="132925336598246712-0000015AD" version="1" path="gallery\IMGL5421.jpg" />
-	<file id="132925336598246712-0000015AE" version="1" path="gallery\IMGL5430.jpg" />
-	<file id="132925336598246712-0000015AF" version="1" path="gallery\IMGL5434.jpg" />
-	<file id="132925336598246712-0000015B0" version="1" path="gallery\IMGL5438.jpg" />
-	<file id="132925336598246712-0000015B1" version="1" path="gallery\IMGL5446_ylcekrot.jpg" />
-	<file id="132925336598246712-0000015B2" version="1" path="gallery\IMGL5463_irka7aoa.jpg" />
-	<file id="132925336598402963-0000015B3" version="1" path="gallery\IMGL5471.jpg" />
-	<file id="132925337887063101-0000015B4" version="3" path="images\IMG_1583_4s2hy1ex.jpg" />
-	<file id="132925337887063101-0000015B5" version="3" path="images\banner_canon_fdez.png" />
-	<file id="132927424918199459-0000018A6" version="1" path="appsresources\jssor.slider.min.js" />
-	<file id="132927424918199459-0000018A7" version="1" path="pluginAppObj/pluginAppObj_13_01\jssor.slider.css" />
-	<file id="132927424918199459-0000018A8" version="1" path="appsresources\examples\1.jpg" />
-	<file id="132927424918199459-0000018A9" version="1" path="appsresources\examples\2.jpg" />
-	<file id="132927424918199459-0000018AA" version="1" path="appsresources\examples\3.jpg" />
-	<file id="132927424918209446-0000018AB" version="1" path="appsresources\examples\4.jpg" />
-	<file id="132927424918209446-0000018AC" version="1" path="appsresources\examples\5.jpg" />
-	<file id="132927424918209446-0000018AD" version="1" path="appsresources\examples\6.jpg" />
-	<file id="132927424918209446-0000018AE" version="1" path="appsresources\examples\7.jpg" />
-	<file id="132927424918209446-0000018AF" version="1" path="appsresources\examples\8.jpg" />
-	<file id="132927424918229445-0000018B0" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-017.jpg" />
-	<file id="132927424918239438-0000018B1" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-018.jpg" />
-	<file id="132927424918249433-0000018B2" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-031.jpg" />
-	<file id="132927424918269425-0000018B3" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-047.jpg" />
-	<file id="132927424918279423-0000018B4" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-052.jpg" />
-	<file id="132927424918289420-0000018B5" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-075.jpg" />
-	<file id="132927424918299416-0000018B6" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-082.jpg" />
-	<file id="132927424918319417-0000018B7" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-124.jpg" />
-	<file id="132927424918329391-0000018B8" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-165.jpg" />
-	<file id="132927424918349407-0000018B9" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-177.jpg" />
-	<file id="132927424918359398-0000018BA" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-185.jpg" />
-	<file id="132927424918369393-0000018BB" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-194.jpg" />
-	<file id="132927424918379389-0000018BC" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-195.jpg" />
-	<file id="132927424918389387-0000018BD" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-234.jpg" />
-	<file id="132927424918409379-0000018BE" version="1" path="pluginAppObj/pluginAppObj_13_01\100_6906.jpg" />
-	<file id="132927424918419382-0000018BF" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1366.jpg" />
-	<file id="132927424918429382-0000018C0" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1369.jpg" />
-	<file id="132927424918439371-0000018C1" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1371.jpg" />
-	<file id="132927424918459363-0000018C2" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1378.jpg" />
-	<file id="132927424918469360-0000018C3" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1385.jpg" />
-	<file id="132927424918479357-0000018C4" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1387.jpg" />
-	<file id="132927424918489353-0000018C5" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1388.jpg" />
-	<file id="132927424918509338-0000018C6" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1390.jpg" />
-	<file id="132927424918529325-0000018C7" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1396.jpg" />
-	<file id="132927424918539342-0000018C8" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1399.jpg" />
-	<file id="132927424918559330-0000018C9" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1400.jpg" />
-	<file id="132927424918569327-0000018CA" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1404.jpg" />
-	<file id="132927424918579325-0000018CB" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1407.jpg" />
-	<file id="132927424918589321-0000018CC" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1410.jpg" />
-	<file id="132927424918609313-0000018CD" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1411.jpg" />
-	<file id="132927424918619318-0000018CE" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1418.jpg" />
-	<file id="132927424918629312-0000018CF" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1422.jpg" />
-	<file id="132927424918639304-0000018D0" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1432.jpg" />
-	<file id="132927424918659297-0000018D1" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_6515.jpg" />
-	<file id="132927453288873639-0000018D4" version="2" path="images\IMG_1390_oocfkby0.jpg" />
-	<file id="132927453288873639-0000018D5" version="2" path="images\banner_presa_el_palmito_i2zbbkxp.png" />
-	<file id="132928185881341267-000001AA7" version="1" path="style/content_slider/bullets.png" />
-	<file id="132928185881351264-000001AA8" version="1" path="images\IMG_1550.jpg" />
-	<file id="132928185881371240-000001AA9" version="1" path="images\IMG_1550_pdol9mid.jpg" />
-	<file id="132928185881381227-000001AAA" version="1" path="images\IMGL5100.jpg" />
-	<file id="132928185881392175-000001AAB" version="1" path="images\IMGL5164_zhazpwq6.jpg" />
-	<file id="132928185881392175-000001AAC" version="1" path="images\IMGL5232.jpg" />
-	<file id="132928185881392175-000001AAD" version="1" path="images\IMGL5357.jpg" />
-	<file id="132928185881392175-000001AAE" version="1" path="images\IMGL5192_74li6bnq.jpg" />
 	<file id="132928761278622889-000001ACF" version="1" path="imObjectAnimation_9_01\CUENCA_NAZAS-1.html" />
 	<file id="132928761278622889-000001AD0" version="1" path="imObjectAnimation_9_01\ani_323jf1gr.css" />
 	<file id="132928761278622889-000001AD1" version="1" path="imObjectAnimation_9_01\imgl4984.jpg" />
@@ -637,7 +423,6 @@
 	<file id="132933424875470455-000001FD1" version="35" path="images\IMG_1590.jpg" />
 	<file id="132933924460290199-0000020DA" version="1" path="images\IMG_0615.jpg" />
 	<file id="132934874676105850-00000221E" version="26" path="images\DSC00005.jpg" />
-	<file id="132934979597866978-000002523" version="1" path="images\IMG_0632.jpg" />
 	<file id="132939233404811741-000002892" version="1" path="images\GOBIERNO-DE-MEXICO.png" />
 	<file id="132939302513217254-000002962" version="40" path="images\logos_gob_dgo_caed.png" />
 	<file id="132939372007992307-000002AB1" version="16" path="images\IMG_1396.jpg" />
@@ -657,15 +442,7 @@
 	<file id="132946867657601322-000002CEB" version="5" path="imObjectAnimation_10_01\WA_SCRIPT.js" />
 	<file id="132946868233987597-000002CEC" version="36" path="images\FONDO_ANIMACION_CUENCA_NAZAS_2.png" />
 	<file id="132946869038413450-000002CED" version="36" path="images\FONDO_ANIMACION_AGUA_SALUDABLE_2.png" />
-	<file id="132947334759993529-000002D85" version="11" path="res/blog.inc.php" />
-	<file id="132947334759993529-000002D87" version="11" path="blog/x5feed.xml" />
-	<file id="132947334760003520-000002D88" version="11" path="blog/x5blog.js" />
 	<file id="132947839075541970-000002DAD" version="1" path="style\template.css" />
-	<file id="132947883785539124-000002DAE" version="4" path="blog/x5feed.php" />
-	<file id="132947883785579117-000002DAF" version="5" path="images/star01-big-empty.png" />
-	<file id="132947883785579117-000002DB0" version="5" path="images/star01-big-full.png" />
-	<file id="132947883785579117-000002DB1" version="5" path="images/star01-small-empty.png" />
-	<file id="132947883785579117-000002DB2" version="5" path="images/star01-small-full.png" />
 	<file id="132947958845482712-000002DC0" version="1" path="images\IMG_1385.jpg" />
 	<file id="132947958845482712-000002DC1" version="1" path="images\banner_comic_CAED.png" />
 	<file id="132947958845482712-000002DC3" version="1" path="images\banner_acercate_eca.png" />
@@ -766,29 +543,6 @@
 	<file id="132949592969098969-000002EDC" version="1" path="pluginAppObj/pluginAppObj_6_50\custom.css" />
 	<file id="132949592969108964-000002EDD" version="1" path="pluginAppObj/pluginAppObj_6_50\main.js" />
 	<file id="132949592969108964-000002EDE" version="1" path="pluginAppObj/pluginAppObj_6_50\modernizr-custom-svg.js" />
-	<file id="132949593724167949-000002EDF" version="1" path="images\MAPA-AGUA-SALUDABLE-RENDER-12-04-22.png" />
-	<file id="132949593724324199-000002EE0" version="1" path="imObjectAnimation_9_01\ani.css" />
-	<file id="132949593724324199-000002EE1" version="1" path="imObjectAnimation_9_01\arroyo naitcha.mp3" />
-	<file id="132949593724324199-000002EE2" version="1" path="imObjectAnimation_9_01\arroyo naitcha.png" />
-	<file id="132949593724324199-000002EE3" version="1" path="imObjectAnimation_9_01\ca¤on fdez-1.png" />
-	<file id="132949593724324199-000002EE4" version="1" path="imObjectAnimation_9_01\fondo_animacion_cuenca_nazas_2.png" />
-	<file id="132949593724324199-000002EE5" version="1" path="imObjectAnimation_9_01\icono_audio.png" />
-	<file id="132949593724324199-000002EE6" version="1" path="imObjectAnimation_9_01\jaa_izquierda.png" />
-	<file id="132949593724324199-000002EE7" version="1" path="imObjectAnimation_9_01\jaa_izquierda11.png" />
-	<file id="132949593724324199-000002EE8" version="1" path="imObjectAnimation_9_01\jaa_izquierda_2.png" />
-	<file id="132949593724480488-000002EE9" version="1" path="imObjectAnimation_9_01\presa fco zarco.png" />
-	<file id="132949593724480488-000002EEA" version="1" path="imObjectAnimation_9_01\presa lazaro cardenas.png" />
-	<file id="132949593724480488-000002EEB" version="1" path="imObjectAnimation_9_01\rio del pe¤on.png" />
-	<file id="132949593724480488-000002EEC" version="1" path="imObjectAnimation_9_01\rio nazas-1.png" />
-	<file id="132949593724480488-000002EED" version="1" path="imObjectAnimation_9_01\rio ramos.png" />
-	<file id="132949593724480488-000002EEE" version="1" path="imObjectAnimation_9_01\rio santiago.png" />
-	<file id="132949593724545601-000002EEF" version="1" path="imObjectAnimation_9_01\rio sextin.png" />
-	<file id="132949593724545601-000002EF0" version="1" path="imObjectAnimation_9_01\rio tepehuanes.png" />
-	<file id="132949593724545601-000002EF1" version="1" path="imObjectAnimation_9_01\rio_nazas.mp3" />
-	<file id="132949593724545601-000002EF2" version="1" path="imObjectAnimation_9_01\rio_pe¤on.mp3" />
-	<file id="132949593724545601-000002EF3" version="1" path="imObjectAnimation_9_01\rio_ramos.mp3" />
-	<file id="132949593724545601-000002EF4" version="1" path="imObjectAnimation_9_01\rio_tepehuanes.mp3" />
-	<file id="132949593725014465-000002EF5" version="1" path="imObjectAnimation_9_01\WA_SCRIPT.js" />
 	<file id="132949600411628450-000002EF6" version="1" path="favicon.png" />
 	<file id="132951187932177989-000002F16" version="1" path="images\gota_agua_Nuestra_Pasion.png" />
 	<file id="132951197710426438-000002F1A" version="1" path="images\gota_agua_Agua_Saludable.png" />
@@ -818,17 +572,6 @@
 	<file id="132953293109533197-000002F72" version="1" path="files\LA_CUENCA_NAZAS_fs3f4zav.html" />
 	<file id="132953295335861539-000002F78" version="20" path="files\MAPA-AGUA-SUSTENTABLE.html" />
 	<file id="132953303832493105-000002F7D" version="12" path="files\LA_CUENCA_NAZAS.html" />
-	<file id="132953731705133047-000002F7E" version="1" path="captcha\imcpa_vmp.gif" />
-	<file id="132953731705133047-000002F7F" version="1" path="captcha\imcpa_m73.gif" />
-	<file id="132953731705133047-000002F80" version="1" path="captcha\imcpa_z2u.gif" />
-	<file id="132953731705133047-000002F81" version="1" path="captcha\imcpa_3ny.gif" />
-	<file id="132953731705133047-000002F82" version="1" path="captcha\imcpa_pnt.gif" />
-	<file id="132953731705133047-000002F83" version="1" path="captcha\imcpa_gw7.gif" />
-	<file id="132953731705133047-000002F84" version="1" path="captcha\imcpa_lek.gif" />
-	<file id="132953731705133047-000002F85" version="1" path="captcha\imcpa_nkr.gif" />
-	<file id="132953731705133047-000002F86" version="1" path="captcha\imcpa_z2k.gif" />
-	<file id="132953731705133047-000002F87" version="1" path="captcha\imcpa_wtp.gif" />
-	<file id="132953731705133047-000002F88" version="1" path="captcha\x5captcha.php" />
 	<file id="132953751273625009-000002F8C" version="1" path="images\IMG_1137_yfvomf8j.jpg" />
 	<file id="132953777515113862-000002FA5" version="1" path="images\GOBIERNO-DE-MEXICO_dly9bjwv.png" />
 	<file id="132953777515113862-000002FA6" version="1" path="images\MEDIO-AMBIENTE.png" />
@@ -836,18 +579,141 @@
 	<file id="132953777515113862-000002FA8" version="1" path="images\CULTURA-AGUA.png" />
 	<file id="132953777515113862-000002FA9" version="1" path="images\DURANGO-P-TODOS.png" />
 	<file id="132953777515123874-000002FAA" version="1" path="images\CAED.png" />
-	<page id="0" lastmodified="2022-04-25 11:29:16" path="index.html" upath="index.php" construction="False" />
-	<page id="-9" lastmodified="2022-04-25 11:29:16" path="imsearch.html" upath="imsearch.php" construction="False" />
-	<page id="3" lastmodified="2022-04-25 11:29:16" path="que-es-.html" upath="que-es-.html" construction="False" />
-	<page id="4" lastmodified="2022-04-25 11:29:26" path="agua-saludable.html" upath="agua-saludable.html" construction="False" />
-	<page id="6" lastmodified="2022-04-25 11:29:26" path="el-rio-nazas.html" upath="el-rio-nazas.html" construction="False" />
-	<page id="7" lastmodified="2022-04-25 11:29:16" path="mapas.html" upath="mapas.html" construction="False" />
-	<page id="9" lastmodified="2022-04-25 11:29:16" path="la-cuenca-del-nazas.html" upath="la-cuenca-del-nazas.html" construction="False" />
-	<page id="10" lastmodified="2022-04-25 11:29:16" path="agua-saludable-1.html" upath="agua-saludable-1.html" construction="False" />
-	<page id="11" lastmodified="2022-04-25 11:29:18" path="conoce-la-cuenca.html" upath="conoce-la-cuenca.html" construction="False" />
-	<page id="13" lastmodified="2022-04-25 11:29:18" path="p.-lazaro-cardenas.html" upath="p.-lazaro-cardenas.html" construction="False" />
-	<page id="14" lastmodified="2022-04-25 11:29:18" path="p.-fco-zarco.html" upath="p.-fco-zarco.html" construction="False" />
-	<page id="15" lastmodified="2022-04-25 11:29:26" path="rio-nazas.html" upath="rio-nazas.html" construction="False" />
-	<page id="16" lastmodified="2022-04-25 11:29:26" path="canon-fernandez.html" upath="canon-fernandez.html" construction="False" />
-	<page id="-5" lastmodified="2022-04-25 11:29:16" path="blog/index.html" upath="blog/index.php" construction="False" />
+	<file id="132954575511342725-00000300D" version="1" path="captcha\imcpa_ha7.gif" />
+	<file id="132954575511342725-00000300E" version="1" path="captcha\imcpa_uwk.gif" />
+	<file id="132954575511342725-00000300F" version="1" path="captcha\imcpa_w8k.gif" />
+	<file id="132954575511342725-000003010" version="1" path="captcha\imcpa_ga2.gif" />
+	<file id="132954575511342725-000003011" version="1" path="captcha\imcpa_lfw.gif" />
+	<file id="132954575511342725-000003012" version="1" path="captcha\imcpa_wy3.gif" />
+	<file id="132954575511342725-000003013" version="1" path="captcha\imcpa_fmz.gif" />
+	<file id="132954575511342725-000003014" version="1" path="captcha\imcpa_ta2.gif" />
+	<file id="132954575511342725-000003015" version="1" path="captcha\imcpa_zza.gif" />
+	<file id="132954575511342725-000003016" version="1" path="captcha\imcpa_52c.gif" />
+	<file id="132954575511342725-000003017" version="1" path="captcha\x5captcha.php" />
+	<file id="132954594908150983-0000031DD" version="37" path="appsresources\jssor.slider.min.js" />
+	<file id="132954594908150983-0000031DF" version="37" path="appsresources\examples\1.jpg" />
+	<file id="132954594908150983-0000031E0" version="37" path="appsresources\examples\2.jpg" />
+	<file id="132954594908150983-0000031E1" version="37" path="appsresources\examples\3.jpg" />
+	<file id="132954594908150983-0000031E2" version="37" path="appsresources\examples\4.jpg" />
+	<file id="132954594908150983-0000031E3" version="37" path="appsresources\examples\5.jpg" />
+	<file id="132954594908150983-0000031E4" version="37" path="appsresources\examples\6.jpg" />
+	<file id="132954594908150983-0000031E5" version="37" path="appsresources\examples\7.jpg" />
+	<file id="132954594908150983-0000031E6" version="37" path="appsresources\examples\8.jpg" />
+	<file id="132954602442346697-0000032E9" version="1" path="pluginAppObj/pluginAppObj_14_01\jssor.slider.css" />
+	<file id="132954602442466220-0000032EA" version="1" path="pluginAppObj/pluginAppObj_14_01\IMG_1539.jpg" />
+	<file id="132954602442506227-0000032EB" version="1" path="pluginAppObj/pluginAppObj_14_01\IMG_1545.jpg" />
+	<file id="132954602442506227-0000032EC" version="1" path="pluginAppObj/pluginAppObj_14_01\IMG_1550.jpg" />
+	<file id="132954602442506227-0000032ED" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5097.jpg" />
+	<file id="132954602442546216-0000032EE" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5100.jpg" />
+	<file id="132954602442546216-0000032EF" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5128.jpg" />
+	<file id="132954602442546216-0000032F0" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5159.jpg" />
+	<file id="132954602442546216-0000032F1" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5164.jpg" />
+	<file id="132954602442586223-0000032F2" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5173.jpg" />
+	<file id="132954602442586223-0000032F3" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5188.jpg" />
+	<file id="132954602442586223-0000032F4" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5192.jpg" />
+	<file id="132954602442626221-0000032F5" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5218.jpg" />
+	<file id="132954602442626221-0000032F6" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5256.jpg" />
+	<file id="132954602442626221-0000032F7" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5319.jpg" />
+	<file id="132954602442626221-0000032F8" version="1" path="pluginAppObj/pluginAppObj_14_01\IMGL5357.jpg" />
+	<file id="132954605007815844-00000333F" version="1" path="pluginAppObj/pluginAppObj_13_01\jssor.slider.css" />
+	<file id="132954605007815844-000003340" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-017.jpg" />
+	<file id="132954605007815844-000003341" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-018.jpg" />
+	<file id="132954605007855818-000003342" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-031.jpg" />
+	<file id="132954605007855818-000003343" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-047.jpg" />
+	<file id="132954605007855818-000003344" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-052.jpg" />
+	<file id="132954605007855818-000003345" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-075.jpg" />
+	<file id="132954605007895809-000003346" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-082.jpg" />
+	<file id="132954605007895809-000003347" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-124.jpg" />
+	<file id="132954605007895809-000003348" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-165.jpg" />
+	<file id="132954605007895809-000003349" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-177.jpg" />
+	<file id="132954605007935817-00000334A" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-185.jpg" />
+	<file id="132954605007975825-00000334B" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-194.jpg" />
+	<file id="132954605007975825-00000334C" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-195.jpg" />
+	<file id="132954605007975825-00000334D" version="1" path="pluginAppObj/pluginAppObj_13_01\15-julio-2010-234.jpg" />
+	<file id="132954605007975825-00000334E" version="1" path="pluginAppObj/pluginAppObj_13_01\100_6906.jpg" />
+	<file id="132954605008015808-00000334F" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1366.jpg" />
+	<file id="132954605008015808-000003350" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1369.jpg" />
+	<file id="132954605008015808-000003351" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1371.jpg" />
+	<file id="132954605008055816-000003352" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1378.jpg" />
+	<file id="132954605008055816-000003353" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1385.jpg" />
+	<file id="132954605008055816-000003354" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1387.jpg" />
+	<file id="132954605008055816-000003355" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1388.jpg" />
+	<file id="132954605008095806-000003356" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1390.jpg" />
+	<file id="132954605008095806-000003357" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1396.jpg" />
+	<file id="132954605008095806-000003358" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1399.jpg" />
+	<file id="132954605008135814-000003359" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1400.jpg" />
+	<file id="132954605008135814-00000335A" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1404.jpg" />
+	<file id="132954605008135814-00000335B" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1407.jpg" />
+	<file id="132954605008135814-00000335C" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1410.jpg" />
+	<file id="132954605008175807-00000335D" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1411.jpg" />
+	<file id="132954605008175807-00000335E" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1418.jpg" />
+	<file id="132954605008175807-00000335F" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1422.jpg" />
+	<file id="132954605008215808-000003360" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_1432.jpg" />
+	<file id="132954605008215808-000003361" version="1" path="pluginAppObj/pluginAppObj_13_01\IMG_6515.jpg" />
+	<file id="132954612070244196-0000033D2" version="1" path="pluginAppObj/pluginAppObj_15_01\jssor.slider.css" />
+	<file id="132954612070381488-0000033D3" version="1" path="pluginAppObj/pluginAppObj_15_01\15-julio-2010-049.jpg" />
+	<file id="132954612070381488-0000033D4" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1448.jpg" />
+	<file id="132954612070421485-0000033D5" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1450.jpg" />
+	<file id="132954612070421485-0000033D6" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1454.jpg" />
+	<file id="132954612070421485-0000033D7" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1466.jpg" />
+	<file id="132954612070461485-0000033D8" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1485.jpg" />
+	<file id="132954612070461485-0000033D9" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1493.jpg" />
+	<file id="132954612070461485-0000033DA" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1495.jpg" />
+	<file id="132954612070461485-0000033DB" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1624.jpg" />
+	<file id="132954612070501485-0000033DC" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1691.jpg" />
+	<file id="132954612070501485-0000033DD" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1695.jpg" />
+	<file id="132954612070501485-0000033DE" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1696.jpg" />
+	<file id="132954612070541490-0000033DF" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1699.jpg" />
+	<file id="132954612070541490-0000033E0" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_1708.jpg" />
+	<file id="132954612070541490-0000033E1" version="1" path="pluginAppObj/pluginAppObj_15_01\IMG_3547.jpg" />
+	<file id="132954621253356405-00000341A" version="1" path="pluginAppObj/pluginAppObj_16_01\jssor.slider.css" />
+	<file id="132954621253436396-00000341B" version="1" path="pluginAppObj/pluginAppObj_16_01\DSC00005.jpg" />
+	<file id="132954621253436396-00000341C" version="1" path="pluginAppObj/pluginAppObj_16_01\DSC09961.jpg" />
+	<file id="132954621253476396-00000341D" version="1" path="pluginAppObj/pluginAppObj_16_01\IMG_0563.jpg" />
+	<file id="132954621253476396-00000341E" version="1" path="pluginAppObj/pluginAppObj_16_01\IMG_0589.jpg" />
+	<file id="132954621253476396-00000341F" version="1" path="pluginAppObj/pluginAppObj_16_01\IMG_0596.jpg" />
+	<file id="132954621253516391-000003420" version="1" path="pluginAppObj/pluginAppObj_16_01\IMG_0822.jpg" />
+	<file id="132954621253516391-000003421" version="1" path="pluginAppObj/pluginAppObj_16_01\IMG_1137.jpg" />
+	<file id="132954621253516391-000003422" version="1" path="pluginAppObj/pluginAppObj_16_01\IMG_1583.jpg" />
+	<file id="132954621253556401-000003423" version="1" path="pluginAppObj/pluginAppObj_16_01\IMG_6617.jpg" />
+	<file id="132954621253556401-000003424" version="1" path="pluginAppObj/pluginAppObj_16_01\IMGL4984.jpg" />
+	<file id="132954621253556401-000003425" version="1" path="pluginAppObj/pluginAppObj_16_01\IMGL5419.jpg" />
+	<file id="132954621253596402-000003426" version="1" path="pluginAppObj/pluginAppObj_16_01\IMGL5434.jpg" />
+	<file id="132954621253596402-000003427" version="1" path="pluginAppObj/pluginAppObj_16_01\IMGL5471.jpg" />
+	<file id="132954625167369681-000003460" version="1" path="pluginAppObj/pluginAppObj_9_01\jssor.slider.css" />
+	<file id="132954625167489593-000003461" version="1" path="pluginAppObj/pluginAppObj_9_01\20181010_103016.jpg" />
+	<file id="132954625167489593-000003462" version="1" path="pluginAppObj/pluginAppObj_9_01\estanque.jpg" />
+	<file id="132954625167519927-000003463" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_1240.jpg" />
+	<file id="132954625167519927-000003464" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_1241.jpg" />
+	<file id="132954625167519927-000003465" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_5138.jpg" />
+	<file id="132954625167559669-000003466" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_5145.jpg" />
+	<file id="132954625167559669-000003467" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_5260.jpg" />
+	<file id="132954625167559669-000003468" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_5375.jpg" />
+	<file id="132954625167559669-000003469" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_5995.jpg" />
+	<file id="132954625167599660-00000346A" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_6509.jpg" />
+	<file id="132954625167599660-00000346B" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_6237.JPG" />
+	<file id="132954625167639667-00000346C" version="1" path="pluginAppObj/pluginAppObj_9_01\IMG_6724.JPG" />
+	<file id="132954625167639667-00000346D" version="1" path="pluginAppObj/pluginAppObj_9_01\multicompuertas.JPG" />
+	<file id="132954631374526477-00000347A" version="1" path="images\15-julio-2010-049.jpg" />
+	<file id="132954631374526477-00000347B" version="1" path="images\banner_rio_nazas.png" />
+	<file id="132954631610348900-00000347E" version="1" path="images\IMG_6509.jpg" />
+	<file id="132954631610348900-00000347F" version="1" path="images\banner_distrito_017.png" />
+	<file id="132954634259743498-000003480" version="1" path="images\IMG_1399_9w5e4qd8.jpg" />
+	<file id="132954634259743498-000003481" version="1" path="images\banner_presa_el_palmito_ekbw1m1o.png" />
+	<file id="132954634660975691-000003482" version="1" path="images\IMG_1547.jpg" />
+	<file id="132954634660975691-000003483" version="1" path="images\banner_presa_fco_zarco.png" />
+	<file id="132954635252039456-000003484" version="1" path="images\IMG_1137_urzmaaru.jpg" />
+	<file id="132954635252039456-000003485" version="1" path="images\banner_canon_fdez.png" />
+	<page id="0" lastmodified="2022-04-26 09:53:32" path="index.html" upath="index.php" construction="False" />
+	<page id="-9" lastmodified="2022-04-26 09:53:31" path="imsearch.html" upath="imsearch.php" construction="False" />
+	<page id="3" lastmodified="2022-04-26 09:53:32" path="que-es-.html" upath="que-es-.html" construction="False" />
+	<page id="4" lastmodified="2022-04-26 09:53:32" path="agua-saludable.html" upath="agua-saludable.html" construction="False" />
+	<page id="6" lastmodified="2022-04-26 09:53:39" path="el-rio-nazas.html" upath="el-rio-nazas.html" construction="False" />
+	<page id="7" lastmodified="2022-04-26 09:53:32" path="mapas.html" upath="mapas.html" construction="False" />
+	<page id="11" lastmodified="2022-04-26 11:25:33" path="conoce-la-cuenca.html" upath="conoce-la-cuenca.html" construction="False" />
+	<page id="13" lastmodified="2022-04-26 11:02:35" path="p.-lazaro-cardenas.html" upath="p.-lazaro-cardenas.html" construction="False" />
+	<page id="14" lastmodified="2022-04-26 11:02:35" path="p.-fco-zarco.html" upath="p.-fco-zarco.html" construction="False" />
+	<page id="15" lastmodified="2022-04-26 11:02:35" path="rio-nazas.html" upath="rio-nazas.html" construction="False" />
+	<page id="16" lastmodified="2022-04-26 11:02:35" path="canon-fernandez.html" upath="canon-fernandez.html" construction="False" />
+	<page id="9" lastmodified="2022-04-26 11:02:35" path="agroindustria.html" upath="agroindustria.html" construction="False" />
 </fileversions>
