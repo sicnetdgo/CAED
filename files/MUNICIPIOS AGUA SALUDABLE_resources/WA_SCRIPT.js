@@ -108,10 +108,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '-260px',
-                    'Left': '-90px',
-                    'Height': '694px',
-                    'Width': '802px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/ubicacion_municipios11.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'Left': '-85px',
+                    'Height': '860px',
+                    'Width': '1000px',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura agua saludable-2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -136,10 +136,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '947px',
-                    'Left': '18px',
-                    'Height': '142px',
-                    'Width': '114px',
+                    'Top': '945px',
+                    'Left': '13px',
+                    'Height': '177px',
+                    'Width': '142px',
                     'ZIndex': '2','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_tlahualilo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -165,10 +165,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '90px',
-                    'Left': '-7px',
-                    'Height': '204px',
-                    'Width': '152px',
+                    'Top': '89px',
+                    'Left': '-10px',
+                    'Height': '254px',
+                    'Width': '189px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_mapimi.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -194,10 +194,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '53px',
+                    'Top': '48px',
                     'Left': '355px',
-                    'Height': '57px',
-                    'Width': '58px',
+                    'Height': '71px',
+                    'Width': '72px',
                     'ZIndex': '4','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_gomezp.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -223,10 +223,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '978px',
-                    'Left': '886px',
-                    'Height': '94px',
-                    'Width': '88px',
+                    'Top': '980px',
+                    'Left': '892px',
+                    'Height': '116px',
+                    'Width': '108px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_lerdo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -254,8 +254,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Position': 'absolute',
                     'Top': '-26px',
                     'Left': '1794px',
-                    'Height': '161px',
-                    'Width': '82px',
+                    'Height': '200px',
+                    'Width': '103px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_fcomadero.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -281,10 +281,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '935px',
+                    'Top': '934px',
                     'Left': '1571px',
-                    'Height': '163px',
-                    'Width': '206px',
+                    'Height': '206px',
+                    'Width': '255px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_sanpedro.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -311,9 +311,9 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '12px',
-                    'Left': '459px',
-                    'Height': '63px',
-                    'Width': '48px',
+                    'Left': '460px',
+                    'Height': '78px',
+                    'Width': '59px',
                     'ZIndex': '8','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_matamoros.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -339,10 +339,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '958px',
-                    'Left': '332px',
-                    'Height': '145px',
-                    'Width': '87px',
+                    'Top': '957px',
+                    'Left': '337px',
+                    'Height': '180px',
+                    'Width': '108px',
                     'ZIndex': '9','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_torreon.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -368,10 +368,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '261px',
-                    'Left': '456px',
-                    'Height': '140px',
-                    'Width': '134px',
+                    'Top': '265px',
+                    'Left': '458px',
+                    'Height': '174px',
+                    'Width': '167px',
                     'ZIndex': '10','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_viesca.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -969,7 +969,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '0','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags11.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '0','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1728,7 +1728,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'0.7s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '431px'
+                            'EndValue': '436px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1848,7 +1848,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.8s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '568px'
+                            'EndValue': '510px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1856,7 +1856,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.8s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '212px'
+                            'EndValue': '128px'
                         }]
 },
 {
@@ -1895,7 +1895,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.8s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1045px'
+                            'EndValue': '1105px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1903,7 +1903,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.8s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '233px'
+                            'EndValue': '155px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1924,7 +1924,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2.2s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '957px'
+                            'EndValue': '998px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1932,7 +1932,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2.2s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '220px'
+                            'EndValue': '140px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1961,7 +1961,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.1s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '151px'
+                            'EndValue': '146px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1982,7 +1982,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.1s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '783px'
+                            'EndValue': '789px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1990,7 +1990,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.1s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '648px'
+                            'EndValue': '650px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2048,7 +2048,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.3s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '422px'
+                            'EndValue': '421px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2069,7 +2069,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.1s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1059px'
+                            'EndValue': '1060px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2098,7 +2098,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.1s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1311px'
+                            'EndValue': '1316px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2106,7 +2106,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.1s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '670px'
+                            'EndValue': '669px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2127,7 +2127,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '726px'
+                            'EndValue': '728px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2135,7 +2135,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '546px'
+                            'EndValue': '550px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2156,7 +2156,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.7s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1088px'
+                            'EndValue': '1162px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2164,7 +2164,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.7s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '364px'
+                            'EndValue': '319px'
                         }]
 },
 {
@@ -2177,7 +2177,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.4s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1050px'
+                            'EndValue': '1113px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2185,7 +2185,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.4s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '383px'
+                            'EndValue': '342px'
                         }]
 },
 {
@@ -2198,7 +2198,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.4s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1134px'
+                            'EndValue': '1215px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2206,7 +2206,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.4s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '232px'
+                            'EndValue': '153px'
                         }]
 },
 {
@@ -2219,7 +2219,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1141px'
+                            'EndValue': '1225px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2227,7 +2227,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '382px'
+                            'EndValue': '341px'
                         }]
 },
 {
@@ -2240,7 +2240,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2.3s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1118px'
+                            'EndValue': '1197px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2248,7 +2248,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2.3s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '394px'
+                            'EndValue': '354px'
                         }]
 },
 {
@@ -2261,7 +2261,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1162px'
+                            'EndValue': '1251px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2269,7 +2269,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'1.5s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '249px'
+                            'EndValue': '171px'
                         }]
 },
 {
@@ -2282,7 +2282,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2.2s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '1138px'
+                            'EndValue': '1221px'
                         },
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -2290,7 +2290,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                             'Duration':'2.2s',
                             'Delay':'0s',
                             'TimingFunc':'linear',
-                            'EndValue': '403px'
+                            'EndValue': '364px'
                         }]
 },
 
@@ -2338,13 +2338,13 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                 {
                     'Oid': 'X9fb9580',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
+                    'Top': '778px',
+                    'Left': '1800px',
                     'Height': '120px',
                     'Width': '120px',
                     'ZIndex': '6','Display': 'block','TextAlign': 'left',
@@ -2379,7 +2379,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '0','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '0','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -2404,10 +2404,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '33px',
-                    'Left': '48px',
+                    'Top': '20px',
+                    'Left': '217px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2439,10 +2439,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '500px',
-                    'Left': '130px',
+                    'Top': '468px',
+                    'Left': '217px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '8','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2474,10 +2474,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '33px',
-                    'Left': '1484px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Top': '20px',
+                    'Left': '1578px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '9','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2509,10 +2509,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '381px',
-                    'Left': '1110px',
-                    'Height': '318px',
-                    'Width': '721px',
+                    'Top': '314px',
+                    'Left': '1116px',
+                    'Height': '260px',
+                    'Width': '600px',
                     'ZIndex': '10','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2544,10 +2544,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '735px',
-                    'Left': '1143px',
-                    'Height': '318px',
-                    'Width': '721px',
+                    'Top': '599px',
+                    'Left': '1153px',
+                    'Height': '280px',
+                    'Width': '600px',
                     'ZIndex': '11','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 5.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2682,7 +2682,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_3',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -2702,39 +2702,6 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     
                 {
-                    'Oid': 'X9fb9670',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '6','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fbb5a8',                
                     'Type': 'box',
                     'InnerHTML': ''
@@ -2745,7 +2712,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '0','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags1111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '0','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -2770,10 +2737,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '40px',
-                    'Left': '50px',
+                    'Top': '20px',
+                    'Left': '211px',
                     'Height': '450px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/lerdo-ficha 1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2805,10 +2772,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '550px',
-                    'Left': '130px',
-                    'Height': '411px',
-                    'Width': '951px',
+                    'Top': '483px',
+                    'Left': '211px',
+                    'Height': '400px',
+                    'Width': '800px',
                     'ZIndex': '8','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/lerdo-ficha 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2841,9 +2808,9 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '20px',
-                    'Left': '1480px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Left': '1579px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '9','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/ubicacion lerdo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2875,10 +2842,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '370px',
-                    'Left': '1130px',
-                    'Height': '328px',
-                    'Width': '721px',
+                    'Top': '310px',
+                    'Left': '1054px',
+                    'Height': '280px',
+                    'Width': '600px',
                     'ZIndex': '10','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/hidrografia lerdo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2910,10 +2877,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '727px',
-                    'Left': '1150px',
-                    'Height': '322px',
-                    'Width': '721px',
+                    'Top': '608px',
+                    'Left': '1161px',
+                    'Height': '290px',
+                    'Width': '600px',
                     'ZIndex': '11','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/lerdo clima ecosistema.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -2931,6 +2898,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02e89c',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '781px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '12','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -3013,8 +3013,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fb9670',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02e89c',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -3048,7 +3048,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_4',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -3078,7 +3078,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags11111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -3097,49 +3097,16 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9fc0244',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '2','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fc0ab6',                
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '30px',
-                    'Left': '36px',
-                    'Height': '449px',
-                    'Width': '951px',
+                    'Top': '20px',
+                    'Left': '213px',
+                    'Height': '400px',
+                    'Width': '800px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3171,10 +3138,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '527px',
-                    'Left': '130px',
+                    'Top': '452px',
+                    'Left': '213px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '4','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3206,10 +3173,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '30px',
-                    'Left': '1491px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Top': '20px',
+                    'Left': '1578px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ubicacion.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3241,10 +3208,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '373px',
-                    'Left': '1118px',
-                    'Height': '236px',
-                    'Width': '721px',
+                    'Top': '306px',
+                    'Left': '1047px',
+                    'Height': '210px',
+                    'Width': '600px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3276,10 +3243,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '637px',
-                    'Left': '1144px',
-                    'Height': '426px',
-                    'Width': '721px',
+                    'Top': '523px',
+                    'Left': '1147px',
+                    'Height': '380px',
+                    'Width': '600px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3297,6 +3264,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02e9a8',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '783px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '8','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -3379,8 +3379,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fc0244',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02e9a8',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -3414,7 +3414,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_5',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -3444,7 +3444,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -3469,10 +3469,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '34px',
-                    'Left': '56px',
+                    'Top': '23px',
+                    'Left': '221px',
                     'Height': '449px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '2','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3504,10 +3504,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '520px',
-                    'Left': '130px',
+                    'Top': '490px',
+                    'Left': '221px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3533,49 +3533,16 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9fc1173',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '4','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fc119a',                
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '22px',
-                    'Left': '1492px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Top': '23px',
+                    'Left': '1571px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ubicacion.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3607,10 +3574,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '374px',
-                    'Left': '1112px',
+                    'Top': '317px',
+                    'Left': '1099px',
                     'Height': '232px',
-                    'Width': '721px',
+                    'Width': '602px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3642,10 +3609,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '683px',
-                    'Left': '1151px',
+                    'Top': '562px',
+                    'Left': '1185px',
                     'Height': '333px',
-                    'Width': '721px',
+                    'Width': '602px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3663,6 +3630,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02ebcb',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '781px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '8','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -3745,8 +3745,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fc1173',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02ebcb',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -3780,7 +3780,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_6',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -3810,7 +3810,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -3835,10 +3835,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '34px',
-                    'Left': '56px',
+                    'Top': '22px',
+                    'Left': '211px',
                     'Height': '449px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '2','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3870,10 +3870,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '520px',
-                    'Left': '130px',
+                    'Top': '488px',
+                    'Left': '211px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3899,39 +3899,6 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9fcd6ac',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '4','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fcd6af',                
                     'Type': 'box',
                     'InnerHTML': ''
@@ -3939,9 +3906,9 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '22px',
-                    'Left': '1492px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Left': '1579px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ubicacion.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -3973,10 +3940,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '363px',
-                    'Left': '1115px',
-                    'Height': '284px',
-                    'Width': '721px',
+                    'Top': '307px',
+                    'Left': '1043px',
+                    'Height': '240px',
+                    'Width': '600px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4008,10 +3975,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '666px',
-                    'Left': '1151px',
-                    'Height': '393px',
-                    'Width': '721px',
+                    'Top': '551px',
+                    'Left': '1172px',
+                    'Height': '350px',
+                    'Width': '600px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4029,6 +3996,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02ec7c',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '781px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '8','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -4111,8 +4111,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fcd6ac',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02ec7c',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -4146,7 +4146,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_7',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -4176,7 +4176,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -4201,10 +4201,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '34px',
-                    'Left': '56px',
+                    'Top': '22px',
+                    'Left': '217px',
                     'Height': '449px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '2','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/matamoros f1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4236,10 +4236,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '520px',
-                    'Left': '130px',
+                    'Top': '490px',
+                    'Left': '217px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/mamtamoros f2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4265,39 +4265,6 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9fcde29',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '4','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fcde2c',                
                     'Type': 'box',
                     'InnerHTML': ''
@@ -4305,9 +4272,9 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '22px',
-                    'Left': '1492px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Left': '1579px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/matam ubica.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4339,10 +4306,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '365px',
-                    'Left': '1115px',
-                    'Height': '227px',
-                    'Width': '721px',
+                    'Top': '313px',
+                    'Left': '1059px',
+                    'Height': '200px',
+                    'Width': '600px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/matam f3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4374,10 +4341,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '619px',
-                    'Left': '1151px',
-                    'Height': '440px',
-                    'Width': '721px',
+                    'Top': '524px',
+                    'Left': '1149px',
+                    'Height': '380px',
+                    'Width': '600px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/matamoros f4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4395,6 +4362,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02ed4c',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '781px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '8','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -4477,8 +4477,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fcde29',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02ed4c',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -4512,7 +4512,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_8',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -4542,7 +4542,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -4567,10 +4567,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '34px',
-                    'Left': '56px',
+                    'Top': '22px',
+                    'Left': '215px',
                     'Height': '449px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '2','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/madero f1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4602,10 +4602,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '520px',
-                    'Left': '130px',
+                    'Top': '486px',
+                    'Left': '215px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/madero f2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4631,39 +4631,6 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9fce9ab',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '4','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fce9ae',                
                     'Type': 'box',
                     'InnerHTML': ''
@@ -4671,9 +4638,9 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '22px',
-                    'Left': '1492px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Left': '1577px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/madero ubica.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4705,10 +4672,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '365px',
-                    'Left': '1115px',
-                    'Height': '227px',
-                    'Width': '721px',
+                    'Top': '310px',
+                    'Left': '1054px',
+                    'Height': '200px',
+                    'Width': '600px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/madero f3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4740,10 +4707,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '619px',
-                    'Left': '1151px',
-                    'Height': '440px',
-                    'Width': '721px',
+                    'Top': '519px',
+                    'Left': '1165px',
+                    'Height': '380px',
+                    'Width': '600px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/madero f4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4761,6 +4728,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02ede2',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '779px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '8','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -4843,8 +4843,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fce9ab',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02ede2',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -4878,7 +4878,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_9',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -4908,7 +4908,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -4933,10 +4933,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '34px',
-                    'Left': '56px',
+                    'Top': '19px',
+                    'Left': '209px',
                     'Height': '449px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '2','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro 1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4968,10 +4968,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '520px',
-                    'Left': '130px',
+                    'Top': '482px',
+                    'Left': '209px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro f2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -4997,49 +4997,16 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9fcf733',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '4','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fcf736',                
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '22px',
-                    'Left': '1492px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Top': '19px',
+                    'Left': '1573px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro ubica.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5071,10 +5038,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '365px',
-                    'Left': '1115px',
-                    'Height': '268px',
-                    'Width': '721px',
+                    'Top': '305px',
+                    'Left': '1050px',
+                    'Height': '220px',
+                    'Width': '600px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro f3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5106,10 +5073,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '669px',
-                    'Left': '1151px',
-                    'Height': '390px',
-                    'Width': '721px',
+                    'Top': '531px',
+                    'Left': '1171px',
+                    'Height': '380px',
+                    'Width': '600px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro f4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5127,6 +5094,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02ee82',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '781px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '8','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -5209,8 +5209,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fcf733',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02ee82',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -5244,7 +5244,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             'Name': 'SCENE_10',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 4500,
+            'SceneEnd': 3500,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -5274,7 +5274,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Left': '0px',
                     'Height': '1080px',
                     'Width': '1920px',
-                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -5299,10 +5299,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '34px',
-                    'Left': '56px',
+                    'Top': '22px',
+                    'Left': '210px',
                     'Height': '449px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '2','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/viesca f1.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5334,10 +5334,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '520px',
-                    'Left': '130px',
+                    'Top': '487px',
+                    'Left': '210px',
                     'Height': '411px',
-                    'Width': '951px',
+                    'Width': '800px',
                     'ZIndex': '3','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/viesca f2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5363,39 +5363,6 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9fcff01',                
-                    'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(235,235,235,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
-                    ,
-                    'Cursor': 'Pointer',
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '950px',
-                    'Left': '20px',
-                    'Height': '120px',
-                    'Width': '120px',
-                    'ZIndex': '4','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true','OnMouseDown' : 2,
-'OnMouseDownParam' : 'X9fa7998',
-'OnMouseDownTransition' : 'fade',
-'OnMouseDownTransitionSpeed' : '500',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9fcff04',                
                     'Type': 'box',
                     'InnerHTML': ''
@@ -5403,9 +5370,9 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '22px',
-                    'Left': '1492px',
-                    'Height': '320px',
-                    'Width': '380px',
+                    'Left': '1575px',
+                    'Height': '280px',
+                    'Width': '320px',
                     'ZIndex': '5','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/viesca ubica.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5437,10 +5404,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '365px',
-                    'Left': '1115px',
-                    'Height': '232px',
-                    'Width': '721px',
+                    'Top': '308px',
+                    'Left': '1025px',
+                    'Height': '200px',
+                    'Width': '600px',
                     'ZIndex': '6','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/viesca f3.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5472,10 +5439,10 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '632px',
+                    'Top': '514px',
                     'Left': '1151px',
-                    'Height': '427px',
-                    'Width': '721px',
+                    'Height': '390px',
+                    'Width': '600px',
                     'ZIndex': '7','BackgroundImage': 'MUNICIPIOS AGUA SALUDABLE_resources/viesca ficha 4.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -5493,6 +5460,39 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }],
 
                 'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa02ef0c',                
+                    'Type': 'box',
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    ,
+                    'Cursor': 'Pointer',
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '778px',
+                    'Left': '1800px',
+                    'Height': '120px',
+                    'Width': '120px',
+                    'ZIndex': '8','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true','OnMouseDown' : 2,
+'OnMouseDownParam' : 'X9fa7998',
+'OnMouseDownTransition' : 'fade',
+'OnMouseDownTransitionSpeed' : '500',
 
 
 
@@ -5575,8 +5575,8 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9fcff01',
-                            'StartTime':3000,
+                            'ObjectId':'Xa02ef0c',
+                            'StartTime':2000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -5625,7 +5625,7 @@ MUNICIPIOS_AGUA_SALUDABLE.stage = [{
             MUNICIPIOS_AGUA_SALUDABLE.debug = false;
             MUNICIPIOS_AGUA_SALUDABLE.preloadImages = true;
 MUNICIPIOS_AGUA_SALUDABLE.imagesToPreload = [
-'MUNICIPIOS AGUA SALUDABLE_resources/ubicacion_municipios11.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura agua saludable-2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_tlahualilo.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_mapimi.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_gomezp.png',
@@ -5635,56 +5635,56 @@ MUNICIPIOS_AGUA_SALUDABLE.imagesToPreload = [
 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_matamoros.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_torreon.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mpio_viesca.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags11.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 3.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 4.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/gomez ficha 5.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags1111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/lerdo-ficha 1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/lerdo-ficha 2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/ubicacion lerdo.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/hidrografia lerdo.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/lerdo clima ecosistema.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags11111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ubicacion.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 3.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mapimi ficha 4.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ubicacion.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 3.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/tlahua ficha 4.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ubicacion.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 3.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/torreon ficha 4.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/matamoros f1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/mamtamoros f2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/matam ubica.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/matam f3.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/matamoros f4.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/madero f1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/madero f2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/madero ubica.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/madero f3.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/madero f4.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro 1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro f2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro ubica.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro f3.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/san pedro f4.png',
-'MUNICIPIOS AGUA SALUDABLE_resources/textura dgo-chi-coah-zac-nay-ags111111.png',
+'MUNICIPIOS AGUA SALUDABLE_resources/textura animacion-municipios.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/viesca f1.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/viesca f2.png',
 'MUNICIPIOS AGUA SALUDABLE_resources/viesca ubica.png',

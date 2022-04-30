@@ -1,0 +1,7 @@
+#PRESA_FCO_ZARCOStage {
+                  width:1280px;
+			      height:720px;
+			      transform-origin: top left;
+			      transition: all 100ms ease-in-out !important;
+			      position: absolute;  
+			    }

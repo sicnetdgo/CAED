@@ -81,7 +81,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             'Name': 'SCENE_1',
             'Autostart': 'true',
             'BackgroundColor': '#ffffff',
-            'SceneEnd': 2000,
+            'SceneEnd': 1300,
             'Position': 'absolute',
             'Perspective': '800px',
             'Top': '0px',
@@ -111,7 +111,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -137,8 +137,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '425px',
-                    'Left': '343px',
+                    'Top': '256px',
+                    'Left': '390px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '10','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -170,8 +170,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '525px',
-                    'Left': '474px',
+                    'Top': '328px',
+                    'Left': '538px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -203,8 +203,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '416px',
-                    'Left': '508px',
+                    'Top': '232px',
+                    'Left': '544px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '12','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -236,8 +236,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '556px',
-                    'Left': '569px',
+                    'Top': '320px',
+                    'Left': '648px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '13','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -268,10 +268,10 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '140px',
-                    'Left': '804px',
+                    'Top': '46px',
+                    'Left': '842px',
                     'Height': '500px',
-                    'Width': '463px',
+                    'Width': '438px',
                     'ZIndex': '17','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/por que agua saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
@@ -298,8 +298,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '536px',
-                    'Left': '399px',
+                    'Top': '340px',
+                    'Left': '472px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -319,35 +319,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
 'OnMouseOverParam' : 'X9ccd10d',
 'OnMouseOverTransition' : 'instant',
 'OnMouseOverTransitionSpeed' : '0',
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
-                    'Oid': 'X9cff091',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '300px',
-                    'Left': '56px',
-                    'Height': '340px',
-                    'Width': '280px',
-                    'ZIndex': '19','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/jaa_saber_mas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
 
 'Pressed': [],
                     
@@ -439,19 +410,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                             'EndValue': '1'
                         }]
 },
-{
-                            'ObjectId':'X9cff091',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
 
 
 			    ],
@@ -505,7 +463,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -530,8 +488,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '556px',
-                    'Left': '569px',
+                    'Top': '320px',
+                    'Left': '648px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '13','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -559,8 +517,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '140px',
-                    'Left': '30px',
+                    'Top': '105px',
+                    'Left': '826px',
                     'Height': '500px',
                     'Width': '463px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -582,38 +540,9 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff23c',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '450px',
-                    'Left': '1150px',
-                    'Height': '250px',
-                    'Width': '120px',
-                    'ZIndex': '19','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cff571',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
@@ -651,8 +580,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '390px',
-                    'Left': '1112px',
+                    'Top': '50px',
+                    'Left': '850px',
                     'Height': '55px',
                     'Width': '138px',
                     'ZIndex': '22','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
@@ -755,19 +684,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cff23c',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
                             'ObjectId':'X9f2993a',
                             'StartTime':3000,
                             'TransitionElements':[
@@ -833,7 +749,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -858,8 +774,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '416px',
-                    'Left': '508px',
+                    'Top': '232px',
+                    'Left': '544px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '12','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -887,8 +803,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '186px',
-                    'Left': '10px',
+                    'Top': '105px',
+                    'Left': '777px',
                     'Height': '500px',
                     'Width': '463px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -910,38 +826,9 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff368',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '450px',
-                    'Left': '1150px',
-                    'Height': '250px',
-                    'Width': '120px',
-                    'ZIndex': '19','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cff5bf',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
@@ -979,8 +866,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '390px',
-                    'Left': '1112px',
+                    'Top': '50px',
+                    'Left': '800px',
                     'Height': '55px',
                     'Width': '138px',
                     'ZIndex': '22','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
@@ -1083,19 +970,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cff368',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
                             'ObjectId':'X9f29c65',
                             'StartTime':3000,
                             'TransitionElements':[
@@ -1161,7 +1035,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1187,8 +1061,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '525px',
-                    'Left': '474px',
+                    'Top': '328px',
+                    'Left': '538px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1218,8 +1092,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '311px',
-                    'Left': '615px',
+                    'Top': '211px',
+                    'Left': '826px',
                     'Height': '400px',
                     'Width': '463px',
                     'ZIndex': '23','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/planta bombeo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1241,38 +1115,9 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff3f8',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '450px',
-                    'Left': '1150px',
-                    'Height': '250px',
-                    'Width': '120px',
-                    'ZIndex': '19','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cff685',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
@@ -1309,8 +1154,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '134px',
-                    'Left': '591px',
+                    'Top': '40px',
+                    'Left': '729px',
                     'Height': '549px',
                     'Width': '463px',
                     'ZIndex': '22','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/planta derivadora1111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1339,8 +1184,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '390px',
-                    'Left': '1112px',
+                    'Top': '100px',
+                    'Left': '1100px',
                     'Height': '55px',
                     'Width': '138px',
                     'ZIndex': '24','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
@@ -1430,19 +1275,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                 'Transitions': [
 			
                     {
-                            'ObjectId':'X9cff3f8',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
                             'ObjectId':'X9f29f14',
                             'StartTime':3000,
                             'TransitionElements':[
@@ -1521,7 +1353,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1546,8 +1378,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '536px',
-                    'Left': '399px',
+                    'Top': '340px',
+                    'Left': '472px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1569,75 +1401,17 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9ccd5db',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '275px',
-                    'Left': '411px',
-                    'Height': '128px',
-                    'Width': '125px',
-                    'ZIndex': '19','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera_cañon fernandez.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9cce554',                
                     'Type': 'box',
                     'InnerHTML': ''
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '142px',
-                    'Left': '536px',
+                    'Top': '57px',
+                    'Left': '768px',
                     'Height': '550px',
-                    'Width': '463px',
+                    'Width': '452px',
                     'ZIndex': '20','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/cañon fdez 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
-                    'Oid': 'X9cff4c7',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '450px',
-                    'Left': '1150px',
-                    'Height': '250px',
-                    'Width': '120px',
-                    'ZIndex': '21','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
@@ -1658,7 +1432,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                 {
                     'Oid': 'X9cff6b5',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
@@ -1696,8 +1470,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '390px',
-                    'Left': '1112px',
+                    'Top': '70px',
+                    'Left': '620px',
                     'Height': '55px',
                     'Width': '138px',
                     'ZIndex': '24','BackgroundColor': '#4169E1','Display': 'block','TextAlign': 'Center',
@@ -1787,34 +1561,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                 'Transitions': [
 			
                     {
-                            'ObjectId':'X9ccd5db',
-                            'StartTime':100,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
                             'ObjectId':'X9cce554',
                             'StartTime':100,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '1'
-                        }]
-},
-{
-                            'ObjectId':'X9cff4c7',
-                            'StartTime':1000,
                             'TransitionElements':[
                         {
                             'Oid':'TRANSITION_BLOCK_1',
@@ -1891,7 +1639,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1916,8 +1664,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '425px',
-                    'Left': '343px',
+                    'Top': '256px',
+                    'Left': '390px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '10','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1945,8 +1693,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '180px',
-                    'Left': '585px',
+                    'Top': '91px',
+                    'Left': '658px',
                     'Height': '500px',
                     'Width': '463px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/planta potabilizadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1970,7 +1718,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                 {
                     'Oid': 'X9cff6f1',                
                     'Type': 'box',
-                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(220,220,220,1);stroke:rgba(0,0,0,1);stroke-width:1;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
+                    'InnerHTML': '<svg viewBox="0 0 24 24" width="100%" height="100%" preserveAspectRatio="none"><path style="fill:rgba(65,105,225,1);stroke:rgba(220,220,220,1);stroke-width:3;" vector-effect="non-scaling-stroke" d="M8,20H5V12H2L12,3L22,12H19V20H12V14H8V20ZM14,14V17H17V14H14Z" /></svg>'
                     ,
                     'Cursor': 'Pointer',
                     'Tag': 'div',
@@ -2001,35 +1749,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     
                     'Hover': [],},
                 {
-                    'Oid': 'X9cff706',                
-                    'Type': 'box',
-                    'InnerHTML': ''
-                    ,
-                    'Tag': 'div',
-                    'Position': 'absolute',
-                    'Top': '450px',
-                    'Left': '1150px',
-                    'Height': '250px',
-                    'Width': '120px',
-                    'ZIndex': '20','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
-
-                'TextColor': '#000000',
-                'Opacity': '0',
-                'FontFamily': 'Arial',
-                'FontSize': '14px',
-                'LineHeight': '1em',
-
-                
-
-                'Visible': 'true',
-
-
-
-
-'Pressed': [],
-                    
-                    'Hover': [],},
-                {
                     'Oid': 'X9f2a0d4',                
                     'Type': 'box',
                     'InnerHTML': '<P>Da Click!</P>  <P>Para saber más.</P>  '
@@ -2037,7 +1756,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '390px',
+                    'Top': '100px',
                     'Left': '1112px',
                     'Height': '55px',
                     'Width': '138px',
@@ -2141,19 +1860,6 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                         }]
 },
 {
-                            'ObjectId':'X9cff706',
-                            'StartTime':1000,
-                            'TransitionElements':[
-                        {
-                            'Oid':'TRANSITION_BLOCK_1',
-                            'Property':'Opacity',
-                            'Duration':'1s',
-                            'Delay':'0s',
-                            'TimingFunc':'linear',
-                            'EndValue': '0.98'
-                        }]
-},
-{
                             'ObjectId':'X9f2a0d4',
                             'StartTime':3000,
                             'TransitionElements':[
@@ -2204,36 +1910,29 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             MAPA_AGUA_SUSTENTABLE.debug = false;
             MAPA_AGUA_SUSTENTABLE.preloadImages = true;
 MAPA_AGUA_SUSTENTABLE.imagesToPreload = [
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/por que agua saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
-'MAPA-AGUA-SUSTENTABLE_resources/jaa_saber_mas.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png',
-'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png',
-'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/planta bombeo.png',
-'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png',
 'MAPA-AGUA-SUSTENTABLE_resources/planta derivadora1111.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
-'MAPA-AGUA-SUSTENTABLE_resources/bandera_cañon fernandez.png',
 'MAPA-AGUA-SUSTENTABLE_resources/cañon fdez 2.png',
-'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
-'MAPA-AGUA-SUSTENTABLE_resources/planta potabilizadora.png',
-'MAPA-AGUA-SUSTENTABLE_resources/jaa_izquierda_2.png'
+'MAPA-AGUA-SUSTENTABLE_resources/planta potabilizadora.png'
 ];MAPA_AGUA_SUSTENTABLE.createWorkspace('MAPA_AGUA_SUSTENTABLEStage');
 
                 }

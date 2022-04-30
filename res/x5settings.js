@@ -42,7 +42,7 @@
 		'zoomEnabled' : true,
 		'showProgress' : true,
 		'shadow' : '',
-		'background' : 'rgba(55, 71, 79, 1)',
+		'background' : 'rgba(67, 67, 67, 1)',
 		'backgroundBlur' : true,
 		'borderWidth' : {
 			'top': 0,
@@ -60,13 +60,13 @@
 		'buttonZoomRestore': '<svg class=\"im-common-zoom-restore-button\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 50\"><defs><style>.a{fill:#fff;opacity:0.35;}.b{fill:#3e3d40;}<\/style><\/defs><rect class=\"a\" x=\"5.03\" y=\"5.03\" width=\"39.94\" height=\"39.94\" transform=\"translate(50 50) rotate(-180)\"/><path class=\"b\" d=\"M40.3,21.57c-1-1-1.26-.65-2,0l-2.26,2.26A12.53,12.53,0,1,0,23.6,37.53a13.33,13.33,0,0,0,7.09-2.2c1-.64.8-1.31.36-1.94s-.92-1-1.94-.36a10.31,10.31,0,0,1-5.51,1.71,9.73,9.73,0,1,1,9.71-10.4l-2.76-2.76c-.55-.55-1-1-2,0s-.55,1.43,0,2l4.88,4.88a1.4,1.4,0,0,0,2,0l4.88-4.88C41,22.85,41.26,22.56,40.3,21.57Z\"/><\/svg>',
 		'borderRadius' : '3px 3px 3px 3px',
 		'borderColor' : 'rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1) rgba(55, 71, 79, 1)',
-		'textColor' : 'rgba(0, 0, 0, 1)',
+		'textColor' : 'rgba(239, 239, 239, 1)',
 		'fontFamily' : 'Montserrat',
 		'fontStyle' : 'normal',
 		'fontWeight' : 'normal',
 		'fontSize' : '12pt',
 		'textAlignment' : 'left',
-		'boxColor' : 'rgba(243, 243, 243, 1)',
+		'boxColor' : 'rgba(54, 54, 54, 1)',
 		'opacity' : 0.9,
 		'radialBg' : false // Works only in Mozilla Firefox and Google Chrome
 	});
@@ -76,11 +76,11 @@
 		'effect' : 'websitex5.bl.project.templates.properties.showboxanimation',
 		'width' : 500,
 		'shadow' : '',
-		'background' : 'rgba(55, 71, 79, 1)',
+		'background' : 'rgba(67, 67, 67, 1)',
 		'backgroundBlur' : true,
 		'borderRadius' : 10,
-		'textColor' : 'rgba(0, 0, 0, 1)',
-		'boxColor' : 'rgba(243, 243, 243, 1)',
+		'textColor' : 'rgba(239, 239, 239, 1)',
+		'boxColor' : 'rgba(54, 54, 54, 1)',
 		'opacity' : 0.9
 	});
 
@@ -103,16 +103,16 @@
 	b.push(function () {
 		x5engine.captcha.instance = new x5engine.captcha.x5captcha({
 			"offlineCodes": {
-				"0": { letter: 'F', path: 'captcha/imcpa_ppf.gif'},
-				"1": { letter: 'R', path: 'captcha/imcpa_kxp.gif'},
-				"2": { letter: 'X', path: 'captcha/imcpa_h7m.gif'},
-				"3": { letter: 'W', path: 'captcha/imcpa_3mt.gif'},
-				"4": { letter: 'J', path: 'captcha/imcpa_tfu.gif'},
-				"5": { letter: 'V', path: 'captcha/imcpa_7dd.gif'},
-				"6": { letter: 'J', path: 'captcha/imcpa_hp2.gif'},
-				"7": { letter: 'A', path: 'captcha/imcpa_n3r.gif'},
-				"8": { letter: '2', path: 'captcha/imcpa_nta.gif'},
-				"9": { letter: 'S', path: 'captcha/imcpa_rww.gif'}
+				"0": { letter: 'C', path: 'captcha/imcpa_t28.gif'},
+				"1": { letter: 'X', path: 'captcha/imcpa_hkr.gif'},
+				"2": { letter: 'X', path: 'captcha/imcpa_p7v.gif'},
+				"3": { letter: 'S', path: 'captcha/imcpa_dwv.gif'},
+				"4": { letter: '7', path: 'captcha/imcpa_gck.gif'},
+				"5": { letter: 'S', path: 'captcha/imcpa_npr.gif'},
+				"6": { letter: '5', path: 'captcha/imcpa_fdg.gif'},
+				"7": { letter: 'P', path: 'captcha/imcpa_u8h.gif'},
+				"8": { letter: 'P', path: 'captcha/imcpa_tv2.gif'},
+				"9": { letter: 'P', path: 'captcha/imcpa_64l.gif'}
 			}
 		});
 	}, false, 'first');
