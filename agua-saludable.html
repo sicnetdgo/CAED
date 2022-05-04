@@ -20,10 +20,10 @@
 		<link rel="stylesheet" href="style/style.css?2022-1-2-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-1-2-0" media="screen" />
 		<link rel="stylesheet" href="pluginAppObj/pluginAppObj_4_59/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/agua-saludable.css?2022-1-2-0-637868734787503420" media="screen,print" />
+		<link rel="stylesheet" href="pcss/agua-saludable.css?2022-1-2-0-637871934605323501" media="screen,print" />
 		<script src="res/jquery.js?2022-1-2-0"></script>
 		<script src="res/x5engine.js?2022-1-2-0" data-files-version="2022-1-2-0"></script>
-		<script src="res/x5engine.offline.js?2022-1-2-0-637868734780913046"></script>
+		<script src="res/x5engine.offline.js?2022-1-2-0-637871934601919705"></script>
 		<script>
 		x5engine.boot.push(function(){ x5engine.contentSlider.init( { classes: { root: 'content-slider-root', slide: 'slide-container', animated: 'slide-animated-element', ctrlContainer: 'content-slider-ctrl-container', ctrlVisible: 'ctrl-visible', ctrlVisibleOnMobile: 'ctrl-visible-on-mobile', prev: '-prev', next: '-next', defaultSlide: 'default-slide', slideOut: 'exiting-slide', slideIn: 'entering-slide', noElementEffect: 'element-effect-none', radioIdSeparator: '-slide-radio-', radioBar: 'current-slide-radio-container', radioBarNext: 'radio-bar-next', radioBarPrev: 'radio-bar-prev' }, radio: { visibleNumber: 15, size: 22, slideBarGap: 10 }, config: { radioSliding: { enabled: false }, ctrlHidingDuringAnimations: { enabled: true, animations: [ 'change-effect-rotateX', 'change-effect-rotateY', 'change-effect-cube' ] } } } ); }, false, 7);
 		x5engine.boot.push(function () { x5engine.contentSlider['imObjectContentSlider_4_03'].autoplay(10000); }, false, 8); 
@@ -38,7 +38,7 @@
 			x5engine.boot.push(function () { x5engine.imageSequence.start(); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2022-1-2-0-637868734781408778" type="image/png" />
+		<link rel="icon" href="favicon.png?2022-1-2-0-637871934602049668" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -529,7 +529,17 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						</script>
 						<div id="imCell_66" class="animable fadeIn"  data-responsive-sequence-number="24"> <div id="imCellStyleGraphics_66"></div><div id="imCellStyleBorders_66"></div><div id="imObjectImage_4_66"><div id="imObjectImage_4_66_container"><a href="files/ANIM_MPIOS_AGUA_SALUDABLE.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/ANIM_MPIOS_AGUA_SALUDABLE.html', width: 1920, height: 1080, description: 'Conoce más de los municipios que conforman la &quot;Comarca Lagunera&quot; '}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/MAPA-AGUA-SALUDABLE-2-B.gif" data-title="" data-alt=""></div>
-						</a></div></div></div>
+						</a>
+						<script>
+							x5engine.boot.push(function () {
+							x5engine.utils.onElementInViewPort($('#imObjectImage_4_66').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_4_66').parent().get(0), function () {
+									 x5engine.imagefx.opacityIn('#imObjectImage_4_66_container img', 0.85);
+								});
+							});
+							});
+						</script>
+						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
 								x5engine.utils.onLazyLoadedElement($('#imCell_66').get(0), function () {
@@ -558,9 +568,19 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_69" class="animable tada"  data-responsive-sequence-number="26"> <div id="imCellStyleGraphics_69"></div><div id="imCellStyleBorders_69"></div><div id="imObjectImage_4_69"><div id="imObjectImage_4_69_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
-						<div class="imlazyloading" data-src="images/Jaa_aprende_con_nosotros_ocqkjpd6.png" data-title="Da Click y conoce nuestros mapas interactivos" data-alt=""></div>
-						</a></div></div></div>
+						<div id="imCell_69" class="animable rollIn"  data-responsive-sequence-number="26"> <div id="imCellStyleGraphics_69"></div><div id="imCellStyleBorders_69"></div><div id="imObjectImage_4_69"><div id="imObjectImage_4_69_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/PUNTERO-APRENDE-MAS.png" data-title="Mapas Interactivos" data-alt=""></div>
+						</a>
+						<script>
+							x5engine.boot.push(function () {
+							x5engine.utils.onElementInViewPort($('#imObjectImage_4_69').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_4_69').parent().get(0), function () {
+									 x5engine.imagefx.opacityIn('#imObjectImage_4_69_container img', 0.8);
+								});
+							});
+							});
+						</script>
+						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
 								x5engine.utils.onLazyLoadedElement($('#imCell_69').get(0), function () {

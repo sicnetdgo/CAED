@@ -20,10 +20,10 @@
 		<link rel="stylesheet" href="style/style.css?2022-1-2-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-1-2-0" media="screen" />
 		<link rel="stylesheet" href="pluginAppObj/pluginAppObj_6_50/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/el-rio-nazas.css?2022-1-2-0-637868734789012926" media="screen,print" />
+		<link rel="stylesheet" href="pcss/el-rio-nazas.css?2022-1-2-0-637871934592012962" media="screen,print" />
 		<script src="res/jquery.js?2022-1-2-0"></script>
 		<script src="res/x5engine.js?2022-1-2-0" data-files-version="2022-1-2-0"></script>
-		<script src="res/x5engine.offline.js?2022-1-2-0-637868734780913046"></script>
+		<script src="res/x5engine.offline.js?2022-1-2-0-637871934584395466"></script>
 		<script>
 		x5engine.boot.push(function(){ x5engine.contentSlider.init( { classes: { root: 'content-slider-root', slide: 'slide-container', animated: 'slide-animated-element', ctrlContainer: 'content-slider-ctrl-container', ctrlVisible: 'ctrl-visible', ctrlVisibleOnMobile: 'ctrl-visible-on-mobile', prev: '-prev', next: '-next', defaultSlide: 'default-slide', slideOut: 'exiting-slide', slideIn: 'entering-slide', noElementEffect: 'element-effect-none', radioIdSeparator: '-slide-radio-', radioBar: 'current-slide-radio-container', radioBarNext: 'radio-bar-next', radioBarPrev: 'radio-bar-prev' }, radio: { visibleNumber: 15, size: 22, slideBarGap: 10 }, config: { radioSliding: { enabled: false }, ctrlHidingDuringAnimations: { enabled: true, animations: [ 'change-effect-rotateX', 'change-effect-rotateY', 'change-effect-cube' ] } } } ); }, false, 7);
 		x5engine.boot.push(function () { x5engine.contentSlider['imObjectContentSlider_6_23'].autoplay(8000); }, false, 8); 
@@ -38,7 +38,7 @@
 			x5engine.boot.push(function () { x5engine.imageSequence.start(); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2022-1-2-0-637868734781252518" type="image/png" />
+		<link rel="icon" href="favicon.png?2022-1-2-0-637871934585575087" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -405,9 +405,19 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_59" class="animable tada"  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_59"></div><div id="imCellStyleBorders_59"></div><div id="imObjectImage_6_59"><div id="imObjectImage_6_59_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
-						<div class="imlazyloading" data-src="images/Jaa_aprende_con_nosotros_6nny5cql.png" data-title="Da click y conoce nuestros mapas interactivos" data-alt=""></div>
-						</a></div></div></div>
+						<div id="imCell_59" class="animable rollIn"  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_59"></div><div id="imCellStyleBorders_59"></div><div id="imObjectImage_6_59"><div id="imObjectImage_6_59_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/PUNTERO-APRENDE-MAS.png" data-title="Mapas Interactivos" data-alt=""></div>
+						</a>
+						<script>
+							x5engine.boot.push(function () {
+							x5engine.utils.onElementInViewPort($('#imObjectImage_6_59').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_6_59').parent().get(0), function () {
+									 x5engine.imagefx.opacityIn('#imObjectImage_6_59_container img', 0.8);
+								});
+							});
+							});
+						</script>
+						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
 								x5engine.utils.onLazyLoadedElement($('#imCell_59').get(0), function () {
