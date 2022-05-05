@@ -45,7 +45,7 @@
 #imCell_34 { display: -ms-grid; display: grid; -ms-grid-column: 38; -ms-grid-column-span: 60; grid-column: 38 / 98; -ms-grid-row: 8; -ms-grid-row-span: 1; grid-row: 8 / 9; }
 #imCell_5 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
 #imCell_36 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 10; -ms-grid-row-span: 1; grid-row: 10 / 11; }
-#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 36; grid-column: 2 / 38; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
+#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 24; grid-column: 14 / 38; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
 #imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 38; -ms-grid-column-span: 60; grid-column: 38 / 98; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
 #imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
 #imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
@@ -76,7 +76,7 @@
 	#imCell_34 { display: -ms-grid; display: grid; -ms-grid-column: 38; -ms-grid-column-span: 60; grid-column: 38 / 98; -ms-grid-row: 8; -ms-grid-row-span: 1; grid-row: 8 / 9; }
 	#imCell_5 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
 	#imCell_36 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 10; -ms-grid-row-span: 1; grid-row: 10 / 11; }
-	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 36; grid-column: 2 / 38; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
+	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 24; grid-column: 14 / 38; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
 	#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 38; -ms-grid-column-span: 60; grid-column: 38 / 98; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
 	#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
 	#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
@@ -109,7 +109,7 @@
 	#imCell_34 { display: -ms-grid; display: grid; -ms-grid-column: 38; -ms-grid-column-span: 60; grid-column: 38 / 98; -ms-grid-row: 8; -ms-grid-row-span: 1; grid-row: 8 / 9; }
 	#imCell_5 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 9; -ms-grid-row-span: 1; grid-row: 9 / 10; }
 	#imCell_36 { display: -ms-grid; display: grid; -ms-grid-column: 1; -ms-grid-column-span: 98; grid-column: 1 / 99; -ms-grid-row: 10; -ms-grid-row-span: 1; grid-row: 10 / 11; }
-	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 36; grid-column: 2 / 38; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
+	#imCell_43 { display: -ms-grid; display: grid; -ms-grid-column: 14; -ms-grid-column-span: 24; grid-column: 14 / 38; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
 	#imCell_38 { display: -ms-grid; display: grid; -ms-grid-column: 38; -ms-grid-column-span: 60; grid-column: 38 / 98; -ms-grid-row: 11; -ms-grid-row-span: 1; grid-row: 11 / 12; }
 	#imCell_30 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 96; grid-column: 2 / 98; -ms-grid-row: 12; -ms-grid-row-span: 1; grid-row: 12 / 13; }
 	#imCell_25 { display: -ms-grid; display: grid; -ms-grid-column: 2; -ms-grid-column-span: 24; grid-column: 2 / 26; -ms-grid-row: 13; -ms-grid-row-span: 1; grid-row: 13 / 14; }
@@ -747,36 +747,22 @@ html:not(.no-cssanimations) #imCell_36.animated {   -webkit-animation-duration: 
 #imObjectImage_43 { position: relative; -ms-grid-row-align: start; align-self: start; -ms-grid-column-align: center; justify-self: center; max-width: 100%; box-sizing: border-box; z-index: 3; }
 #imCellStyleGraphics_43 { position: absolute; top: 0px; bottom: 0px; background-color: transparent; }
 #imCellStyleBorders_43 { position: absolute; top: 0px; bottom: 0px; }
-html:not(.no-cssanimations) #imCell_43.animated {   -webkit-animation-duration: 8000ms;
-  animation-duration: 8000ms;
-  -webkit-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
+html:not(.no-cssanimations) #imCell_43.animated {   -webkit-animation-duration: 2000ms;
+  animation-duration: 2000ms;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
 }
-@-webkit-keyframes imCell_43-anim-bounce {
-	0% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	5% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	13.25% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	20% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	25% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	10% { -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    -webkit-transform: translate3d(0, -30px, 0);    transform: translate3d(0, -30px, 0); }
-	10.75% { -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    -webkit-transform: translate3d(0, -30px, 0);    transform: translate3d(0, -30px, 0); }
-	17.5% { -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    -webkit-transform: translate3d(0, -15px, 0);    transform: translate3d(0, -15px, 0); }
-	22.5% { -webkit-transform: translate3d(0,-4px,0);    transform: translate3d(0,-4px,0); }
+@-webkit-keyframes imCell_43-anim-rotateInUpRight {
+	0% { -webkit-transform-origin: right bottom;    transform-origin: right bottom;    -webkit-transform: rotate3d(0, 0, 1, -90deg);    transform: rotate3d(0, 0, 1, -90deg);    opacity: 0; }
+	100% { -webkit-transform-origin: right bottom;    transform-origin: right bottom;    -webkit-transform: none;    transform: none;    opacity: 1; }
 }
-@keyframes imCell_43-anim-bounce {
-	0% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	5% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	13.25% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	20% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	25% { -webkit-animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);    -webkit-transform: translate3d(0,0,0);    transform: translate3d(0,0,0); }
-	10% { -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    -webkit-transform: translate3d(0, -30px, 0);    transform: translate3d(0, -30px, 0); }
-	10.75% { -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    -webkit-transform: translate3d(0, -30px, 0);    transform: translate3d(0, -30px, 0); }
-	17.5% { -webkit-animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    animation-timing-function: cubic-bezier(0.755, 0.050, 0.855, 0.060);    -webkit-transform: translate3d(0, -15px, 0);    transform: translate3d(0, -15px, 0); }
-	22.5% { -webkit-transform: translate3d(0,-4px,0);    transform: translate3d(0,-4px,0); }
+@keyframes imCell_43-anim-rotateInUpRight {
+	0% { -webkit-transform-origin: right bottom;    transform-origin: right bottom;    -webkit-transform: rotate3d(0, 0, 1, -90deg);    transform: rotate3d(0, 0, 1, -90deg);    opacity: 0; }
+	100% { -webkit-transform-origin: right bottom;    transform-origin: right bottom;    -webkit-transform: none;    transform: none;    opacity: 1; }
 }
-#imCell_43.animated.bounce {  -webkit-animation-name: imCell_43-anim-bounce;  animation-name: imCell_43-anim-bounce;  -webkit-transform-origin: center bottom;  transform-origin: center bottom;}
+#imCell_43.animated.rotateInUpRight {  -webkit-animation-name: imCell_43-anim-rotateInUpRight;  animation-name: imCell_43-anim-rotateInUpRight; }
 #imPage.imCell_43_animation-in-progress { overflow: hidden }
-#imObjectImage_43 #imObjectImage_43_container { width: 404px; max-width: 100%; line-height: 0; }
+#imObjectImage_43 #imObjectImage_43_container { width: 439px; max-width: 100%; line-height: 0; }
 #imObjectImage_43 { vertical-align: top; margin: 0 auto; }
 #imObjectImage_43 #imObjectImage_43_container img { width: 100%; vertical-align: top; }#imPageRowGraphics_5 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0.95; }
 #imPageRowGraphics_5 { background: rgba(122, 98, 166, 1); background: -webkit-linear-gradient(180deg, rgba(122, 98, 166, 1), rgba(78, 58, 110, 1) 100%); background: -o-linear-gradient(180deg, rgba(122, 98, 166, 1), rgba(78, 58, 110, 1) 100%); background: -moz-linear-gradient(180deg, rgba(122, 98, 166, 1), rgba(78, 58, 110, 1) 100%); background: linear-gradient(180deg, rgba(122, 98, 166, 1), rgba(78, 58, 110, 1) 100%); }
@@ -1119,7 +1105,7 @@ html:not(.no-cssanimations) #imCell_28.animated {   -webkit-animation-duration: 
 	#imMenuObject_53 .hamburger-button {background-color: transparent;background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53 .hamburger-button .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(204, 204, 204, 1);font-weight: bold;}
 	/* Main menu current button style */
-	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: transparent;background-image: none;border-color: rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1);border-style: solid; }
+	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(255, 255, 255, 1);font-weight: bold;}
 	/* Main menu hover button style */
 	#imMenuObject_53_container > ul > li.imPage >.sweeper > .label-wrapper-over {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
@@ -1316,7 +1302,7 @@ html:not(.no-cssanimations) #imCell_28.animated {   -webkit-animation-duration: 
 	#imMenuObject_53 .hamburger-button {background-color: transparent;background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53 .hamburger-button .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(204, 204, 204, 1);font-weight: bold;}
 	/* Main menu current button style */
-	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: transparent;background-image: none;border-color: rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1);border-style: solid; }
+	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(255, 255, 255, 1);font-weight: bold;}
 	/* Main menu hover button style */
 	#imMenuObject_53_container > ul > li.imPage >.sweeper > .label-wrapper-over {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
@@ -1513,7 +1499,7 @@ html:not(.no-cssanimations) #imCell_28.animated {   -webkit-animation-duration: 
 	#imMenuObject_53 .hamburger-button {background-color: transparent;background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53 .hamburger-button .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(204, 204, 204, 1);font-weight: bold;}
 	/* Main menu current button style */
-	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: transparent;background-image: none;border-color: rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1);border-style: solid; }
+	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(255, 255, 255, 1);font-weight: bold;}
 	/* Main menu hover button style */
 	#imMenuObject_53_container > ul > li.imPage >.sweeper > .label-wrapper-over {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
@@ -1709,7 +1695,7 @@ html:not(.no-cssanimations) #imCell_28.animated {   -webkit-animation-duration: 
 	#imMenuObject_53 .hamburger-button {background-color: transparent;background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53 .hamburger-button .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(204, 204, 204, 1);font-weight: bold;}
 	/* Main menu current button style */
-	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: transparent;background-image: none;border-color: rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1) rgba(211, 211, 211, 1);border-style: solid; }
+	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
 	#imMenuObject_53_container > ul > .imMnMnCurrent > .label-wrapper .label {width: 100%;height: 100%;font-family: Montserrat;font-size: 12pt;font-style: normal;text-decoration: none;text-align: center; color: rgba(255, 255, 255, 1);font-weight: bold;}
 	/* Main menu hover button style */
 	#imMenuObject_53_container > ul > li.imPage >.sweeper > .label-wrapper-over {background-color: rgba(111, 168, 220, 1);background-image: none;border-color: transparent rgba(255, 255, 255, 1) transparent rgba(255, 255, 255, 1);border-style: solid; }
