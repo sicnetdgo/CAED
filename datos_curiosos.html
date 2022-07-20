@@ -19,19 +19,17 @@
 		<link rel="stylesheet" href="style/print.css?2022-1-2-0" media="print" />
 		<link rel="stylesheet" href="style/style.css?2022-1-2-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-1-2-0" media="screen" />
-		<link rel="stylesheet" href="pluginAppObj/pluginAppObj_8_60/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/datos_curiosos.css?2022-1-2-0-637873506364156718" media="screen,print" />
+		<link rel="stylesheet" href="pcss/datos_curiosos.css?2022-1-2-0-637938295300574839" media="screen,print" />
 		<script src="res/jquery.js?2022-1-2-0"></script>
 		<script src="res/x5engine.js?2022-1-2-0" data-files-version="2022-1-2-0"></script>
-		<script src="res/x5engine.offline.js?2022-1-2-0-637873506361262572"></script>
-		<script src="pluginAppObj/pluginAppObj_8_60/main.js"></script>
+		<script src="res/x5engine.offline.js?2022-1-2-0-637938295300234929"></script>
 		<script>x5engine.boot.push(function () { x5engine.image.activateLazyLoading(); });</script>
 		<script>
 			window.onload = function(){ checkBrowserCompatibility('El Explorador que estás usando no es compatible con las funciones requeridas para mostrar este Sitio web.','El Navegador que estás utilizando podría no ser compatible con las funciones requeridas para poder ver este Sitio web.','[1]Actualiza tu explorador [/1] o [2]continuar de todos modos[/2].','http://outdatedbrowser.com/'); };
 			x5engine.utils.currentPagePath = 'datos_curiosos.html';
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2022-1-2-0-637873506361592470" type="image/png" />
+		<link rel="icon" href="favicon.png?2022-1-2-0-637938295300244937" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -69,14 +67,29 @@ Qué es?		</a>
 El Río Nazas		</a>
 </div>
 </div>
-	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Proyecto Agua Saludable</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths=",/antecedentes.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="antecedentes.html">
+Antecedentes		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/justificacion.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="justificacion.html">
+Justificación		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/agua-saludable.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="agua-saludable.html">
 Agua Saludable		</a>
 </div>
 </div>
-	</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="mapas.html">
@@ -100,6 +113,15 @@ x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_01_setting
 $(function () {$('#imHeader_imMenuObject_01_container ul li, #imHeader_imMenuObject_01_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
 $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
 </script>
+</div><div id="imHeader_imObjectImage_02_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_02"><div id="imHeader_imObjectImage_02_container"><img src="images/LOGO_CAED_CABEZA.gif" title="CAED Cultura del Agua Durango" alt="" />
+</div></div></div><div id="imHeader_imTextObject_04_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_04">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_04_tab0" style="opacity: 1; ">
+		<div class="text-inner">
+			<div data-line-height="1" class="lh1"><span class="fs30lh1 cf1"><b>Agua Saludable para la Laguna</b></span></div>
+		</div>
+	</div>
+
+</div>
 </div></div>
 					</header>
 					<div id="imStickyBarContainer">
@@ -118,92 +140,8 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						<div id="imPageRow_1" class="imPageRow">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_1"></div></div>
 						</div>
-						<div id="imCell_25" class="animable fadeInUp"  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_25"></div><div id="imCellStyleBorders_25"></div><!-- UNSEARCHABLE --><div id="imMenuObject_8_25"><div id="imMenuObject_8_25_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
-							<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
-								<div class="hamburger-menu-close-button"><span>&times;</span></div>
-							</div>
-						</div>
-						<ul class="menu-mobile-animated hidden">
-							<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="index.html">
-						INICIO		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">La Cuenca del Nazas</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
-							<li class="imMnMnFirst imPage" data-link-paths=",/que-es-.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="que-es-.html">
-						Qué es?		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/el-rio-nazas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="el-rio-nazas.html">
-						El Río Nazas		</a>
-						</div>
-						</div>
-							</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="agua-saludable.html">
-						Agua Saludable		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="mapas.html">
-						Mapas		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/datos_curiosos.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="datos_curiosos.html">
-						Datos curiosos		</a>
-						</div>
-						</div>
-							</li></ul></div></div><!-- UNSEARCHABLE END --><script>
-						var imMenuObject_8_25_settings = {
-							'menuId': 'imMenuObject_8_25',
-							'responsiveMenuEffect': 'slide',
-							'animationDuration': 1000,
-						}
-						x5engine.boot.push(function(){x5engine.initMenu(imMenuObject_8_25_settings)});
-						$(function () {$('#imMenuObject_8_25_container ul li, #imMenuObject_8_25_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imMenuObject_8_25_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imMenuObject_8_25_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
-						$(function () {$('#imMenuObject_8_25_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
-						</script>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_25').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_25"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_60" class="animable shake"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_60"></div><div id="imCellStyleBorders_60"></div><!-- Social Icons v.14 --><div id="pluginAppObj_8_60">
-						            <div id="soc_pluginAppObj_8_60">
-						                <div class="wrapper horizontal original grow">
-						                	<div class='social-icon original'><a href='https://fb.me/Incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><rect width="100" height="100" style="fill:#3d5a98"/><g><path d="M69,100V61.27H82l1.95-15.09H69V36.55c0-4.37,1.21-7.35,7.48-7.35h8V15.7a106.94,106.94,0,0,0-11.65-.59c-11.52,0-19.41,7-19.41,19.95V46.18h-13V61.27h13V100H69Z" style="fill:#fff"/></g></g></svg><span class='fallbacktext'>Fb</span></a></div><div class='social-icon original'><a href='https://www.youtube.com/user/incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"><defs><linearGradient id="shade_yt_pluginAppObj_8_60" x1="50" y1="21.87" x2="50" y2="78.13" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e52d27"/><stop offset="1" stop-color="#bf171d"/></linearGradient></defs><g><path d="M89.2,34S88.42,28.49,86,26.06a11.44,11.44,0,0,0-8-3.39c-11.19-.81-28-0.81-28-0.81h0s-16.79,0-28,.81a11.44,11.44,0,0,0-8,3.39C11.58,28.49,10.8,34,10.8,34A121,121,0,0,0,10,47V53A121,121,0,0,0,10.8,66s0.78,5.51,3.18,7.94c3,3.19,7,3.09,8.82,3.42,6.4,0.61,27.2.8,27.2,0.8s16.81,0,28-.83a11.44,11.44,0,0,0,8-3.39C88.42,71.48,89.2,66,89.2,66A121.16,121.16,0,0,0,90,53V47A121.16,121.16,0,0,0,89.2,34ZM41.74,60.38V37.9L63.35,49.18Z" style="fill:url(#shade_yt_pluginAppObj_8_60)"/></g></svg><span class='fallbacktext'>Yt</span></a></div><div class='social-icon original'><a href='https://twitter.com/Incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><rect width="100" height="100" style="fill:#1da1f2"/><g><path d="M38.89,76.4c23.59,0,36.48-19.54,36.48-36.48,0-.56,0-1.11,0-1.66a26.09,26.09,0,0,0,6.4-6.64,25.6,25.6,0,0,1-7.36,2A12.87,12.87,0,0,0,80,26.54a25.7,25.7,0,0,1-8.14,3.11A12.83,12.83,0,0,0,50,41.35,36.4,36.4,0,0,1,23.58,28a12.83,12.83,0,0,0,4,17.12,12.73,12.73,0,0,1-5.81-1.6c0,0.05,0,.11,0,0.16A12.83,12.83,0,0,0,32,56.2a12.8,12.8,0,0,1-5.79.22,12.84,12.84,0,0,0,12,8.91,25.73,25.73,0,0,1-15.93,5.49,26.1,26.1,0,0,1-3.06-.18A36.3,36.3,0,0,0,38.89,76.4" style="fill:#fff"/></g></g></svg><span class='fallbacktext'>Tw</span></a></div>
-						                </div>
-						
-						            </div>
-						                <script>
-						                    socialicons_pluginAppObj_8_60();
-						                </script>
-						        </div></div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_60').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_60"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_63" class="animable fadeInLeft"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_63"></div><div id="imCellStyleBorders_63"></div><div id="imObjectImage_8_63"><div id="imObjectImage_8_63_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
+						<div id="imCell_82" class=""  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_82"></div><div id="imCellStyleBorders_82"></div><div id="imObjectImage_8_82"><div id="imObjectImage_8_82_container"><img src="images/logo_voces_agua_2_nvdia3bt.png" title="" alt="" />
+						</div></div></div><div id="imCell_63" class="animable fadeInLeft"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_63"></div><div id="imCellStyleBorders_63"></div><div id="imObjectImage_8_63"><div id="imObjectImage_8_63_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
 						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
@@ -212,7 +150,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_62" class="animable zoomIn"  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_62"></div><div id="imCellStyleBorders_62"></div><div id="imTextObject_8_62">
+						<div id="imCell_62" class="animable zoomIn"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_62"></div><div id="imCellStyleBorders_62"></div><div id="imTextObject_8_62">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_62_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading1 imTACenter"><span class="cf1">¡Datos Curiosos!</span></div>
@@ -231,39 +169,15 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						<div id="imPageRow_2" class="imPageRow">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_2"></div></div>
 						</div>
-						<div id="imCell_64" class="animable fadeInDown"  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_64"></div><div id="imCellStyleBorders_64"></div><div id="imTextObject_8_64">
+						<div id="imCell_64" class=""  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_64"></div><div id="imCellStyleBorders_64"></div><div id="imTextObject_8_64">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_64_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div data-line-height="1.5" class="lh1-5"><ul><li class="imTAJustify">Los Irritilas practicaban la pesca como una de sus actividades principales, así como la caza, la recolección y una incipiente agricultura de granos. Un rasgo distintivo de esta tribu fue su técnica de pesca, con la utilización de cestas tejidas por ellos mismos, con plantas que se encontraban en el mismo río, y a las que llamaron nasas. Estas cestas eran aventadas al río para pescar. Los conquistadores españoles cuando vieron esto, nombraron al río “el nasas”.</li></ul></div>
+									<div data-line-height="1.5" class="lh1-5"><ul><li><span class="fs16lh1-5">Los Irritilas practicaban la pesca como una de sus actividades principales, así como la caza, la recolección y una incipiente agricultura de granos.</span><br></li></ul></div><blockquote><blockquote><blockquote><div data-line-height="1.5" class="lh1-5"><span class="fs16lh1-5">Un rasgo distintivo de esta tribu fue su técnica de pesca, con la utilización de cestas tejidas por ellos mismos, con plantas que se encontraban en el mismo río y a las que llamaron nasas. Estas cestas eran aventadas al río para pescar.</span></div></blockquote></blockquote></blockquote><blockquote><blockquote><blockquote><div data-line-height="1.5" class="lh1-5"><span class="fs16lh1-5">Los conquistadores españoles cuando vieron esto, nombraron al río “el nasas”.</span></div></blockquote></blockquote></blockquote>
 								</div>
 							</div>
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_64').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_64"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_65" class="animable fadeInUp"  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_65"></div><div id="imCellStyleBorders_65"></div><div id="imTextObject_8_65">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_65_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<div data-line-height="1.5" class="lh1-5"><ul><li class="imTAJustify"><span class="fs16lh1-5">El municipio de Lerdo toma su nombre del ilustre liberal mexicano Don Miguel Lerdo de Tejada, según el acta expedida el 8 de septiembre de 1864 por el Lic. Benito Juárez, la cual eleva a villa esta localidad. <br></span></li></ul></div>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_65').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_65"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_66" class="animable zoomIn"  data-responsive-sequence-number="7"> <div id="imCellStyleGraphics_66"></div><div id="imCellStyleBorders_66"></div><div id="imObjectImage_8_66"><div id="imObjectImage_8_66_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						</div><div id="imCell_66" class="animable zoomIn"  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_66"></div><div id="imCellStyleBorders_66"></div><div id="imObjectImage_8_66"><div id="imObjectImage_8_66_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/cuenca_nazas_02.png" data-title="" data-alt=""></div>
 						
 						<script>
@@ -285,23 +199,59 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 							});
 						</script>
-						<div id="imCell_67" class="animable zoomIn"  data-responsive-sequence-number="8"> <div id="imCellStyleGraphics_67"></div><div id="imCellStyleBorders_67"></div><div id="imTextObject_8_67">
+						<div id="imCell_83" class="animable zoomIn"  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_83"></div><div id="imCellStyleBorders_83"></div><div id="imObjectImage_8_83"><div id="imObjectImage_8_83_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/PRESA_LAZARO_CARDENAS.png" data-title="Presa Lázaro Cárdenas &quot;El Palmito&quot;" data-alt=""></div>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_83').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_83').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_83"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imCell_67" class=""  data-responsive-sequence-number="7"> <div id="imCellStyleGraphics_67"></div><div id="imCellStyleBorders_67"></div><div id="imTextObject_8_67">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_67_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<ul><li><div class="imTAJustify"><span class="fs16lh1-5">L</span><span class="fs16lh1-5">a presa Lázaro Cárdenas se localiza a 200 kilómetros de la Ciudad de Gómez Palacio, Durango; y fue construida por la Comisión Nacional de Irrigación en el período de 1936 a1946, con objeto de almacenar el agua que bajaba de la Sierra de Durango, controlar las crecientes o avenidas del Nazas y aprovechar esta agua para la agricultura. </span><span class="fs16lh1-5">Cuenta con una capacidad temporal a su Nivel de Aguas Máximo Extraordinario (NAME) de 4,438 millones de metros cúbicos (Mm</span><sup>3</sup><span class="fs16lh1-5">), es decir 1,643 estadios Azteca; y puede retener en forma permanente a su Nivel de Aguas Máximo Ordinario (NAMO) 2, 873 Mm</span><sup>3</sup><span class="fs16lh1-5">.</span></div></li></ul><div></div>
+									<ul><li><div class="imTALeft"><span class="fs16lh1-5">L</span><span class="fs16lh1-5">a presa Lázaro Cárdenas se localiza a 200 kilómetros de la Ciudad de Gómez Palacio, Durango; y fue construida por la Comisión Nacional de Irrigación en el período de 1936 a 1946, con objeto de almacenar el agua que bajaba de la Sierra de Durango y controlar las crecientes o avenidas del Nazas para aprovechar esa agua para la agricultura. </span></div></li></ul><blockquote><blockquote><blockquote><span class="fs16lh1-5">Cuenta con una capacidad temporal a su Nivel de Aguas Máximo Extraordinario (NAME) de 4,438 millones de metros cúbicos (Mm</span><sup>3</sup><span class="fs16lh1-5">), es decir, el equivalente a 1,643 estadios Azteca y puede retener en forma permanente a su Nivel de Aguas Máximo Ordinario (NAMO) 2, 873 Mm</span><sup>3</sup><span class="fs16lh1-5">.</span></blockquote></blockquote></blockquote><div></div>
 								</div>
 							</div>
 						
 						</div>
+						</div><div id="imPageRow_3" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_3"></div></div>
 						</div>
+						<div id="imCell_84" class="animable zoomIn"  data-responsive-sequence-number="8"> <div id="imCellStyleGraphics_84"></div><div id="imCellStyleBorders_84"></div><div id="imObjectImage_8_84"><div id="imObjectImage_8_84_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMGL5169.jpg" data-title="Presa Francisco Zarco &quot;Las Tortolas&quot;" data-alt=""></div>
+						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_67').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_67"))
+								x5engine.utils.onLazyLoadedElement($('#imCell_84').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_84').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_84"))
 								}, 100);
 							});
+							});
 						</script>
-						<div id="imCell_68" class="animable fadeInLeft"  data-responsive-sequence-number="9"> <div id="imCellStyleGraphics_68"></div><div id="imCellStyleBorders_68"></div><div id="imObjectImage_8_68"><div id="imObjectImage_8_68_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imCell_70" class=""  data-responsive-sequence-number="9"> <div id="imCellStyleGraphics_70"></div><div id="imCellStyleBorders_70"></div><div id="imTextObject_8_70">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_70_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<ul><li><div class="imTAJustify"><div><span class="fs16lh1-5">El 14 de julio de 1966 inició la construcción
+						de la presa Francisco Zarco o “Las Tórtolas” por la entonces Secretaría de
+						Recursos Hidráulicos. La obra se hizo en un período comprendido entre 1965 a
+						1968, en el sitio conocido como "Cañón de Fernández", en el Municipio
+						de Lerdo Durango.</span></div>
+						
+						<div><span class="fs16lh1-5">Esta presa cuenta con una capacidad temporal
+						a su Nivel de Aguas Máximo Extraordinario (NAME) de 383 Mm<sup>3</sup>, es
+						decir 172 veces el estadio Azteca y puede retener en forma permanente a su
+						Nivel de Aguas Máximo Ordinario (NAMO) 309 Mm<sup>3</sup>. </span></div></div></li></ul>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_68" class="animable fadeInLeft"  data-responsive-sequence-number="10"> <div id="imCellStyleGraphics_68"></div><div id="imCellStyleBorders_68"></div><div id="imObjectImage_8_68"><div id="imObjectImage_8_68_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/IMGL5637.jpg" data-title="El Río Sextín, ejemplo de río del desierto." data-alt=""></div>
 						
 						<script>
@@ -323,87 +273,18 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 							});
 						</script>
-						<div id="imCell_70" class="animable zoomIn"  data-responsive-sequence-number="10"> <div id="imCellStyleGraphics_70"></div><div id="imCellStyleBorders_70"></div><div id="imTextObject_8_70">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_70_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<ul><li><div class="imTAJustify"><div><span class="fs16lh1-5">El 14 de julio de 1966 inició la construcción
-						de la presa Francisco Zarco o “Las Tórtolas” por la entonces Secretaría de
-						Recursos Hidráulicos. La obra se hizo en un período comprendido entre 1965 a
-						1968, en el sitio conocido como "Cañón de Fernández", en el Municipio
-						de Lerdo Durango.</span></div>
-						
-						<div><span class="fs16lh1-5">Esta presa cuenta con una capacidad temporal
-						a su Nivel de Aguas Máximo Extraordinario (NAME) de 383 Mm<sup>3</sup>, es
-						decir 172 veces el estadio Azteca y puede retener en forma permanente a su
-						Nivel de Aguas Máximo Ordinario (NAMO) 309 Mm<sup>3</sup>. </span></div></div></li></ul>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_70').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_70"))
-								}, 100);
-							});
-						</script>
-						<div id="imPageRow_3" class="imPageRow">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_3"></div></div>
-						</div>
-						<div id="imCell_69" class="animable fadeInDown"  data-responsive-sequence-number="11"> <div id="imCellStyleGraphics_69"></div><div id="imCellStyleBorders_69"></div><div id="imTextObject_8_69">
+						<div id="imCell_69" class=""  data-responsive-sequence-number="11"> <div id="imCellStyleGraphics_69"></div><div id="imCellStyleBorders_69"></div><div id="imTextObject_8_69">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_69_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<ul><li><div class="imTAJustify"><span class="fs16lh1-5">Recodemos que hace millones de años la Laguna se
-						encontraba bajo las aguas del mar de Tethys. Al desaparecer éste, quedó un
-						sistema lagunar de 11 cuerpos de agua dispersos por la región, para finalmente
-						identificar la presencia de dos grandes lagunas la de Mayrán y la de Viesca,
-						alimentadas por los ríos Nazas y Aguanaval, respectivamente.</span></div></li></ul>
+									<ul><li><div class="imTAJustify"><span class="fs16lh1-5">Recodemos que hace millones de años la Laguna se encontraba bajo las aguas del mar de Tethys. Al desaparecer éste, quedó un sistema lagunar de 11 cuerpos de agua dispersos por la región, para finalmente identificar la presencia de dos grandes lagunas la de Mayrán y la de Viesca, alimentadas por los ríos Nazas y Aguanaval, respectivamente.</span></div></li></ul><span class="fs16lh1-5"><br></span><ul><li><span class="fs16lh1-5">La palabra Tlahualilo, proviene del náhuatl "Tlalli", Tierra fértil. "Ahualila", Agua para regadío. Tambien proviene del Tepehuano "Tlahualilac", Lugar con agua para regadío de plantas.</span><br></li></ul>
 								</div>
 							</div>
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_69').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_69"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_71" class="animable fadeInUp"  data-responsive-sequence-number="12"> <div id="imCellStyleGraphics_71"></div><div id="imCellStyleBorders_71"></div><div id="imTextObject_8_71">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_71_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<ul><li class="imTAJustify"><span class="fs16lh1-5">La palabra Tlahualilo, proviene del náhuatl "Tlalli", Tierra fértil. "Ahualila", Agua para regadío. Tambien proviene del Tepehuano "Tlahualilac", Lugar con agua para regadío de plantas.</span></li></ul>
-								</div>
-							</div>
+						</div><div id="imPageRow_4" class="imPageRow">
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_71').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_71"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_73" class="animable fadeInLeft"  data-responsive-sequence-number="13"> <div id="imCellStyleGraphics_73"></div><div id="imCellStyleBorders_73"></div><div id="imTextObject_8_73">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_73_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<ul><li class="imTAJustify"><span class="fs16lh1-5">Asentada al pie del cerro de la Bufa, del también llamado cerro de la india por su similitud a un perfil humano. Después de 273 años de la fundación de la Gran Tenochtitlán y 106 años después del descubrimiento del continente americano, existió en la parte oriente de la antigua provincia de la Nueva Vizcaya, hoy extremo norte del estado de Durango, una comunidad habitada por indígenas cocoyones a los que también se denominaba "Mapemes" por estar situados al pie de dicha altura a la que los naturales nombraban "Mapeme", que en su habla es igual a "Piedra en Alto" o "Cerro Elevado". De Mapeme la palabra se transformó por declinación lingüística en Mapemé y luego en Mapimí.<br></span></li></ul>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_73').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_73"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_72" class="animable zoomIn"  data-responsive-sequence-number="14"> <div id="imCellStyleGraphics_72"></div><div id="imCellStyleBorders_72"></div><div id="imObjectImage_8_72"><div id="imObjectImage_8_72_container"><img src="images/IMGL5446.jpg" title="Parque Estatal, Cañon de Fernández. Sitio RAMSAR desde 2008." alt="" />
+						<div id="imCell_72" class="animable zoomIn"  data-responsive-sequence-number="12"> <div id="imCellStyleGraphics_72"></div><div id="imCellStyleBorders_72"></div><div id="imObjectImage_8_72"><div id="imObjectImage_8_72_container"><img src="images/IMGL5746.jpg" title="" alt="" />
 						
 						<script>
 							x5engine.boot.push(function () {
@@ -418,69 +299,46 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
+						<div id="imCell_73" class=""  data-responsive-sequence-number="13"> <div id="imCellStyleGraphics_73"></div><div id="imCellStyleBorders_73"></div><div id="imTextObject_8_73">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_73_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<ul><li class="imTAJustify"><span class="fs16lh1-5">Asentada al pie del cerro de la Bufa, del también llamado cerro de la india por su similitud a un perfil humano. Después de 273 años de la fundación de la Gran Tenochtitlán y 106 años después del descubrimiento del continente americano, existió en la parte oriente de la antigua provincia de la Nueva Vizcaya, hoy extremo norte del estado de Durango, una comunidad habitada por indígenas cocoyones a los que también se denominaba "Mapemes" por estar situados al pie de dicha altura a la que los naturales nombraban "Mapeme", que en su habla es igual a "Piedra en Alto" o "Cerro Elevado". De Mapeme la palabra se transformó por declinación lingüística en Mapemé y luego en Mapimí.<br></span></li></ul>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_86" class="animable zoomIn"  data-responsive-sequence-number="14"> <div id="imCellStyleGraphics_86"></div><div id="imCellStyleBorders_86"></div><div id="imObjectImage_8_86"><div id="imObjectImage_8_86_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/PUENTE_GOMEZ_TORREON.png" data-title="Puente Gómez Palacio-Torreón" data-alt=""></div>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_86').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_86').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_86"))
+								}, 100);
+							});
+							});
+						</script>
 						<div id="imCell_81" class=""  data-responsive-sequence-number="15"> <div id="imCellStyleGraphics_81"></div><div id="imCellStyleBorders_81"></div><div id="imTextObject_8_81">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_81_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<ul><li class="imTAJustify"><span class="fs16lh1-5">Gómez Palacio cuenta con 9 puentes que atraviesan el Río Nazas y comunican esta ciudad con la ciudad coahuilense de Torreón, &nbsp;pero sin duda alguna el puente más representativo y antiguo es el Puente Plateado ubicado donde finaliza el bulevar Miguel Alemán. Dicho &nbsp;puente fue construido en el año de 1932. en la entrada del puente se &nbsp;encuentra una plaza que hace constar el inicio de la toma de Torreón, en &nbsp;dicha plaza se encuentra un monumento del general Felipe Ángeles al igual que un antiguo cañón que está apuntando hacia la ciudad de Torreón. La historia cuenta que fue en ese punto donde Felipe Ángeles tiró varios cañonazos hacia el centro histórico de Torreón agrediendo a las fuerzas federales que se ubicaban en esa zona. Los &nbsp;revolucionarios no podían cruzar hacia Torreón ya que se encontraba el río Nazas y dicho puente no existía aún. <br></span></li></ul>
+									<ul><li class="imTALeft"><span class="fs16lh1-5">Gómez Palacio cuenta con 9 puentes que atraviesan el Río Nazas y comunican esta ciudad con la ciudad coahuilense de Torreón, &nbsp;pero sin duda alguna el puente más representativo y antiguo es el Puente Plateado ubicado donde finaliza el bulevar Miguel Alemán. Dicho &nbsp;puente fue construido en el año de 1932. en la entrada del puente se &nbsp;encuentra una plaza que hace constar el inicio de la toma de Torreón, en &nbsp;dicha plaza se encuentra un monumento del general Felipe Ángeles al igual que un antiguo cañón que está apuntando hacia la ciudad de Torreón. La historia cuenta que fue en ese punto donde Felipe Ángeles tiró varios cañonazos hacia el centro histórico de Torreón agrediendo a las fuerzas federales que se ubicaban en esa zona. Los &nbsp;revolucionarios no podían cruzar hacia Torreón ya que se encontraba el río Nazas y dicho puente no existía aún. <br></span></li></ul>
 								</div>
 							</div>
 						
 						</div>
-						</div><div id="imCell_74" class="animable fadeInRight"  data-responsive-sequence-number="16"> <div id="imCellStyleGraphics_74"></div><div id="imCellStyleBorders_74"></div><div id="imTextObject_8_74">
+						</div><div id="imPageRow_5" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_5"></div></div>
+						</div>
+						<div id="imCell_74" class=""  data-responsive-sequence-number="16"> <div id="imCellStyleGraphics_74"></div><div id="imCellStyleBorders_74"></div><div id="imTextObject_8_74">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_74_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<ul><li><div class="fs16lh1-5"><div class="imTAJustify"><span class="fs16lh1-5">Torreón, en 1850 Zuloaga contrató a Pedro Santa Cruz para que edificara la presa del Carrizal y, a un lado, una cuadra para guardar herramientas y muladas, en una de cuyas esquinas se levantó un torreón que servía de vigía. De ahí el nombre del municipio. </span><br></div></div></li></ul>
+									<ul><li><div class="fs16lh1-5"><div class="imTALeft"><span class="fs16lh1-5">Torreón, en 1850 Zuloaga contrató a Pedro Santa Cruz para que edificara la presa del Carrizal y, a un lado, una cuadra para guardar herramientas y muladas, en una de cuyas esquinas se levantó un torreón que servía de vigía. De ahí el nombre del municipio. </span><br></div></div></li></ul>
 								</div>
 							</div>
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_74').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_74"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_76" class="animable fadeInDown"  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_76"></div><div id="imCellStyleBorders_76"></div><div id="imTextObject_8_76">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_76_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<ul><li><div class="fs16lh1-5"><div class="imTAJustify">El 24 de julio de 1731 fue fundado, con indios tlaxcaltecas, el poblado de San José y Santiago del Alamo. </div>
-						 &nbsp;&nbsp;&nbsp;<div class="imTAJustify">Por decreto del Congreso del Estado del 21 de septiembre de 1830,
-						 se elevó a categoría de villa, con el nombre de José de Viesca y 
-						Bustamante, en honor al primer gobernador de Coahuila y Texas y de 
-						Anastacio Bustamante que asumió el cargo de Presidente de la nación en 
-						enero de 1830; pero, a partir de 1834, el municipio sólo conservó el 
-						nombre de San José de Viesca. </div></div></li></ul>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_76').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_76"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_77" class="animable fadeInRight"  data-responsive-sequence-number="18"> <div id="imCellStyleGraphics_77"></div><div id="imCellStyleBorders_77"></div><div id="imTextObject_8_77">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_77_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<ul><li class="imTAJustify"><span class="fs16lh1-5">Matamoros: El presidente Benito Juárez decretó el 5 de septiembre de 1864 que este &nbsp;poblado se elevara a la categoría de villa, con el nombre de Matamoros en honor del ilustre caudillo de la independencia Mariano Matamoros.<br></span></li></ul>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_77').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_77"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_75" class="animable fadeInLeft"  data-responsive-sequence-number="19"> <div id="imCellStyleGraphics_75"></div><div id="imCellStyleBorders_75"></div><div id="imObjectImage_8_75"><div id="imObjectImage_8_75_container"><img src="images/IMGL5514.jpg" title="Las dunas de Viesca" alt="" />
+						</div><div id="imCell_75" class="animable fadeInLeft"  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_75"></div><div id="imCellStyleBorders_75"></div><div id="imObjectImage_8_75"><div id="imObjectImage_8_75_container"><img src="images/IMGL5514.jpg" title="Las dunas de Viesca" alt="" />
 						
 						<script>
 							x5engine.boot.push(function () {
@@ -495,52 +353,54 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imPageRow_4" class="imPageRow">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_4"></div></div>
+						<div id="imCell_76" class=""  data-responsive-sequence-number="18"> <div id="imCellStyleGraphics_76"></div><div id="imCellStyleBorders_76"></div><div id="imTextObject_8_76">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_76_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<ul><li><div class="fs16lh1-5"><div class="imTALeft">El 24 de julio de 1731 fue fundado, con indios tlaxcaltecas, el poblado de San José y Santiago del Alamo. </div><div class="imTALeft">Por decreto del Congreso del Estado del 21 de septiembre de 1830, &nbsp;se elevó a categoría de villa, con el nombre de José de Viesca y &nbsp;Bustamante, en honor al primer gobernador de Coahuila y Texas y de &nbsp;Anastacio Bustamante que asumió el cargo de Presidente de la nación en &nbsp;enero de 1830; pero, a partir de 1834, el municipio sólo conservó el &nbsp;nombre de San José de Viesca. </div></div></li></ul>
+								</div>
+							</div>
+						
 						</div>
-						<div id="imCell_79" class="animable fadeInDown"  data-responsive-sequence-number="20"> <div id="imCellStyleGraphics_79"></div><div id="imCellStyleBorders_79"></div><div id="imTextObject_8_79">
+						</div><div id="imCell_77" class=""  data-responsive-sequence-number="19"> <div id="imCellStyleGraphics_77"></div><div id="imCellStyleBorders_77"></div><div id="imTextObject_8_77">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_77_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<ul><li class="imTALeft"><span class="fs16lh1-5">Matamoros: El presidente Benito Juárez decretó el 5 de septiembre de 1864 que este &nbsp;poblado se elevara a la categoría de villa, con el nombre de Matamoros en honor del ilustre caudillo de la independencia Mariano Matamoros.<br></span></li></ul>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_85" class="animable zoomIn"  data-responsive-sequence-number="20"> <div id="imCellStyleGraphics_85"></div><div id="imCellStyleBorders_85"></div><div id="imObjectImage_8_85"><div id="imObjectImage_8_85_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMGL5519.jpg" data-title="LAs dunas de Viesca" data-alt=""></div>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_85').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_85').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_85"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imPageRow_6" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_6"></div></div>
+						</div>
+						<div id="imCell_79" class=""  data-responsive-sequence-number="21"> <div id="imCellStyleGraphics_79"></div><div id="imCellStyleBorders_79"></div><div id="imTextObject_8_79">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_79_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<ul><li class="imTAJustify"><span class="fs16lh1-5">Por decreto expedido el 30 de noviembre de 1936, el municipio quedó bajo
-						 el nombre de Francisco I. Madero, siendo su cabecera el poblado de 
-						Chávez, al que le fue concedido el título de villa, con el mismo nombre 
-						del municipio.<br></span></li></ul>
+									<ul><li class="imTALeft"><span class="fs16lh1-5">Por decreto expedido el 30 de noviembre de 1936, el municipio quedó bajo &nbsp;el nombre de Francisco I. Madero, siendo su cabecera el poblado de &nbsp;Chávez, al que le fue concedido el título de villa, con el mismo nombre &nbsp;del municipio.<br></span></li></ul>
 								</div>
 							</div>
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_79').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_79"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_80" class="animable fadeInLeft"  data-responsive-sequence-number="21"> <div id="imCellStyleGraphics_80"></div><div id="imCellStyleBorders_80"></div><div id="imTextObject_8_80">
+						</div><div id="imCell_80" class=""  data-responsive-sequence-number="22"> <div id="imCellStyleGraphics_80"></div><div id="imCellStyleBorders_80"></div><div id="imTextObject_8_80">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_8_80_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<ul><li class="imTAJustify"><span class="fs16lh1-5">La colonia agrícola de San Pedro, que dio origen y nombre a esta ciudad,
-						 fue fundada por los señores Jesús María Gámez, Epitacio Sifuentes, 
-						Gerónimo Berlanga, Juan Acuña, Zeferino Méndez y Francisco Gámez; en el 
-						año de 1870 se constituyó en villa San Pedro de las Colonias; de 
-						diciembre de 1873 a enero de 1874 por los mismos habitantes de la 
-						colonia en esas fechas, en previsión de inundaciones, se cree, cambiaron
-						 su residencia a ese lugar cuando ya formaban un núcleo de 5 mil 
-						personas. Y esta población fue erigida en ciudad en el año de 1921.<br></span></li></ul>
+									<ul><li class="imTALeft"><span class="fs16lh1-5">La colonia agrícola de San Pedro, que dio origen y nombre a esta ciudad, &nbsp;fue fundada por los señores Jesús María Gámez, Epitacio Sifuentes, &nbsp;Gerónimo Berlanga, Juan Acuña, Zeferino Méndez y Francisco Gámez; en el &nbsp;año de 1870 se constituyó en villa San Pedro de las Colonias; de &nbsp;diciembre de 1873 a enero de 1874 por los mismos habitantes de la &nbsp;colonia en esas fechas, en previsión de inundaciones, se cree, cambiaron &nbsp;su residencia a ese lugar cuando ya formaban un núcleo de 5 mil &nbsp;personas. Y esta población fue erigida en ciudad en el año de 1921.<br></span></li></ul>
 								</div>
 							</div>
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_80').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_80"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_78" class="animable fadeInRight"  data-responsive-sequence-number="22"> <div id="imCellStyleGraphics_78"></div><div id="imCellStyleBorders_78"></div><div id="imObjectImage_8_78"><div id="imObjectImage_8_78_container"><img src="images/IMG_6401.jpg" title="Canales de riego, Distrito 017" alt="" />
+						</div><div id="imCell_78" class="animable fadeInRight"  data-responsive-sequence-number="23"> <div id="imCellStyleGraphics_78"></div><div id="imCellStyleBorders_78"></div><div id="imObjectImage_8_78"><div id="imObjectImage_8_78_container"><img src="images/SAN_PEDRO.jpg" title="Canales de riego, Distrito 017" alt="" />
 						
 						<script>
 							x5engine.boot.push(function () {
@@ -555,6 +415,12 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
+						<div id="imPageRow_7" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_7"></div></div>
+						</div>
+						<div id="imPageRow_8" class="imPageRow">
+						
+						</div>
 						
 					</main>
 					<footer id="imFooter">
@@ -569,7 +435,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 </div><div id="imFooter_imTableObject_07_wrapper" class="template-object-wrapper"><div id="imFooter_imTableObject_07">
 	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTableObject_07_tab0" style="opacity: 1; ">
 		<div class="text-inner">
-			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_dly9bjwv.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
+			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_fuqun29a.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
 		</div>
 	</div>
 

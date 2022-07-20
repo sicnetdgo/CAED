@@ -19,17 +19,15 @@
 		<link rel="stylesheet" href="style/print.css?2022-1-2-0" media="print" />
 		<link rel="stylesheet" href="style/style.css?2022-1-2-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-1-2-0" media="screen" />
-		<link rel="stylesheet" href="pluginAppObj/pluginAppObj_4_59/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/agua-saludable.css?2022-1-2-0-637873508351848125" media="screen,print" />
+		<link rel="stylesheet" href="pcss/agua-saludable.css?2022-1-2-0-637931560238877205" media="screen,print" />
 		<script src="res/jquery.js?2022-1-2-0"></script>
 		<script src="res/x5engine.js?2022-1-2-0" data-files-version="2022-1-2-0"></script>
-		<script src="res/x5engine.offline.js?2022-1-2-0-637873508344750435"></script>
+		<script src="res/x5engine.offline.js?2022-1-2-0-637931560237158487"></script>
 		<script>
 		x5engine.boot.push(function(){ x5engine.contentSlider.init( { classes: { root: 'content-slider-root', slide: 'slide-container', animated: 'slide-animated-element', ctrlContainer: 'content-slider-ctrl-container', ctrlVisible: 'ctrl-visible', ctrlVisibleOnMobile: 'ctrl-visible-on-mobile', prev: '-prev', next: '-next', defaultSlide: 'default-slide', slideOut: 'exiting-slide', slideIn: 'entering-slide', noElementEffect: 'element-effect-none', radioIdSeparator: '-slide-radio-', radioBar: 'current-slide-radio-container', radioBarNext: 'radio-bar-next', radioBarPrev: 'radio-bar-prev' }, radio: { visibleNumber: 15, size: 22, slideBarGap: 10 }, config: { radioSliding: { enabled: false }, ctrlHidingDuringAnimations: { enabled: true, animations: [ 'change-effect-rotateX', 'change-effect-rotateY', 'change-effect-cube' ] } } } ); }, false, 7);
 		x5engine.boot.push(function () { x5engine.contentSlider['imObjectContentSlider_4_03'].autoplay(10000); }, false, 8); 
 		
 		</script>
-		<script src="pluginAppObj/pluginAppObj_4_59/main.js"></script>
 		<script>x5engine.boot.push(function () { x5engine.image.activateLazyLoading(); });</script>
 		<script>
 			window.onload = function(){ checkBrowserCompatibility('El Explorador que estás usando no es compatible con las funciones requeridas para mostrar este Sitio web.','El Navegador que estás utilizando podría no ser compatible con las funciones requeridas para poder ver este Sitio web.','[1]Actualiza tu explorador [/1] o [2]continuar de todos modos[/2].','http://outdatedbrowser.com/'); };
@@ -38,7 +36,7 @@
 			x5engine.boot.push(function () { x5engine.imageSequence.start(); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2022-1-2-0-637873508345100322" type="image/png" />
+		<link rel="icon" href="favicon.png?2022-1-2-0-637931560237314737" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -76,14 +74,29 @@ Qué es?		</a>
 El Río Nazas		</a>
 </div>
 </div>
-	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Proyecto Agua Saludable</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths=",/antecedentes.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="antecedentes.html">
+Antecedentes		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/justificacion.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="justificacion.html">
+Justificación		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/agua-saludable.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="agua-saludable.html">
 Agua Saludable		</a>
 </div>
 </div>
-	</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="mapas.html">
@@ -107,6 +120,15 @@ x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_01_setting
 $(function () {$('#imHeader_imMenuObject_01_container ul li, #imHeader_imMenuObject_01_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
 $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
 </script>
+</div><div id="imHeader_imObjectImage_02_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_02"><div id="imHeader_imObjectImage_02_container"><img src="images/LOGO_CAED_CABEZA.gif" title="CAED Cultura del Agua Durango" alt="" />
+</div></div></div><div id="imHeader_imTextObject_04_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_04">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_04_tab0" style="opacity: 1; ">
+		<div class="text-inner">
+			<div data-line-height="1" class="lh1"><span class="fs30lh1 cf1"><b>Agua Saludable para la Laguna</b></span></div>
+		</div>
+	</div>
+
+</div>
 </div></div>
 					</header>
 					<div id="imStickyBarContainer">
@@ -122,99 +144,15 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 					<div id="imContentGraphics"></div>
 					<main id="imContent">
 						<a id="imGoToCont"></a>
-						<div id="imPageRow_1" class="imPageRow">
-						<div class="image-list-row-container"><div id="imPageRowGraphics_1_0" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="0"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_1" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="1"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_2" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="2"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_3" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="3"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRow_1" class="imPageRow imParallax">
+						<div class="image-list-row-container"><div id="imPageRowGraphics_1_0" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="50" data-sequence-position="0"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_1" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="50" data-sequence-position="1"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_2" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="50" data-sequence-position="2"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_3" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="50" data-sequence-position="3"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
 						</div>
 						</div>
-						<div id="imCell_23" class="animable fadeInUp"  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_23"></div><div id="imCellStyleBorders_23"></div><!-- UNSEARCHABLE --><div id="imMenuObject_4_23"><div id="imMenuObject_4_23_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
-							<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
-								<div class="hamburger-menu-close-button"><span>&times;</span></div>
-							</div>
-						</div>
-						<ul class="menu-mobile-animated hidden">
-							<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="index.html">
-						INICIO		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">La Cuenca del Nazas</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
-							<li class="imMnMnFirst imPage" data-link-paths=",/que-es-.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="que-es-.html">
-						Qué es?		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/el-rio-nazas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="el-rio-nazas.html">
-						El Río Nazas		</a>
-						</div>
-						</div>
-							</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="agua-saludable.html">
-						Agua Saludable		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="mapas.html">
-						Mapas		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/datos_curiosos.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="datos_curiosos.html">
-						Datos curiosos		</a>
-						</div>
-						</div>
-							</li></ul></div></div><!-- UNSEARCHABLE END --><script>
-						var imMenuObject_4_23_settings = {
-							'menuId': 'imMenuObject_4_23',
-							'responsiveMenuEffect': 'slide',
-							'animationDuration': 1000,
-						}
-						x5engine.boot.push(function(){x5engine.initMenu(imMenuObject_4_23_settings)});
-						$(function () {$('#imMenuObject_4_23_container ul li, #imMenuObject_4_23_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imMenuObject_4_23_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imMenuObject_4_23_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
-						$(function () {$('#imMenuObject_4_23_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
-						</script>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_23').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_23"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_59" class="animable shake"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_59"></div><div id="imCellStyleBorders_59"></div><!-- Social Icons v.14 --><div id="pluginAppObj_4_59">
-						            <div id="soc_pluginAppObj_4_59">
-						                <div class="wrapper horizontal original grow">
-						                	<div class='social-icon original'><a href='https://fb.me/Incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><rect width="100" height="100" style="fill:#3d5a98"/><g><path d="M69,100V61.27H82l1.95-15.09H69V36.55c0-4.37,1.21-7.35,7.48-7.35h8V15.7a106.94,106.94,0,0,0-11.65-.59c-11.52,0-19.41,7-19.41,19.95V46.18h-13V61.27h13V100H69Z" style="fill:#fff"/></g></g></svg><span class='fallbacktext'>Fb</span></a></div><div class='social-icon original'><a href='https://www.youtube.com/user/incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"><defs><linearGradient id="shade_yt_pluginAppObj_4_59" x1="50" y1="21.87" x2="50" y2="78.13" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e52d27"/><stop offset="1" stop-color="#bf171d"/></linearGradient></defs><g><path d="M89.2,34S88.42,28.49,86,26.06a11.44,11.44,0,0,0-8-3.39c-11.19-.81-28-0.81-28-0.81h0s-16.79,0-28,.81a11.44,11.44,0,0,0-8,3.39C11.58,28.49,10.8,34,10.8,34A121,121,0,0,0,10,47V53A121,121,0,0,0,10.8,66s0.78,5.51,3.18,7.94c3,3.19,7,3.09,8.82,3.42,6.4,0.61,27.2.8,27.2,0.8s16.81,0,28-.83a11.44,11.44,0,0,0,8-3.39C88.42,71.48,89.2,66,89.2,66A121.16,121.16,0,0,0,90,53V47A121.16,121.16,0,0,0,89.2,34ZM41.74,60.38V37.9L63.35,49.18Z" style="fill:url(#shade_yt_pluginAppObj_4_59)"/></g></svg><span class='fallbacktext'>Yt</span></a></div><div class='social-icon original'><a href='https://twitter.com/Incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><rect width="100" height="100" style="fill:#1da1f2"/><g><path d="M38.89,76.4c23.59,0,36.48-19.54,36.48-36.48,0-.56,0-1.11,0-1.66a26.09,26.09,0,0,0,6.4-6.64,25.6,25.6,0,0,1-7.36,2A12.87,12.87,0,0,0,80,26.54a25.7,25.7,0,0,1-8.14,3.11A12.83,12.83,0,0,0,50,41.35,36.4,36.4,0,0,1,23.58,28a12.83,12.83,0,0,0,4,17.12,12.73,12.73,0,0,1-5.81-1.6c0,0.05,0,.11,0,0.16A12.83,12.83,0,0,0,32,56.2a12.8,12.8,0,0,1-5.79.22,12.84,12.84,0,0,0,12,8.91,25.73,25.73,0,0,1-15.93,5.49,26.1,26.1,0,0,1-3.06-.18A36.3,36.3,0,0,0,38.89,76.4" style="fill:#fff"/></g></g></svg><span class='fallbacktext'>Tw</span></a></div>
-						                </div>
-						
-						            </div>
-						                <script>
-						                    socialicons_pluginAppObj_4_59();
-						                </script>
-						        </div></div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_59').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_59"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_60" class="animable fadeInLeft"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_60"></div><div id="imCellStyleBorders_60"></div><div id="imObjectImage_4_60"><div id="imObjectImage_4_60_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
+						<div id="imCell_70" class=""  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_70"></div><div id="imCellStyleBorders_70"></div><div id="imObjectImage_4_70"><div id="imObjectImage_4_70_container"><img src="images/logo_voces_agua_2_qpleisnm.png" title="" alt="" />
+						</div></div></div><div id="imCell_60" class="animable fadeInLeft"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_60"></div><div id="imCellStyleBorders_60"></div><div id="imObjectImage_4_60"><div id="imObjectImage_4_60_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
 						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
@@ -223,10 +161,10 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_33" class="animable fadeInDown"  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_33"></div><div id="imCellStyleBorders_33"></div><div id="imTextObject_4_33">
+						<div id="imCell_33" class="animable fadeInDown"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_33"></div><div id="imCellStyleBorders_33"></div><div id="imTextObject_4_33">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_33_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><div class="imHeading1">Proyecto Agua Saludable</div></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+									<div class="imHeading1 imTACenter">Proyecto Agua Saludable</div>
 								</div>
 							</div>
 						
@@ -242,116 +180,152 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						<div id="imPageRow_2" class="imPageRow">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_2"></div></div>
 						</div>
-						<div id="imCell_2" class="animable fadeInUp"  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_2"></div><div id="imCellStyleBorders_2"></div><div id="imTextObject_4_02">
+						<div id="imCell_2" class=""  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_2"></div><div id="imCellStyleBorders_2"></div><div id="imTextObject_4_02">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_02_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imHeading3"><span class="cf1">¿Por qué el Proyecto Agua Saludable?</span></div><div class="imTAJustify"><span class="fs18lh1-5 cf2 ff1"><br></span></div><div class="imTAJustify"><span class="fs16lh1-5 cf2"> El proyecto Agua Saludable para la Laguna tiene como propósito el cumplimiento del artículo 4° de la Constitución de los Estados Unidos Mexicanos, que establece:</span></div><div data-line-height="1" class="lh1 imTAJustify"><span class="fs20lh1"><b><br></b></span></div><div data-line-height="1.5" class="lh1-5 imTAJustify"><span class="fs20lh1-5 cf3">Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.</span></div><div data-line-height="1.5" class="lh1-5 imTAJustify"><div><div><div class="imTACenter"><br></div></div></div></div>
+									<div class="imHeading3"><span class="cf1">¿Por qué el Proyecto Agua Saludable?</span></div><div class="imTAJustify"><span class="fs18lh1-5 cf2 ff1"><br></span></div><div class="imTAJustify"><span class="fs16lh1-5 cf2"> El proyecto Agua Saludable para la Laguna tiene como propósito el cumplimiento del artículo 4° de la Constitución de los Estados Unidos Mexicanos, que establece:</span></div><div data-line-height="1" class="lh1 imTAJustify"><span class="fs20lh1"><b><br></b></span></div><div data-line-height="1.5" class="lh1-5 imTAJustify"><span class="fs16lh1-5 cf3">"Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible."</span></div><div data-line-height="1.5" class="lh1-5 imTAJustify"><div><div><div class="imTACenter"><br></div></div></div></div>
 								</div>
 							</div>
 						
 						</div>
+						</div><div id="imPageRow_3" class="imPageRow imParallax">
+						
 						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_2').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_2"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_64" class="animable fadeIn"  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_64"></div><div id="imCellStyleBorders_64"></div><div id="imObjectImage_4_64"><div id="imObjectImage_4_64_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
-						<div class="imlazyloading" data-src="images/gota_agua_Agua_Saludable.png" data-title="" data-alt=""></div>
+						<div id="imCell_25" class=""  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_25"></div><div id="imCellStyleBorders_25"></div><div id="imTextObject_4_25">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_25_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imTALeft"><span class="fs16lh1-5">En la actualidad las principales localidades urbanas y rurales de la Comarca Lagunera utilizan como fuente de abastecimiento de agua potable, a los pozos donde se extrae el recurso del acuífero "Principal Región Lagunera", el cual cuenta con estatus de sobre explotación. </span></div><div class="imTALeft"><span class="fs16lh1-5">Esta es una de las principales razones por la que se buscan alternativas para seguir proporcionando este servicio público sin agotar los recursos.</span></div>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_71" class="animable zoomIn"  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_71"></div><div id="imCellStyleBorders_71"></div><div id="imObjectImage_4_71"><div id="imObjectImage_4_71_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMG_1708_jlyywfgi.jpg" data-title="" data-alt=""></div>
 						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onLazyLoadedElement($('#imCell_64').get(0), function () {
-								x5engine.utils.onElementInViewPort($('#imCell_64').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_64"))
+								x5engine.utils.onLazyLoadedElement($('#imCell_71').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_71').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_71"))
 								}, 100);
 							});
 							});
 						</script>
-						<div id="imCell_25" class="animable fadeInUp"  data-responsive-sequence-number="7"> <div id="imCellStyleGraphics_25"></div><div id="imCellStyleBorders_25"></div><div id="imTextObject_4_25">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_25_tab0" style="opacity: 1; ">
+						<div id="imCell_72" class=""  data-responsive-sequence-number="7"> <div id="imCellStyleGraphics_72"></div><div id="imCellStyleBorders_72"></div><div id="imTextObject_4_72">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_72_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs16lh1-5">En la actualidad, en las principales localidades urbanas y rurales de la Comarca Lagunera utilizan como fuente de abastecimiento de agua potable a los pozos donde se extrae el recurso del acuífero "Principal Región Lagunera", el cual cuenta con estatus de sobre explotación. Esta es una de las principales razones por la que se buscan alternativas para seguir proporcionando este servicio público sin agotar los recursos.</span></div><div class="imTAJustify"><span class="fs16lh1-5"><br></span></div><div class="imTAJustify"><span class="fs16lh1-5">Este es uno de los fundamentos por lo que se decide desarrollar un proyecto que brinde agua potable con la calidad señalada en la normatividad aplicable donde se preserven las aguas subterráneas de la zona.</span><br></div><div class="imTAJustify"><br></div><div class="imTAJustify"><div><span class="fs16lh1-5">Este proyecto comprende un conjunto de estructuras (Obra de Toma, Acueducto, Planta Potabilizadora y Tanques de Llegada) que son obras de infraestructura hidráulica para el suministro de agua potable destinadas a uso público-urbano en diversas localidades, principalmente de los municipios de Lerdo y Gómez Palacio, Durango.</span></div></div><div class="imTAJustify"><div><br></div><div><span class="fs16lh1-5">Los sitios considerados responden a un análisis técnico, económico y ambiental. En donde se contemplaron diferentes alternativas de trazo y ubicación de obras, todo ello con un importante enfoque de reducción de impactos y aprovechamiento de oportunidades.</span></div></div>
+									<div>Este es uno de los fundamentos por lo que se decide desarrollar un proyecto que brinde agua potable con la calidad señalada en la normatividad aplicable donde se preserven las aguas subterráneas de la zona.</div>
 								</div>
 							</div>
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_25').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_25"))
-								}, 100);
-							});
-						</script>
-						<div id="imPageRow_3" class="imPageRow imParallax">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_3"></div></div>
-						</div>
-						<div id="imCell_3" class=""  data-responsive-sequence-number="8"> <div id="imCellStyleGraphics_3"></div><div id="imCellStyleBorders_3"></div><div id="imObjectContentSlider_4_03" class="content-slider content-slider-root"><div class="content-slider content-slider-container change-effect-slideH"><div id="imObjectContentSlider_4_03-slide-0" class="content-slider slide-container default-slide"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_01.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Ubicación del Proyecto </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >El proyecto Agua Saludable para la Laguna se localiza en la zona norte del país, puntualmente en los municipios de Lerdo, Gómez Palacio y Torreón, situados en la Comarca Lagunera, no obstante, se considera beneficiar a otros 6 municipios circundantes a los antes mencionados y pertenecientes a la misma zona, siendo Mapimí, Tlahualilo, así como Matamoros, Francisco I. Madero, San Pedro y Viesca, ubicados en las entidades federativas de Durango y Coahuila, respectivamente. </div></div></div></div></div></div><div id="imObjectContentSlider_4_03-slide-1" class="content-slider slide-container"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_02.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Presa Derivadora </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >La Obra de Toma se ubica sobre la margen izquierda del río Nazas, aguas abajo del Cañón de Fernández, entre las derivadoras San Jacinto y La Loma. Está pensada como un conjunto de instalaciones donde una estructura de control (cortina) se ubicará sobre el cauce del río Nazas para derivar caudales hacia el canal de llamada, el cual conducirá los volúmenes de agua hacia el cárcamo de bombeo, de éste, se habrá de efectuar un bombeo hacia el acueducto correspondiente. </div></div></div></div></div></div><div id="imObjectContentSlider_4_03-slide-2" class="content-slider slide-container"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_03.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Cárcamo  y Planta de bombeo </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >El acueducto del tramo de bombeo está formado por tres líneas de impulsión que salen de la planta de bombeo para cubrir la capacidad de 6.34 m3/s que corresponde al volumen anual referido proponiendo dos tuberías de 62” de diámetro con una capacidad de 2.54 m3/s por tubería y una línea adicional de 44” con una capacidad de 1.27 m3/s. </div></div></div></div></div></div><div id="imObjectContentSlider_4_03-slide-3" class="content-slider slide-container"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_04.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Planta Potabilizadora </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >En el caso de la Planta Potabilizadora, el proyecto funcional de esta infraestructura se basa en el caudal a tratar, la calidad del agua tanto histórica como de los monitoreos que se realizaron durante el desarrollo del presente estudio y la calidad que se tiene que obtener en el efluente para apegarse  al PROYECTO de Norma Oficial Mexicana PROY-NOM-127-SSA1-2017, Agua para uso y consumo humano. Límites permisibles de la calidad del agua publicada el 6 de diciembre de 2019. </div></div></div></div></div></div><div class="content-slider content-slider-ctrl-container ctrl-visible"><div class="content-slider content-slider-ctrl btn-ctrl btn-prev ctrl-visible" onclick ="x5engine.contentSlider['imObjectContentSlider_4_03'].prev();"><svg class="arrow-btn left-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><rect class="a" x="5.03" y="5.03" width="39.94" height="39.94"/><path class="b" d="M15.09,25a1.17,1.17,0,0,1,.34-.78L31.3,8.35a1.07,1.07,0,0,1,1.57,0l1.7,1.7a1.07,1.07,0,0,1,0,1.57L21.19,25,34.57,38.38a1.07,1.07,0,0,1,0,1.57l-1.7,1.7a1.07,1.07,0,0,1-1.57,0L15.43,25.78A1.17,1.17,0,0,1,15.09,25Z"/></svg></div><div class="content-slider content-slider-ctrl btn-ctrl btn-next ctrl-visible" onclick ="x5engine.contentSlider['imObjectContentSlider_4_03'].next();"><svg class="arrow-btn right-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><rect class="a" x="5.03" y="5.03" width="39.94" height="39.94" transform="translate(50 50) rotate(-180)"/><path class="b" d="M34.57,25.78,18.7,41.65a1.07,1.07,0,0,1-1.57,0l-1.7-1.7a1.07,1.07,0,0,1,0-1.57L28.81,25,15.43,11.62a1.07,1.07,0,0,1,0-1.57l1.7-1.7a1.07,1.07,0,0,1,1.57,0L34.57,24.22a1.07,1.07,0,0,1,0,1.57Z"/></svg></div><div class="content-slider current-slide-radio-visible-container"><div class="content-slider content-slider-ctrl current-slide-radio-container"><label for="imObjectContentSlider_4_03-slide-radio-0" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-0"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="0" id = "imObjectContentSlider_4_03-slide-radio-0" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(0);" checked><div class="content-slider current-slide-radio-visible"></div></label><label for="imObjectContentSlider_4_03-slide-radio-1" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-1"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="1" id = "imObjectContentSlider_4_03-slide-radio-1" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(1);"><div class="content-slider current-slide-radio-visible"></div></label><label for="imObjectContentSlider_4_03-slide-radio-2" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-2"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="2" id = "imObjectContentSlider_4_03-slide-radio-2" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(2);"><div class="content-slider current-slide-radio-visible"></div></label><label for="imObjectContentSlider_4_03-slide-radio-3" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-3"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="3" id = "imObjectContentSlider_4_03-slide-radio-3" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(3);"><div class="content-slider current-slide-radio-visible"></div></label></div></div></div></div></div></div><div id="imPageRow_4" class="imPageRow">
+						</div><div id="imPageRow_4" class="imPageRow">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_4"></div></div>
 						</div>
-						<div id="imCell_5" class="animable fadeInLeft"  data-responsive-sequence-number="9"> <div id="imCellStyleGraphics_5"></div><div id="imCellStyleBorders_5"></div><div id="imTextObject_4_05">
+						<div id="imCell_73" class=""  data-responsive-sequence-number="8"> <div id="imCellStyleGraphics_73"></div><div id="imCellStyleBorders_73"></div><div id="imTextObject_4_73">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_73_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div>Este proyecto comprende un conjunto de estructuras (Obra de Toma, Acueducto, Planta Potabilizadora y Tanques de Llegada) que son obras de infraestructura hidráulica para el suministro de agua potable destinadas a uso público-urbano en diversas localidades, principalmente de los municipios de Lerdo y Gómez Palacio, Durango.</div>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_74" class="animable zoomIn"  data-responsive-sequence-number="9"> <div id="imCellStyleGraphics_74"></div><div id="imCellStyleBorders_74"></div><div id="imObjectImage_4_74"><div id="imObjectImage_4_74_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMG_1925_6enu09hm.jpg" data-title="" data-alt=""></div>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_74').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_74').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_74"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imPageRow_5" class="imPageRow imParallax">
+						
+						</div>
+						<div id="imCell_3" class="animable zoomIn"  data-responsive-sequence-number="10"> <div id="imCellStyleGraphics_3"></div><div id="imCellStyleBorders_3"></div><div id="imObjectContentSlider_4_03" class="content-slider content-slider-root"><div class="content-slider content-slider-container change-effect-slideH"><div id="imObjectContentSlider_4_03-slide-0" class="content-slider slide-container default-slide"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_01.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Ubicación del Proyecto </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >El proyecto Agua Saludable para la Laguna se localiza en la zona norte del país, puntualmente en los municipios de Lerdo, Gómez Palacio y Torreón, situados en la Comarca Lagunera, no obstante, se considera beneficiar a otros 6 municipios circundantes a los antes mencionados y pertenecientes a la misma zona, siendo Mapimí, Tlahualilo, así como Matamoros, Francisco I. Madero, San Pedro y Viesca, ubicados en las entidades federativas de Durango y Coahuila, respectivamente. </div></div></div></div></div></div><div id="imObjectContentSlider_4_03-slide-1" class="content-slider slide-container"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_02.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Presa Derivadora </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >La Obra de Toma se ubica sobre la margen izquierda del río Nazas, aguas abajo del Cañón de Fernández, entre las derivadoras San Jacinto y La Loma. Está pensada como un conjunto de instalaciones donde una estructura de control (cortina) se ubicará sobre el cauce del río Nazas para derivar caudales hacia el canal de llamada, el cual conducirá los volúmenes de agua hacia el cárcamo de bombeo, de éste, se habrá de efectuar un bombeo hacia el acueducto correspondiente. </div></div></div></div></div></div><div id="imObjectContentSlider_4_03-slide-2" class="content-slider slide-container"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_03.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Cárcamo  y Planta de bombeo </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >El acueducto del tramo de bombeo está formado por tres líneas de impulsión que salen de la planta de bombeo para cubrir la capacidad de 6.34 m3/s que corresponde al volumen anual referido proponiendo dos tuberías de 62” de diámetro con una capacidad de 2.54 m3/s por tubería y una línea adicional de 44” con una capacidad de 1.27 m3/s. </div></div></div></div></div></div><div id="imObjectContentSlider_4_03-slide-3" class="content-slider slide-container"><div class="content-slider slide-grid-container full-grid image-top element-effect-fore-back-color"><div class="content-slider slide-element slide-animated-element slide-image-container"><img class="content-slider slide-image-content slide-animated-content" src="images/agua_saludable_04.png"></div><div class="content-slider slide-element slide-txt-container"><div class="content-slider slide-txt-content"><div class="content-slider slide-animated-element slide-txt-block-container slide-title"><div class="content-slider slide-txt-block-content slide-animated-content slide-title" >Planta Potabilizadora </div></div><div class="content-slider slide-animated-element slide-txt-block-container slide-description"><div class="content-slider slide-txt-block-content slide-animated-content slide-description" >En el caso de la Planta Potabilizadora, el proyecto funcional de esta infraestructura se basa en el caudal a tratar, la calidad del agua tanto histórica como de los monitoreos que se realizaron durante el desarrollo del presente estudio y la calidad que se tiene que obtener en el efluente para apegarse  al PROYECTO de Norma Oficial Mexicana PROY-NOM-127-SSA1-2017, Agua para uso y consumo humano. Límites permisibles de la calidad del agua publicada el 6 de diciembre de 2019. </div></div></div></div></div></div><div class="content-slider content-slider-ctrl-container ctrl-visible"><div class="content-slider content-slider-ctrl btn-ctrl btn-prev ctrl-visible" onclick ="x5engine.contentSlider['imObjectContentSlider_4_03'].prev();"><svg class="arrow-btn left-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><rect class="a" x="5.03" y="5.03" width="39.94" height="39.94"/><path class="b" d="M15.09,25a1.17,1.17,0,0,1,.34-.78L31.3,8.35a1.07,1.07,0,0,1,1.57,0l1.7,1.7a1.07,1.07,0,0,1,0,1.57L21.19,25,34.57,38.38a1.07,1.07,0,0,1,0,1.57l-1.7,1.7a1.07,1.07,0,0,1-1.57,0L15.43,25.78A1.17,1.17,0,0,1,15.09,25Z"/></svg></div><div class="content-slider content-slider-ctrl btn-ctrl btn-next ctrl-visible" onclick ="x5engine.contentSlider['imObjectContentSlider_4_03'].next();"><svg class="arrow-btn right-arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><rect class="a" x="5.03" y="5.03" width="39.94" height="39.94" transform="translate(50 50) rotate(-180)"/><path class="b" d="M34.57,25.78,18.7,41.65a1.07,1.07,0,0,1-1.57,0l-1.7-1.7a1.07,1.07,0,0,1,0-1.57L28.81,25,15.43,11.62a1.07,1.07,0,0,1,0-1.57l1.7-1.7a1.07,1.07,0,0,1,1.57,0L34.57,24.22a1.07,1.07,0,0,1,0,1.57Z"/></svg></div><div class="content-slider current-slide-radio-visible-container"><div class="content-slider content-slider-ctrl current-slide-radio-container"><label for="imObjectContentSlider_4_03-slide-radio-0" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-0"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="0" id = "imObjectContentSlider_4_03-slide-radio-0" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(0);" checked><div class="content-slider current-slide-radio-visible"></div></label><label for="imObjectContentSlider_4_03-slide-radio-1" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-1"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="1" id = "imObjectContentSlider_4_03-slide-radio-1" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(1);"><div class="content-slider current-slide-radio-visible"></div></label><label for="imObjectContentSlider_4_03-slide-radio-2" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-2"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="2" id = "imObjectContentSlider_4_03-slide-radio-2" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(2);"><div class="content-slider current-slide-radio-visible"></div></label><label for="imObjectContentSlider_4_03-slide-radio-3" class="content-slider current-slide-radio imObjectContentSlider_4_03-slide-radio-3"><input class="content-slider current-slide-radio-hidden" type ="radio" name="imObjectContentSlider_4_03_current_slide" value="3" id = "imObjectContentSlider_4_03-slide-radio-3" onclick = "x5engine.contentSlider['imObjectContentSlider_4_03'].goTo(3);"><div class="content-slider current-slide-radio-visible"></div></label></div></div></div></div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onElementInViewPort($('#imCell_3').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_3"))
+								}, 100);
+							});
+						</script>
+						<div id="imPageRow_6" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_6"></div></div>
+						</div>
+						<div id="imCell_5" class=""  data-responsive-sequence-number="11"> <div id="imCellStyleGraphics_5"></div><div id="imCellStyleBorders_5"></div><div id="imTextObject_4_05">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_05_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs18lh1-5 cf1"> El desarrollo de estas obras es la mejor y más confiable alternativa para proporcionar agua potable a la población de los 9 principales municipios de la Comarca Lagunera, sustituyendo la fuente de extracción del recurso del acuífero "Principal-Región Lagunera" (<span class="imTALeft">clave 0523),</span> por el agua <span class="imTALeft">del río Nazas.</span></span></div>
+									<div class="imTALeft"><span class="fs16lh1-5 cf1"> El desarrollo de estas obras es la mejor y más confiable alternativa para proporcionar agua potable a la población de los 9 principales municipios de la Comarca Lagunera, sustituyendo la fuente de extracción del recurso del acuífero "Principal-Región Lagunera" (<span class="imTALeft">clave 0523),</span> por el agua <span class="imTALeft">del río Nazas.</span></span></div>
 								</div>
 							</div>
 						
 						</div>
+						</div><div id="imCell_75" class="animable zoomIn"  data-responsive-sequence-number="12"> <div id="imCellStyleGraphics_75"></div><div id="imCellStyleBorders_75"></div><div id="imObjectImage_4_75"><div id="imObjectImage_4_75_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMG_0632.jpg" data-title="" data-alt=""></div>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_75').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_75').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_75"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imPageRow_7" class="imPageRow">
+						
 						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_5').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_5"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_6" class="animable zoomIn"  data-responsive-sequence-number="10"> <div id="imCellStyleGraphics_6"></div><div id="imCellStyleBorders_6"></div><div id="imObjectGallery_4_06"><div id="imObjectGalleryContainer_6"></div></div><script>var imObjectGallery_4_06_settings = {'target': '#imObjectGallery_4_06','backgroundColor': 'transparent','description': { 'fontSize': '9pt','fontFamily': 'Montserrat','fontStyle': 'normal','fontWeight': 'normal'},'autoplay': true,'thumbs': { 'position': 'embed', 'number': 4 },'controlBar': { 'show': false, 'color': 'rgba(20, 20, 20, 1)' },'random': false,'fullScreen': false,'slideshow': { 'active': true, buttonPrev: { url: 'gallery/b03_l.png', x: -28, y: 0, width: 28, height: 24 }, buttonNext: { url: 'gallery/b03_r.png', x: -28, y: 0, width: 28, height: 24 }, nextPrevMode: 'none'},'bullets': {'show': true,'url': 'gallery/bullets.png','size': 22,'distanceTop': 5,'distanceBottom': 5,'distanceLeft': 5,'distanceRight': 5,'positionY': 'bottom','positionX': 'center'},'media': [{'type': 'image','width': 647,'height': 423,'url': 'gallery/IMG_0632.jpg','autoplayTime': 8000,'effect': 'verticalSlices'},{'type': 'image','width': 647,'height': 430,'url': 'gallery/IMG_0822.jpg','autoplayTime': 8000,'effect': 'horizontalSlide'},{'type': 'image','width': 647,'height': 430,'url': 'gallery/IMG_6620.jpg','autoplayTime': 8000,'effect': 'verticalSlices'},{'type': 'image','width': 647,'height': 432,'url': 'gallery/IMG_5375.jpg','autoplayTime': 8000,'effect': 'horizontalSlide'}]};var dataimObjectGallery_4_06 = null;function loadimObjectGallery_4_06() {var startIndex = 0;if(!!dataimObjectGallery_4_06) {imObjectGallery_4_06_settings.startFrom = dataimObjectGallery_4_06.currentItemIndex();}var w = 0;var h = 0;w = $('#imObjectGallery_4_06').width();w = w + (0);var wImageMax = 647;wImageMax = wImageMax + (0);w  = Math.min(w, 647);h = w * 480 / 720;imObjectGallery_4_06_settings.width = w;imObjectGallery_4_06_settings.height = h;dataimObjectGallery_4_06 = x5engine.gallery(imObjectGallery_4_06_settings);}x5engine.boot.push(function() {var imObjectGallery_4_06_resizeTo = null,imObjectGallery_4_06_width = 0,isFirstTime = true;loadimObjectGallery_4_06();x5engine.utils.onElementResize(document.getElementById('imObjectGallery_4_06').parentNode, function (rect, target) {if (imObjectGallery_4_06_width == rect.width) {return;}imObjectGallery_4_06_width = rect.width;if (!!imObjectGallery_4_06_resizeTo) {clearTimeout(imObjectGallery_4_06_resizeTo);}imObjectGallery_4_06_resizeTo = setTimeout(function() {if(!isFirstTime) {loadimObjectGallery_4_06();}else {isFirstTime = false;}}, 50);});});</script></div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_6').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_6"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_24" class="animable fadeInUp"  data-responsive-sequence-number="11"> <div id="imCellStyleGraphics_24"></div><div id="imCellStyleBorders_24"></div><div id="imTextObject_4_24">
+						<div id="imCell_24" class=""  data-responsive-sequence-number="13"> <div id="imCellStyleGraphics_24"></div><div id="imCellStyleBorders_24"></div><div id="imTextObject_4_24">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_24_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs16lh1-5"><span class="cf1">Con esta acción disminuye la sobre explotación que se ejerce actualmente sobre este</span><span class="cf1"> </span><span class="cf1">cuerpo de agua del cual se extrae principalmente el agua consumida por la población. Paralelamente</span><span class="cf1"> </span><span class="cf1">se sigue proveyendo el recurso sin generar disconformidades sociales y altibajos en las actividades</span><span class="cf1"> </span><span class="cf1">económicas como son la agricultura, ganadería y el sector lechero, el cual es característico en la</span><span class="cf1"> </span><span class="cf1">economía de la zona lagunera.</span></span></div>
+									<div class="imTALeft"><span class="fs16lh1-5"><span class="cf1">Con esta acción disminuye la sobre explotación que se ejerce actualmente sobre este</span><span class="cf1"> </span><span class="cf1">cuerpo de agua del cual se extrae principalmente el agua consumida por la población. Paralelamente</span><span class="cf1"> </span><span class="cf1">se sigue proveyendo el recurso sin generar disconformidades sociales y altibajos en las actividades</span><span class="cf1"> </span><span class="cf1">económicas como son la agricultura, ganadería y el sector lechero, el cual es característico en la</span><span class="cf1"> </span><span class="cf1">economía de la zona lagunera.</span></span></div>
 								</div>
 							</div>
 						
 						</div>
-						</div>
+						</div><div id="imCell_76" class="animable zoomIn"  data-responsive-sequence-number="14"> <div id="imCellStyleGraphics_76"></div><div id="imCellStyleBorders_76"></div><div id="imObjectImage_4_76"><div id="imObjectImage_4_76_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMGL5159.jpg" data-title="Presa Francisco Zarco" data-alt=""></div>
+						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_24').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_24"))
+								x5engine.utils.onLazyLoadedElement($('#imCell_76').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_76').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_76"))
 								}, 100);
 							});
+							});
 						</script>
-						<div id="imCell_7" class="animable fadeInUp"  data-responsive-sequence-number="12"> <div id="imCellStyleGraphics_7"></div><div id="imCellStyleBorders_7"></div><div id="imTextObject_4_07">
+						<div id="imPageRow_8" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_8"></div></div>
+						</div>
+						<div id="imCell_7" class=""  data-responsive-sequence-number="15"> <div id="imCellStyleGraphics_7"></div><div id="imCellStyleBorders_7"></div><div id="imTextObject_4_07">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_07_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs16lh1-5 cf1"> Además el proyecto para operar correctamente requiere del aumento del caudal en el río Nazas, <span class="imTALeft">desde la cortina de la Presa Francisco Zarco hasta el sitio de la Obra de Toma, todo esto dentro del </span><span class="imTALeft">Parque Estatal Cañón de Fernández.</span> Dicha acción beneficiará al margen del río debido a que el aumento en el volumen del efluente propicia y mejora las condiciones ribereñas con las que actualmente se cuentan. Favoreciendo la atracción de especies, así como el incremento en el número de especies florísticas y faunísticas existentes.</span></div><div class="imTAJustify"><br></div>
+									<div class="imTALeft"><span class="fs16lh1-5 cf1"> Además el proyecto para operar correctamente requiere del aumento del caudal en el río Nazas, <span class="imTALeft">desde la cortina de la Presa Francisco Zarco hasta el sitio de la Obra de Toma, todo esto dentro del </span><span class="imTALeft">Parque Estatal Cañón de Fernández.</span> Dicha acción beneficiará al margen del río debido a que el aumento en el volumen del efluente propicia y mejora las condiciones ribereñas con las que actualmente se cuentan. Favoreciendo la atracción de especies, así como el incremento en el número de especies florísticas y faunísticas existentes.</span></div><div class="imTAJustify"><br></div>
 								</div>
 							</div>
 						
 						</div>
-						</div>
+						</div><div id="imCell_77" class="animable zoomIn"  data-responsive-sequence-number="16"> <div id="imCellStyleGraphics_77"></div><div id="imCellStyleBorders_77"></div><div id="imObjectImage_4_77"><div id="imObjectImage_4_77_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMGL5026.jpg" data-title="Parque Estatal Cañón de Fernández" data-alt=""></div>
+						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_7').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_7"))
+								x5engine.utils.onLazyLoadedElement($('#imCell_77').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_77').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_77"))
 								}, 100);
 							});
+							});
 						</script>
-						<div id="imPageRow_5" class="imPageRow">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_5"></div></div>
+						<div id="imPageRow_9" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_9"></div></div>
 						</div>
-						<div id="imCell_48" class="animable fadeInDown"  data-responsive-sequence-number="13"> <div id="imCellStyleGraphics_48"></div><div id="imCellStyleBorders_48"></div><div id="imTextObject_4_48">
+						<div id="imCell_48" class="animable fadeInDown"  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_48"></div><div id="imCellStyleBorders_48"></div><div id="imTextObject_4_48">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_48_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading2 imTACenter"><span class="cf1">Los Municipios</span></div>
@@ -367,7 +341,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_49" class="animable fadeInUp"  data-responsive-sequence-number="14"> <div id="imCellStyleGraphics_49"></div><div id="imCellStyleBorders_49"></div><div id="imTextObject_4_49">
+						<div id="imCell_49" class="animable fadeInUp"  data-responsive-sequence-number="18"> <div id="imCellStyleGraphics_49"></div><div id="imCellStyleBorders_49"></div><div id="imTextObject_4_49">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_49_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imTAJustify"><span class="fs16lh1-5 cf1">Se planea que este proyecto genere beneficios a corto plazo a los municipios de Lerdo, Gómez Palacio y Torreón y a largo plazo a localidades pertenecientes a los municipios de Mapimí, Tlahualilo, Matamoros, Francisco I. Madero, San Pedro y Viesca, todos situados en el estado de Durango y Coahuila, respectivamente.</span></div><div style="text-align: -webkit-auto;"><br><br></div>
@@ -383,55 +357,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_50" class="animable fadeInLeft"  data-responsive-sequence-number="15"> <div id="imCellStyleGraphics_50"></div><div id="imCellStyleBorders_50"></div><div id="imTextObject_4_50">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_50_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<div class="imHeading4"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> <span class="cf1">Gómez Palacio:</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: 15 de septiembre de 1885</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Superficie: 844,07 Km<sup>2</sup></span><span class="imTALeft fs12lh1-15"> </span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 301,742 habitantes.</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Economía: La Ciudad de Gómez Palacio debe su desarrollo y crecimiento a la industria ferroviaria y a la instalación de las plantas de la Comisión Federal de Electricidad.</span><span class="imTALeft fs12lh1-15"> </span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Instalación del Parque Industrial Lagunero y la actividad agrícola.</span></div>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_50').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_50"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_51" class="animable fadeInUp"  data-responsive-sequence-number="16"> <div id="imCellStyleGraphics_51"></div><div id="imCellStyleBorders_51"></div><div id="imTextObject_4_51">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_51_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> Lerdo:</span></div><div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: 16 de noviembre de 1884</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Superficie: </span><span class="cf2">1,868,80 km²</span></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 96,243 habitantes.</span></div><div data-line-height="1.15" class="lh1-15"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Economía: Entre las principales actividades económicas se encuentra la </span><span class="cf2">agricultura</span><span class="cf2">, la ganadería, servicios e industria textil.</span></span></div></div></div>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_51').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_51"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_52" class="animable fadeInLeft"  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_52"></div><div id="imCellStyleBorders_52"></div><div id="imTextObject_4_52">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_52_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<div class="imHeading4"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> <span class="cf1">Mapimí:</span></div><div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: 25 de julio de 1598</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Superficie: 7,125.7 km²</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 26, 932 habitantes</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Economía: En sus inicios fue un importante centro minero, agricultura, avicultura y comercio.</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Distinciones: Es Pueblo Mágico, tiene la clasificación de Patrimonio de la Humanidad de la UNESCO.</span></div><div data-line-height="1.15" class="lh1-15 cf2"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1">Mapimí fue habitado por indígenas Tobosos y Cocoyomes.</span><span class="fs16lh1-15 ff1"> </span></div></div></div>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_52').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_52"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_54" class="animable zoomIn"  data-responsive-sequence-number="18"> <div id="imCellStyleGraphics_54"></div><div id="imCellStyleBorders_54"></div><div id="imTextObject_4_54">
+						<div id="imCell_54" class="animable zoomIn"  data-responsive-sequence-number="19"> <div id="imCellStyleGraphics_54"></div><div id="imCellStyleBorders_54"></div><div id="imTextObject_4_54">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_54_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> Torreón:</span></div><div data-line-height="1.5" class="lh1-5"><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Fundación: 15 de septiembre de 1907.</span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Superficie: 138 Km<sup>2</sup></span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Población 2020: 690,193 habitantes</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Economía: La economía se basa en la industria agrícola, industrial textil, metalúrgica, química, comercio y servicios. &nbsp;</span></div><div data-line-height="1.15" class="lh1-15 fs16lh1-15 cf2 ff1"><div data-line-height="1.15" class="lh1-15 imTAJustify">Las primeras tribus de la región se establecieron hace más de 12,000 años en las cercanías de los Ríos Nazas y Aguanaval. Entre las tribus destacan Coahuiltecos,Tamaulitecos, Conchos, Tobosos, Zacatecos e Irritilas.</div></div></div>
@@ -447,7 +373,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_55" class="animable fadeInUp"  data-responsive-sequence-number="19"> <div id="imCellStyleGraphics_55"></div><div id="imCellStyleBorders_55"></div><div id="imTextObject_4_55">
+						<div id="imCell_55" class="animable fadeInUp"  data-responsive-sequence-number="20"> <div id="imCellStyleGraphics_55"></div><div id="imCellStyleBorders_55"></div><div id="imTextObject_4_55">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_55_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div data-line-height="1.15" class="lh1-15"><div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> Matamoros:</span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Fundación: 5 de septiembre de 1864</span></div></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 ff1"><span class="cf2">Economía: Agricultura, caprinocultura</span></span></div><div data-line-height="1.15" class="lh1-15"><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 ff1"><span class="cf2">Superficie: 1,003 Km</span><span class="cf2"><sup>2</sup></span></span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 ff1"><span class="cf2">Población: 58,762 habitantes</span></span></div> &nbsp;</div>
@@ -463,10 +389,10 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_56" class="animable zoomIn"  data-responsive-sequence-number="20"> <div id="imCellStyleGraphics_56"></div><div id="imCellStyleBorders_56"></div><div id="imTextObject_4_56">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_56_tab0" style="opacity: 1; ">
+						<div id="imCell_50" class="animable fadeInLeft"  data-responsive-sequence-number="21"> <div id="imCellStyleGraphics_50"></div><div id="imCellStyleBorders_50"></div><div id="imTextObject_4_50">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_50_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imHeading4"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> <span class="cf1">Francisco I. Madero:</span></div><div data-line-height="1.15" class="lh1-15"><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Fundación: 20 de noviembre de 1936</span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Superficie: 4,934 km²</span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Población: 29,217 habitantes.</span></div> &nbsp;<span class="fs16lh1-15 cf2 ff1">Economía: Agricultura e industria ferroviaria.</span><br></div>
+									<div class="imHeading4"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> <span class="cf1">Gómez Palacio:</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: 15 de septiembre de 1885</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Superficie: 844,07 Km<sup>2</sup></span><span class="imTALeft fs12lh1-15"> </span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 301,742 habitantes.</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Economía: La Ciudad de Gómez Palacio debe su desarrollo y crecimiento a la industria ferroviaria y a la instalación de las plantas de la Comisión Federal de Electricidad.</span><span class="imTALeft fs12lh1-15"> </span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Instalación del Parque Industrial Lagunero y la actividad agrícola.</span></div>
 								</div>
 							</div>
 						
@@ -474,15 +400,15 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						</div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_56').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_56"))
+								x5engine.utils.onElementInViewPort($('#imCell_50').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_50"))
 								}, 100);
 							});
 						</script>
-						<div id="imCell_57" class="animable fadeInUp"  data-responsive-sequence-number="21"> <div id="imCellStyleGraphics_57"></div><div id="imCellStyleBorders_57"></div><div id="imTextObject_4_57">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_57_tab0" style="opacity: 1; ">
+						<div id="imCell_51" class="animable fadeInUp"  data-responsive-sequence-number="22"> <div id="imCellStyleGraphics_51"></div><div id="imCellStyleBorders_51"></div><div id="imTextObject_4_51">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_51_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> San Pedro:</span></div><div data-line-height="1.5" class="lh1-5"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Fundación: 1870</span></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Superficie: 9,290 Km</span><span class="cf2"><sup>2</sup></span></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Población: 101,041 habitantes</span></span></div><div data-line-height="1.15" class="lh1-15 fs16lh1-15 ff1"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2">Economía:</span><span class="fs16lh1-15 cf2"> Agricultura y servicios</span></div></div></div>
+									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> Lerdo:</span></div><div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: 16 de noviembre de 1884</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Superficie: </span><span class="cf2">1,868,80 km²</span></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 96,243 habitantes.</span></div><div data-line-height="1.15" class="lh1-15"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Economía: Entre las principales actividades económicas se encuentra la </span><span class="cf2">agricultura</span><span class="cf2">, la ganadería, servicios e industria textil.</span></span></div></div></div>
 								</div>
 							</div>
 						
@@ -490,15 +416,15 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						</div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_57').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_57"))
+								x5engine.utils.onElementInViewPort($('#imCell_51').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_51"))
 								}, 100);
 							});
 						</script>
-						<div id="imCell_58" class="animable zoomIn"  data-responsive-sequence-number="22"> <div id="imCellStyleGraphics_58"></div><div id="imCellStyleBorders_58"></div><div id="imTextObject_4_58">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_58_tab0" style="opacity: 1; ">
+						<div id="imCell_52" class="animable fadeInLeft"  data-responsive-sequence-number="23"> <div id="imCellStyleGraphics_52"></div><div id="imCellStyleBorders_52"></div><div id="imTextObject_4_52">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_52_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> Viesca:</span></div><div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: &nbsp;25 de julio de 1731</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Superficie: 4,204 km<sup>2</sup></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 20.305 habitantes</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Economía: En sus inicios dependía de la fábrica de sal, ubicada a las afueras de la cabecera municipal.</span></div><div data-line-height="1.15" class="lh1-15 fs16lh1-15 ff1"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2">Industria textil y un poco del turismo.</span></div></div></div>
+									<div class="imHeading4"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> <span class="cf1">Mapimí:</span></div><div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: 25 de julio de 1598</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Superficie: 7,125.7 km²</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 26, 932 habitantes</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Economía: En sus inicios fue un importante centro minero, agricultura, avicultura y comercio.</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Distinciones: Es Pueblo Mágico, tiene la clasificación de Patrimonio de la Humanidad de la UNESCO.</span></div><div data-line-height="1.15" class="lh1-15 cf2"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1">Mapimí fue habitado por indígenas Tobosos y Cocoyomes.</span><span class="fs16lh1-15 ff1"> </span></div></div></div>
 								</div>
 							</div>
 						
@@ -506,12 +432,12 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						</div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_58').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_58"))
+								x5engine.utils.onElementInViewPort($('#imCell_52').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_52"))
 								}, 100);
 							});
 						</script>
-						<div id="imCell_53" class="animable fadeInUp"  data-responsive-sequence-number="23"> <div id="imCellStyleGraphics_53"></div><div id="imCellStyleBorders_53"></div><div id="imTextObject_4_53">
+						<div id="imCell_53" class="animable fadeInUp"  data-responsive-sequence-number="24"> <div id="imCellStyleGraphics_53"></div><div id="imCellStyleBorders_53"></div><div id="imTextObject_4_53">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_53_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> Tlahualilo:</span></div><div data-line-height="1.15" class="lh1-15"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: 22 de noviembre de 1936 </span></div><span class="imTAJustify fs16lh1-15 cf2 ff1">Superficie: 3,709.8 Km</span><sup class="imTAJustify cf2 ff1">2</sup><br><span class="imTAJustify fs16lh1-15 cf2 ff1">Población: 21,143 habitantes</span><br><span class="imTAJustify fs16lh1-15 cf2 ff1">Economía: Agricultura y ganadería.</span><br><span class="imTAJustify fs16lh1-15 cf2 ff1">La llegada de una empresa SuKarne será un detonador económico importante para el municipio.</span><br><span class="imTAJustify fs16lh1-15 cf2 ff1">Habitaron:</span><span class="imTAJustify fs16lh1-15 cf2 ff1"> Irirtilas, Tobosos. Salineros, Cocoyomes, Tarahumaras y Tepehuanes.</span></div>
@@ -527,7 +453,55 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_66" class="animable fadeIn"  data-responsive-sequence-number="24"> <div id="imCellStyleGraphics_66"></div><div id="imCellStyleBorders_66"></div><div id="imObjectImage_4_66"><div id="imObjectImage_4_66_container"><a href="files/ANIM_MPIOS_AGUA_SALUDABLE.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/ANIM_MPIOS_AGUA_SALUDABLE.html', width: 1920, height: 1080, description: 'Conoce más de los municipios que conforman la &quot;Comarca Lagunera&quot; '}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imCell_56" class="animable zoomIn"  data-responsive-sequence-number="25"> <div id="imCellStyleGraphics_56"></div><div id="imCellStyleBorders_56"></div><div id="imTextObject_4_56">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_56_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imHeading4"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> <span class="cf1">Francisco I. Madero:</span></div><div data-line-height="1.15" class="lh1-15"><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Fundación: 20 de noviembre de 1936</span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Superficie: 4,934 km²</span></div><div data-line-height="1.15" class="lh1-15"><span class="fs16lh1-15 cf2 ff1">Población: 29,217 habitantes.</span></div> &nbsp;<span class="fs16lh1-15 cf2 ff1">Economía: Agricultura e industria ferroviaria.</span><br></div>
+								</div>
+							</div>
+						
+						</div>
+						</div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onElementInViewPort($('#imCell_56').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_56"))
+								}, 100);
+							});
+						</script>
+						<div id="imCell_57" class="animable fadeInUp"  data-responsive-sequence-number="26"> <div id="imCellStyleGraphics_57"></div><div id="imCellStyleBorders_57"></div><div id="imTextObject_4_57">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_57_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> San Pedro:</span></div><div data-line-height="1.5" class="lh1-5"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Fundación: 1870</span></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Superficie: 9,290 Km</span><span class="cf2"><sup>2</sup></span></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 ff1"><span class="cf2">Población: 101,041 habitantes</span></span></div><div data-line-height="1.15" class="lh1-15 fs16lh1-15 ff1"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2">Economía:</span><span class="fs16lh1-15 cf2"> Agricultura y servicios</span></div></div></div>
+								</div>
+							</div>
+						
+						</div>
+						</div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onElementInViewPort($('#imCell_57').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_57"))
+								}, 100);
+							});
+						</script>
+						<div id="imCell_58" class="animable zoomIn"  data-responsive-sequence-number="27"> <div id="imCellStyleGraphics_58"></div><div id="imCellStyleBorders_58"></div><div id="imTextObject_4_58">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_58_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imHeading4"><span class="cf1"><img class="image-0" src="images/vineta_1.png"  title="" alt=""/> Viesca:</span></div><div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Fundación: &nbsp;25 de julio de 1731</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Superficie: 4,204 km<sup>2</sup></span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Población: 20.305 habitantes</span></div><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2 ff1">Economía: En sus inicios dependía de la fábrica de sal, ubicada a las afueras de la cabecera municipal.</span></div><div data-line-height="1.15" class="lh1-15 fs16lh1-15 ff1"><div data-line-height="1.15" class="lh1-15 imTAJustify"><span class="fs16lh1-15 cf2">Industria textil y un poco del turismo.</span></div></div></div>
+								</div>
+							</div>
+						
+						</div>
+						</div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onElementInViewPort($('#imCell_58').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_58"))
+								}, 100);
+							});
+						</script>
+						<div id="imCell_66" class="animable fadeIn"  data-responsive-sequence-number="28"> <div id="imCellStyleGraphics_66"></div><div id="imCellStyleBorders_66"></div><div id="imObjectImage_4_66"><div id="imObjectImage_4_66_container"><a href="files/ANIM_MPIOS_AGUA_SALUDABLE.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/ANIM_MPIOS_AGUA_SALUDABLE.html', width: 1920, height: 1080, description: 'Conoce más de los municipios que conforman la &quot;Comarca Lagunera&quot; '}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/MAPA-AGUA-SALUDABLE-2-B.gif" data-title="" data-alt=""></div>
 						</a>
 						<script>
@@ -549,10 +523,10 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 							});
 						</script>
-						<div id="imPageRow_6" class="imPageRow imParallax">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_6" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
+						<div id="imPageRow_10" class="imPageRow imParallax">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_10" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
 						</div>
-						<div id="imCell_68" class="animable fadeInDown"  data-responsive-sequence-number="25"> <div id="imCellStyleGraphics_68"></div><div id="imCellStyleBorders_68"></div><div id="imTextObject_4_68">
+						<div id="imCell_68" class="animable fadeInDown"  data-responsive-sequence-number="29"> <div id="imCellStyleGraphics_68"></div><div id="imCellStyleBorders_68"></div><div id="imTextObject_4_68">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_4_68_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading1 imTACenter">Mapas Interactivos</div>
@@ -568,7 +542,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_69" class="animable rollIn"  data-responsive-sequence-number="26"> <div id="imCellStyleGraphics_69"></div><div id="imCellStyleBorders_69"></div><div id="imObjectImage_4_69"><div id="imObjectImage_4_69_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imCell_69" class="animable rollIn"  data-responsive-sequence-number="30"> <div id="imCellStyleGraphics_69"></div><div id="imCellStyleBorders_69"></div><div id="imObjectImage_4_69"><div id="imObjectImage_4_69_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/PUNTERO-APRENDE-MAS.png" data-title="Mapas Interactivos" data-alt=""></div>
 						</a>
 						<script>
@@ -604,7 +578,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 </div><div id="imFooter_imTableObject_07_wrapper" class="template-object-wrapper"><div id="imFooter_imTableObject_07">
 	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTableObject_07_tab0" style="opacity: 1; ">
 		<div class="text-inner">
-			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_dly9bjwv.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
+			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_fuqun29a.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
 		</div>
 	</div>
 

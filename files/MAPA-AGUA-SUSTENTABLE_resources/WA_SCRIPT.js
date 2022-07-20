@@ -111,7 +111,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -137,8 +137,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '256px',
-                    'Left': '390px',
+                    'Top': '237px',
+                    'Left': '263px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '10','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -170,8 +170,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '328px',
-                    'Left': '538px',
+                    'Top': '294px',
+                    'Left': '304px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -203,8 +203,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '232px',
-                    'Left': '544px',
+                    'Top': '277px',
+                    'Left': '426px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '12','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -236,8 +236,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '320px',
-                    'Left': '648px',
+                    'Top': '366px',
+                    'Left': '416px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '13','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -298,8 +298,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '340px',
-                    'Left': '472px',
+                    'Top': '320px',
+                    'Left': '218px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -319,6 +319,267 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
 'OnMouseOverParam' : 'X9ccd10d',
 'OnMouseOverTransition' : 'instant',
 'OnMouseOverTransitionSpeed' : '0',
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dac34',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '60px',
+                    'Left': '366px',
+                    'Height': '110px',
+                    'Width': '100px',
+                    'ZIndex': '19','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera mapimi.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dac50',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '126px',
+                    'Left': '583px',
+                    'Height': '108px',
+                    'Width': '114px',
+                    'ZIndex': '20','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera tlahualilo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dac6d',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '173px',
+                    'Left': '326px',
+                    'Height': '111px',
+                    'Width': '100px',
+                    'ZIndex': '21','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dac92',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '209px',
+                    'Left': '466px',
+                    'Height': '111px',
+                    'Width': '101px',
+                    'ZIndex': '22','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera gomez palacio.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dacb4',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '334px',
+                    'Left': '538px',
+                    'Height': '109px',
+                    'Width': '121px',
+                    'ZIndex': '23','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera matamoros.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dacf3',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '292px',
+                    'Left': '467px',
+                    'Height': '109px',
+                    'Width': '100px',
+                    'ZIndex': '24','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera torreón.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dad36',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '455px',
+                    'Left': '475px',
+                    'Height': '109px',
+                    'Width': '99px',
+                    'ZIndex': '25','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera viesca.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dad5f',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '211px',
+                    'Left': '753px',
+                    'Height': '109px',
+                    'Width': '101px',
+                    'ZIndex': '26','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera fco i madero.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6dad81',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '360px',
+                    'Left': '729px',
+                    'Height': '110px',
+                    'Width': '110px',
+                    'ZIndex': '27','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera san pedro.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
 
 'Pressed': [],
                     
@@ -463,7 +724,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -488,8 +749,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '320px',
-                    'Left': '648px',
+                    'Top': '366px',
+                    'Left': '416px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '13','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -517,8 +778,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '122px',
-                    'Left': '878px',
+                    'Top': '152px',
+                    'Left': '682px',
                     'Height': '416px',
                     'Width': '395px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -660,7 +921,65 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                          {
                             'Property': 'Opacity',
                             'EndValue': '1'
-                         }],}
+                         }],},
+                {
+                    'Oid': 'Xa6daf7e',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '324px',
+                    'Left': '461px',
+                    'Height': '111px',
+                    'Width': '101px',
+                    'ZIndex': '23','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/tanque coahuila.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6db1f7',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '280px',
+                    'Left': '457px',
+                    'Height': '110px',
+                    'Width': '90px',
+                    'ZIndex': '24','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera torreón.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],}
 
                 ],
                 'Transforms': [
@@ -749,7 +1068,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -774,8 +1093,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '232px',
-                    'Left': '544px',
+                    'Top': '277px',
+                    'Left': '426px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '12','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -803,8 +1122,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '112px',
-                    'Left': '876px',
+                    'Top': '152px',
+                    'Left': '672px',
                     'Height': '416px',
                     'Width': '395px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -946,7 +1265,65 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                          {
                             'Property': 'Opacity',
                             'EndValue': '1'
-                         }],}
+                         }],},
+                {
+                    'Oid': 'Xa6db0e7',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '214px',
+                    'Left': '455px',
+                    'Height': '110px',
+                    'Width': '101px',
+                    'ZIndex': '23','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/tanque durango.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6db254',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '251px',
+                    'Left': '508px',
+                    'Height': '109px',
+                    'Width': '90px',
+                    'ZIndex': '24','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera gomez palacio.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],}
 
                 ],
                 'Transforms': [
@@ -1035,7 +1412,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1061,8 +1438,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '328px',
-                    'Left': '538px',
+                    'Top': '294px',
+                    'Left': '304px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1154,8 +1531,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '40px',
-                    'Left': '729px',
+                    'Top': '100px',
+                    'Left': '665px',
                     'Height': '420px',
                     'Width': '380px',
                     'ZIndex': '22','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/planta derivadora1111.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1264,7 +1641,65 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                          {
                             'Property': 'Opacity',
                             'EndValue': '1'
-                         }],}
+                         }],},
+                {
+                    'Oid': 'Xa6db165',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '223px',
+                    'Left': '337px',
+                    'Height': '111px',
+                    'Width': '111px',
+                    'ZIndex': '25','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/derivadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6db197',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '270px',
+                    'Left': '364px',
+                    'Height': '109px',
+                    'Width': '90px',
+                    'ZIndex': '26','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],}
 
                 ],
                 'Transforms': [
@@ -1353,7 +1788,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1378,8 +1813,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '340px',
-                    'Left': '472px',
+                    'Top': '320px',
+                    'Left': '218px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '11','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1408,7 +1843,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '98px',
-                    'Left': '860px',
+                    'Left': '820px',
                     'Height': '460px',
                     'Width': '380px',
                     'ZIndex': '20','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/cañon fdez 2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1550,7 +1985,65 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                          {
                             'Property': 'Opacity',
                             'EndValue': '1'
-                         }],}
+                         }],},
+                {
+                    'Oid': 'Xa6db314',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '251px',
+                    'Left': '250px',
+                    'Height': '109px',
+                    'Width': '90px',
+                    'ZIndex': '25','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera cañon fdez.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6db339',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '273px',
+                    'Left': '346px',
+                    'Height': '110px',
+                    'Width': '91px',
+                    'ZIndex': '26','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],}
 
                 ],
                 'Transforms': [
@@ -1639,7 +2132,7 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1664,8 +2157,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '256px',
-                    'Left': '390px',
+                    'Top': '237px',
+                    'Left': '263px',
                     'Height': '40px',
                     'Width': '25px',
                     'ZIndex': '10','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1693,8 +2186,8 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '181px',
-                    'Left': '835px',
+                    'Top': '114px',
+                    'Left': '588px',
                     'Height': '420px',
                     'Width': '380px',
                     'ZIndex': '18','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/planta potabilizadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1836,7 +2329,65 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
                          {
                             'Property': 'Opacity',
                             'EndValue': '1'
-                         }],}
+                         }],},
+                {
+                    'Oid': 'Xa6db3c5',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '167px',
+                    'Left': '298px',
+                    'Height': '110px',
+                    'Width': '109px',
+                    'ZIndex': '22','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/p potabilizadora.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6db3e0',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '269px',
+                    'Left': '346px',
+                    'Height': '109px',
+                    'Width': '91px',
+                    'ZIndex': '23','BackgroundImage': 'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],}
 
                 ],
                 'Transforms': [
@@ -1910,29 +2461,48 @@ MAPA_AGUA_SUSTENTABLE.stage = [{
             MAPA_AGUA_SUSTENTABLE.debug = false;
             MAPA_AGUA_SUSTENTABLE.preloadImages = true;
 MAPA_AGUA_SUSTENTABLE.imagesToPreload = [
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/por que agua saludable.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera mapimi.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera tlahualilo.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera gomez palacio.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera matamoros.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera torreón.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera viesca.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera fco i madero.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera san pedro.png',
+'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/tanque coahuila.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera torreón.png',
+'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/lineas gravedad.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/tanque durango.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera gomez palacio.png',
+'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/planta bombeo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/planta derivadora1111.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/derivadora.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png',
+'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
 'MAPA-AGUA-SUSTENTABLE_resources/cañon fdez 2.png',
-'MAPA-AGUA-SUSTENTABLE_resources/fondo_animacion_agua_saludable_2.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera cañon fdez.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png',
+'MAPA-AGUA-SUSTENTABLE_resources/municipios beneficiados 96 ppp.png',
 'MAPA-AGUA-SUSTENTABLE_resources/puntero_3d_rojo.png',
-'MAPA-AGUA-SUSTENTABLE_resources/planta potabilizadora.png'
+'MAPA-AGUA-SUSTENTABLE_resources/planta potabilizadora.png',
+'MAPA-AGUA-SUSTENTABLE_resources/p potabilizadora.png',
+'MAPA-AGUA-SUSTENTABLE_resources/bandera lerdo.png'
 ];MAPA_AGUA_SUSTENTABLE.createWorkspace('MAPA_AGUA_SUSTENTABLEStage');
 
                 }

@@ -112,7 +112,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -141,8 +141,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '184px',
-                    'Left': '754px',
+                    'Top': '361px',
+                    'Left': '726px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '2','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -174,8 +174,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '232px',
-                    'Left': '675px',
+                    'Top': '342px',
+                    'Left': '663px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '4','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -207,8 +207,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '216px',
-                    'Left': '622px',
+                    'Top': '260px',
+                    'Left': '628px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '5','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -240,8 +240,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '386px',
-                    'Left': '640px',
+                    'Top': '361px',
+                    'Left': '493px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '6','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -273,8 +273,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '216px',
-                    'Left': '528px',
+                    'Top': '322px',
+                    'Left': '563px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '7','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -306,8 +306,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '161px',
-                    'Left': '453px',
+                    'Top': '232px',
+                    'Left': '563px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '8','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -339,8 +339,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '123px',
-                    'Left': '388px',
+                    'Top': '134px',
+                    'Left': '528px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '9','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -372,8 +372,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '161px',
-                    'Left': '227px',
+                    'Top': '150px',
+                    'Left': '388px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '10','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -405,8 +405,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '322px',
-                    'Left': '370px',
+                    'Top': '315px',
+                    'Left': '336px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '11','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -438,8 +438,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '222px',
-                    'Left': '361px',
+                    'Top': '229px',
+                    'Left': '458px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '12','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -661,7 +661,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1281px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -722,8 +722,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '322px',
-                    'Left': '370px',
+                    'Top': '315px',
+                    'Left': '336px',
                     'Height': '54px',
                     'Width': '35px',
                     'ZIndex': '11','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -853,7 +853,36 @@ LA_CUENCA_NAZAS.stage = [{
                          {
                             'Property': 'Opacity',
                             'EndValue': '1'
-                         }],}
+                         }],},
+                {
+                    'Oid': 'Xa6d1f12',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '213px',
+                    'Left': '384px',
+                    'Height': '120px',
+                    'Width': '109px',
+                    'ZIndex': '17','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_rio santiago.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],}
 
                 ],
                 'Transforms': [
@@ -943,7 +972,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1281px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -971,8 +1000,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '161px',
-                    'Left': '227px',
+                    'Top': '150px',
+                    'Left': '388px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '10','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1188,6 +1217,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d258f',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '136px',
+                    'Left': '425px',
+                    'Height': '120px',
+                    'Width': '110px',
+                    'ZIndex': '21','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_rio tepehuanes.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -1291,7 +1349,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1319,8 +1377,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '222px',
-                    'Left': '361px',
+                    'Top': '229px',
+                    'Left': '458px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '12','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1520,6 +1578,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d96a8',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '165px',
+                    'Left': '502px',
+                    'Height': '113px',
+                    'Width': '99px',
+                    'ZIndex': '21','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_ rio ramos.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -1623,7 +1710,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1651,8 +1738,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '123px',
-                    'Left': '388px',
+                    'Top': '134px',
+                    'Left': '528px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '9','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1680,8 +1767,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '123px',
-                    'Left': '620px',
+                    'Top': '176px',
+                    'Left': '614px',
                     'Height': '420px',
                     'Width': '380px',
                     'ZIndex': '16','BackgroundImage': 'LA_CUENCA_NAZAS_resources/rio sextin.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1823,6 +1910,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d9722',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '97px',
+                    'Left': '565px',
+                    'Height': '110px',
+                    'Width': '98px',
+                    'ZIndex': '20','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_rio sextin.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -1912,7 +2028,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -1937,8 +2053,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '161px',
-                    'Left': '453px',
+                    'Top': '232px',
+                    'Left': '563px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '8','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1966,8 +2082,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '109px',
-                    'Left': '657px',
+                    'Top': '163px',
+                    'Left': '722px',
                     'Height': '440px',
                     'Width': '380px',
                     'ZIndex': '16','BackgroundImage': 'LA_CUENCA_NAZAS_resources/presa lazaro cardenas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -1996,8 +2112,8 @@ LA_CUENCA_NAZAS.stage = [{
                     'Cursor': 'Pointer',
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '200px',
-                    'Left': '1050px',
+                    'Top': '196px',
+                    'Left': '1113px',
                     'Height': '55px',
                     'Width': '138px',
                     'ZIndex': '18','BackgroundColor': '#8A2BE2','Display': 'block','TextAlign': 'Center',
@@ -2109,6 +2225,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d97f8',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '168px',
+                    'Left': '600px',
+                    'Height': '128px',
+                    'Width': '116px',
+                    'ZIndex': '20','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_presa lazaro cardenas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -2199,7 +2344,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -2227,8 +2372,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '216px',
-                    'Left': '528px',
+                    'Top': '322px',
+                    'Left': '563px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '7','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -2428,6 +2573,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d9935',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '278px',
+                    'Left': '598px',
+                    'Height': '110px',
+                    'Width': '91px',
+                    'ZIndex': '21','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_rio nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -2544,7 +2718,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -2572,8 +2746,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '216px',
-                    'Left': '622px',
+                    'Top': '260px',
+                    'Left': '628px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '5','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -2773,6 +2947,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d9984',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '224px',
+                    'Left': '657px',
+                    'Height': '110px',
+                    'Width': '91px',
+                    'ZIndex': '21','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_a naitcha.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -2876,7 +3079,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -2904,8 +3107,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '386px',
-                    'Left': '640px',
+                    'Top': '361px',
+                    'Left': '493px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '6','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -2934,7 +3137,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '100px',
-                    'Left': '160px',
+                    'Left': '74px',
                     'Height': '420px',
                     'Width': '380px',
                     'ZIndex': '16','BackgroundImage': 'LA_CUENCA_NAZAS_resources/rio del peñon.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -3085,13 +3288,42 @@ LA_CUENCA_NAZAS.stage = [{
                     'Tag': 'div',
                     'Position': 'absolute',
                     'Top': '115px',
-                    'Left': '433px',
+                    'Left': '351px',
                     'Height': '80px',
                     'Width': '80px',
                     'ZIndex': '20','BackgroundImage': 'LA_CUENCA_NAZAS_resources/icono_escucha_activa.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '0',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d99e5',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '302px',
+                    'Left': '540px',
+                    'Height': '110px',
+                    'Width': '96px',
+                    'ZIndex': '21','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera rio peñon.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
                 'FontFamily': 'Arial',
                 'FontSize': '14px',
                 'LineHeight': '1em',
@@ -3208,7 +3440,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -3236,8 +3468,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '232px',
-                    'Left': '675px',
+                    'Top': '342px',
+                    'Left': '663px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '4','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -3265,8 +3497,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '172px',
-                    'Left': '160px',
+                    'Top': '201px',
+                    'Left': '227px',
                     'Height': '420px',
                     'Width': '380px',
                     'ZIndex': '6','BackgroundImage': 'LA_CUENCA_NAZAS_resources/presa fco zarco.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -3448,6 +3680,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d9ab0',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '293px',
+                    'Left': '710px',
+                    'Height': '112px',
+                    'Width': '96px',
+                    'ZIndex': '12','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera_presa fco zarco.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -3538,7 +3799,7 @@ LA_CUENCA_NAZAS.stage = [{
                     'Left': '0px',
                     'Height': '720px',
                     'Width': '1280px',
-                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+                    'ZIndex': '1','BackgroundImage': 'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
 
                 'TextColor': '#000000',
                 'Opacity': '1',
@@ -3566,8 +3827,8 @@ LA_CUENCA_NAZAS.stage = [{
                     ,
                     'Tag': 'div',
                     'Position': 'absolute',
-                    'Top': '184px',
-                    'Left': '754px',
+                    'Top': '361px',
+                    'Left': '726px',
                     'Height': '55px',
                     'Width': '35px',
                     'ZIndex': '2','BackgroundImage': 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
@@ -3738,6 +3999,35 @@ LA_CUENCA_NAZAS.stage = [{
 
 'Pressed': [],
                     
+                    'Hover': [],},
+                {
+                    'Oid': 'Xa6d9afc',                
+                    'Type': 'box',
+                    'InnerHTML': ''
+                    ,
+                    'Tag': 'div',
+                    'Position': 'absolute',
+                    'Top': '312px',
+                    'Left': '762px',
+                    'Height': '111px',
+                    'Width': '92px',
+                    'ZIndex': '13','BackgroundImage': 'LA_CUENCA_NAZAS_resources/bandera cañon fdez.png','BackgroundSize': '100% 100%','Display': 'block','TextAlign': 'left',
+
+                'TextColor': '#000000',
+                'Opacity': '1',
+                'FontFamily': 'Arial',
+                'FontSize': '14px',
+                'LineHeight': '1em',
+
+                
+
+                'Visible': 'true',
+
+
+
+
+'Pressed': [],
+                    
                     'Hover': [],}
 
                 ],
@@ -3812,7 +4102,7 @@ LA_CUENCA_NAZAS.stage = [{
             LA_CUENCA_NAZAS.debug = false;
             LA_CUENCA_NAZAS.preloadImages = true;
 LA_CUENCA_NAZAS.imagesToPreload = [
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
@@ -3823,46 +4113,56 @@ LA_CUENCA_NAZAS.imagesToPreload = [
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/rio santiago.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_rio santiago.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/rio tepehuanes.png',
 'LA_CUENCA_NAZAS_resources/rio_tepehuanes.mp3',
 'LA_CUENCA_NAZAS_resources/icono_escucha_activa.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_rio tepehuanes.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/rio ramos.png',
 'LA_CUENCA_NAZAS_resources/rio_ramos.mp3',
 'LA_CUENCA_NAZAS_resources/icono_escucha_activa.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_ rio ramos.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/rio sextin.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_rio sextin.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/presa lazaro cardenas.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_presa lazaro cardenas.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/rio nazas-1.png',
 'LA_CUENCA_NAZAS_resources/rio_nazas.mp3',
 'LA_CUENCA_NAZAS_resources/icono_escucha_activa.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_rio nazas.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/arroyo naitcha.png',
 'LA_CUENCA_NAZAS_resources/arroyo naitcha.mp3',
 'LA_CUENCA_NAZAS_resources/icono_escucha_activa.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_a naitcha.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/rio del peñon.png',
 'LA_CUENCA_NAZAS_resources/rio_peñon.mp3',
 'LA_CUENCA_NAZAS_resources/icono_escucha_activa.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera rio peñon.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
 'LA_CUENCA_NAZAS_resources/presa fco zarco.png',
-'LA_CUENCA_NAZAS_resources/mapa animacion-la cuenca del nazas - copia.png',
+'LA_CUENCA_NAZAS_resources/bandera_presa fco zarco.png',
+'LA_CUENCA_NAZAS_resources/mapa cuenca de nazas.png',
 'LA_CUENCA_NAZAS_resources/puntero_3d_rojo.png',
-'LA_CUENCA_NAZAS_resources/cañon fdez-1.png'
+'LA_CUENCA_NAZAS_resources/cañon fdez-1.png',
+'LA_CUENCA_NAZAS_resources/bandera cañon fdez.png'
 ];LA_CUENCA_NAZAS.createWorkspace('LA_CUENCA_NAZASStage');
 
                 }

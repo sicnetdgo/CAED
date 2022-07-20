@@ -9,22 +9,22 @@ body { margin: 0; padding: 0; text-align: left; height: 100%; }
 #imStickyBarContainer { visibility: hidden; position: fixed; overflow: hidden; }
 #imPageToTop { position: fixed; bottom: 30px; right: 30px; z-index: 10500; display: none; opacity: 0.75 }
 #imPageToTop:hover {opacity: 1; cursor: pointer; }
-@media (min-width: 1150.0px) {
-		#imPageExtContainer { background-image: url('fondo_pag_1.png'); background-position: center top; background-repeat: no-repeat; background-size: cover; background-attachment: fixed; background-color: transparent; }
-		#imPage { padding-top: 0px; padding-bottom: 0px; min-width: 1150px; }
-		#imHeaderBg { height: 0px; background-image: none; background-color: transparent; }
+@media (min-width: 1280.0px) {
+		#imPageExtContainer { background-image: none; background-color: rgba(26, 61, 83, 1); }
+		#imPage { padding-top: 0px; padding-bottom: 0px; min-width: 1280px; }
+		#imHeaderBg { height: 100px; background-image: none; background-color: rgba(52, 51, 68, 1); }
 		#imHeader { background-image: none; background-color: transparent; }
-		#imHeaderObjects { margin-left: auto; margin-right: auto; position: relative; height: 0px; width:1150px; }
+		#imHeaderObjects { margin-left: auto; margin-right: auto; position: relative; height: 100px; width:1280px; }
 		#imContent { align-self: start; padding: 0px 0 0px 0; }
-		#imContentGraphics { min-height: 600px; background-image: none; background-color: transparent; }
+		#imContentGraphics { min-height: 600px; background-image: none; background-color: rgba(26, 61, 83, 1); }
 		#imFooterBg { height: 300px; background-image: url('fondo_pie_pag.png'); background-position: left top; background-repeat: repeat; background-attachment: scroll; background-color: transparent; }
 		#imFooter { background-image: none; background-color: transparent; }
-		#imFooterObjects { margin-left: auto; margin-right: auto; position: relative; height: 300px; width:1150px; }
+		#imFooterObjects { margin-left: auto; margin-right: auto; position: relative; height: 300px; width:1280px; }
 		#imSideBar { background-image: none; background-color: transparent; overflow: visible; zoom: 1; z-index: 200; }
 		#imSideBarObjects { position: relative; height: 600px; }
 	
 }
-@media (max-width: 1149.9px) and (min-width: 720.0px) {
+@media (max-width: 1279.9px) and (min-width: 720.0px) {
 		#imPageExtContainer { background-image: none; background-color: transparent; }
 		#imPage { padding-top: 0px; padding-bottom: 0px; min-width: 720px; }
 		#imHeaderBg { height: 100px; background-image: none; background-color: transparent; }

@@ -20,13 +20,11 @@
 		<link rel="stylesheet" href="style/print.css?2022-1-2-0" media="print" />
 		<link rel="stylesheet" href="style/style.css?2022-1-2-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-1-2-0" media="screen" />
-		<link rel="stylesheet" href="pluginAppObj/pluginAppObj_7_60/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/mapas.css?2022-1-2-0-637873506363516934" media="screen,print" />
+		<link rel="stylesheet" href="pcss/mapas.css?2022-1-2-0-637938382772798581" media="screen,print" />
 		<script src="res/jquery.js?2022-1-2-0"></script>
 		<script src="res/x5engine.js?2022-1-2-0" data-files-version="2022-1-2-0"></script>
-		<script src="res/x5engine.offline.js?2022-1-2-0-637873506360332868"></script>
+		<script src="res/x5engine.offline.js?2022-1-2-0-637938382772628641"></script>
 		<script>x5engine.boot.push(function () { x5engine.image.activateLazyLoading(); });</script>
-		<script src="pluginAppObj/pluginAppObj_7_60/main.js"></script>
 		<script>
 			window.onload = function(){ checkBrowserCompatibility('El Explorador que estás usando no es compatible con las funciones requeridas para mostrar este Sitio web.','El Navegador que estás utilizando podría no ser compatible con las funciones requeridas para poder ver este Sitio web.','[1]Actualiza tu explorador [/1] o [2]continuar de todos modos[/2].','http://outdatedbrowser.com/'); };
 			x5engine.utils.currentPagePath = 'mapas.html';
@@ -34,7 +32,7 @@
 			x5engine.boot.push(function () { x5engine.imageSequence.start(); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2022-1-2-0-637873506360882701" type="image/png" />
+		<link rel="icon" href="favicon.png?2022-1-2-0-637938382772628641" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -72,14 +70,29 @@ Qué es?		</a>
 El Río Nazas		</a>
 </div>
 </div>
-	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Proyecto Agua Saludable</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths=",/antecedentes.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="antecedentes.html">
+Antecedentes		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/justificacion.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="justificacion.html">
+Justificación		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/agua-saludable.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="agua-saludable.html">
 Agua Saludable		</a>
 </div>
 </div>
-	</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="mapas.html">
@@ -103,6 +116,15 @@ x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_01_setting
 $(function () {$('#imHeader_imMenuObject_01_container ul li, #imHeader_imMenuObject_01_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
 $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
 </script>
+</div><div id="imHeader_imObjectImage_02_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_02"><div id="imHeader_imObjectImage_02_container"><img src="images/LOGO_CAED_CABEZA.gif" title="CAED Cultura del Agua Durango" alt="" />
+</div></div></div><div id="imHeader_imTextObject_04_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_04">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_04_tab0" style="opacity: 1; ">
+		<div class="text-inner">
+			<div data-line-height="1" class="lh1"><span class="fs30lh1 cf1"><b>Agua Saludable para la Laguna</b></span></div>
+		</div>
+	</div>
+
+</div>
 </div></div>
 					</header>
 					<div id="imStickyBarContainer">
@@ -119,98 +141,13 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 					<main id="imContent">
 						<a id="imGoToCont"></a>
 						<div id="imPageRow_1" class="imPageRow">
-						<div class="image-list-row-container"><div id="imPageRowGraphics_1_0" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="0"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_1" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="1"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_2" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="2"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_3" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="3"  data-sequence-count="4" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div class="image-list-row-container"><div id="imPageRowGraphics_1_0" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="0"  data-sequence-count="3" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_1" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="1"  data-sequence-count="3" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_2" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="2"  data-sequence-count="3" data-sequence-type="time" data-sequence-element-delay="14000"></div>
 						</div>
 						</div>
-						<div id="imCell_24" class="animable fadeInUp"  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_24"></div><div id="imCellStyleBorders_24"></div><!-- UNSEARCHABLE --><div id="imMenuObject_7_24"><div id="imMenuObject_7_24_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
-							<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
-								<div class="hamburger-menu-close-button"><span>&times;</span></div>
-							</div>
-						</div>
-						<ul class="menu-mobile-animated hidden">
-							<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="index.html">
-						INICIO		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">La Cuenca del Nazas</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
-							<li class="imMnMnFirst imPage" data-link-paths=",/que-es-.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="que-es-.html">
-						Qué es?		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/el-rio-nazas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="el-rio-nazas.html">
-						El Río Nazas		</a>
-						</div>
-						</div>
-							</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="agua-saludable.html">
-						Agua Saludable		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="mapas.html">
-						Mapas		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/datos_curiosos.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="datos_curiosos.html">
-						Datos curiosos		</a>
-						</div>
-						</div>
-							</li></ul></div></div><!-- UNSEARCHABLE END --><script>
-						var imMenuObject_7_24_settings = {
-							'menuId': 'imMenuObject_7_24',
-							'responsiveMenuEffect': 'slide',
-							'animationDuration': 1000,
-						}
-						x5engine.boot.push(function(){x5engine.initMenu(imMenuObject_7_24_settings)});
-						$(function () {$('#imMenuObject_7_24_container ul li, #imMenuObject_7_24_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imMenuObject_7_24_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imMenuObject_7_24_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
-						$(function () {$('#imMenuObject_7_24_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
-						</script>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_24').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_24"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_60" class="animable shake"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_60"></div><div id="imCellStyleBorders_60"></div><!-- Social Icons v.14 --><div id="pluginAppObj_7_60">
-						            <div id="soc_pluginAppObj_7_60">
-						                <div class="wrapper horizontal flat grow">
-						                	<div class='social-icon flat'><a href='https://fb.me/Incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M57,93V54H70.14l2-15H57V29.09c0-4.39.94-7.39,7.24-7.39H72V8.14a98.29,98.29,0,0,0-11.6-.6C48.82,7.54,41,14.61,41,27.59V39H27V54H41V93H57Z"/></svg><span class='fallbacktext'>Fb</span></a></div><div class='social-icon flat'><a href='https://www.youtube.com/user/incomedia' target='_blank'><svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><path d="M89.2,34S88.42,28.49,86,26.06c-3-3.19-6.45-3.14-8-3.32C66.81,21.93,50,22,50,22h0s-16.79-.07-28,0.74c-1.56.19-5,.17-8,3.36C11.58,28.53,10.8,34,10.8,34A120.47,120.47,0,0,0,10,47V53A121,121,0,0,0,10.8,66s0.78,5.51,3.18,7.94c3,3.19,7,3.09,8.82,3.42,6.4,0.61,27.2.8,27.2,0.8s16.81,0,28-.83a11.44,11.44,0,0,0,8-3.39C88.42,71.48,89.2,66,89.2,66A121.16,121.16,0,0,0,90,53V47A121.16,121.16,0,0,0,89.2,34ZM41.74,60.38V37.9L63.35,49.18Z"/></g></svg><span class='fallbacktext'>Yt</span></a></div><div class='social-icon flat'><a href='https://twitter.com/Incomedia' target='_blank'><svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M37,78.44c26.42,0,40.86-21.88,40.86-40.86,0-.62,0-1.24,0-1.86A29.22,29.22,0,0,0,85,28.29a28.67,28.67,0,0,1-8.25,2.26,14.41,14.41,0,0,0,6.32-7.94,28.78,28.78,0,0,1-9.12,3.49,14.37,14.37,0,0,0-24.47,13.1,40.77,40.77,0,0,1-29.6-15,14.37,14.37,0,0,0,4.45,19.17,14.26,14.26,0,0,1-6.5-1.8c0,0.06,0,.12,0,0.18A14.37,14.37,0,0,0,29.33,55.82a14.34,14.34,0,0,1-6.49.25A14.38,14.38,0,0,0,36.26,66a28.82,28.82,0,0,1-17.84,6.15A29.24,29.24,0,0,1,15,72a40.66,40.66,0,0,0,22,6.45"/></svg><span class='fallbacktext'>Tw</span></a></div>
-						                </div>
-						
-						            </div>
-						                <script>
-						                    socialicons_pluginAppObj_7_60();
-						                </script>
-						        </div></div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_60').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_60"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_61" class="animable fadeInLeft"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_61"></div><div id="imCellStyleBorders_61"></div><div id="imObjectImage_7_61"><div id="imObjectImage_7_61_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
+						<div id="imCell_71" class=""  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_71"></div><div id="imCellStyleBorders_71"></div><div id="imObjectImage_7_71"><div id="imObjectImage_7_71_container"><img src="images/logo_voces_agua_2_j1a4d74o.png" title="" alt="" />
+						</div></div></div><div id="imCell_61" class="animable fadeInLeft"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_61"></div><div id="imCellStyleBorders_61"></div><div id="imObjectImage_7_61"><div id="imObjectImage_7_61_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
 						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
@@ -219,7 +156,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_9" class="animable fadeInLeft"  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_9"></div><div id="imCellStyleBorders_9"></div><div id="imTextObject_7_09">
+						<div id="imCell_9" class="animable fadeInLeft"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_9"></div><div id="imCellStyleBorders_9"></div><div id="imTextObject_7_09">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_7_09_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading1 imTACenter"><span class="cf1">Mapas Interactivos</span></div>
@@ -238,19 +175,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						<div id="imPageRow_2" class="imPageRow imParallax">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_2" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
 						</div>
-						<div id="imCell_1" class="animable pulse"  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_1"></div><div id="imCellStyleBorders_1"></div><div id="imObjectImage_7_01"><div id="imObjectImage_7_01_container"><a href="files/LA_CUENCA_NAZAS.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/LA_CUENCA_NAZAS.html', width: 1920, height: 1080, description: 'Mapa interactivo &quot;Conoce la Cuenca del Nazas&quot;'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
-						<div class="imlazyloading" data-src="images/MAPA-ANIMACION-LA-CUENCA-DEL-NAZAS_kfovmbpa.png" data-title="Da Click y Aprende con nuestro Mapa animado y Modelo 3D" data-alt="Mapa interactivo, La Cuenca del Nazas"></div>
-						</a></div></div></div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onLazyLoadedElement($('#imCell_1').get(0), function () {
-								x5engine.utils.onElementInViewPort($('#imCell_1').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_1"))
-								}, 100);
-							});
-							});
-						</script>
-						<div id="imCell_3" class="animable pulse"  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_3"></div><div id="imCellStyleBorders_3"></div><div id="imObjectImage_7_03"><div id="imObjectImage_7_03_container"><a href="files/MAPA-AGUA-SUSTENTABLE.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/MAPA-AGUA-SUSTENTABLE.html', width: 1920, height: 1080, description: 'Mapa interactivo &quot;Proyecto Agua Saludable para la Laguna&quot;'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imCell_3" class="animable pulse"  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_3"></div><div id="imCellStyleBorders_3"></div><div id="imObjectImage_7_03"><div id="imObjectImage_7_03_container"><a href="files/MAPA-AGUA-SUSTENTABLE.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/MAPA-AGUA-SUSTENTABLE.html', width: 1920, height: 1080, description: 'Mapa interactivo &quot;Proyecto Agua Saludable para la Laguna&quot;'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/FONDO_ANIMACION_AGUA_SALUDABLE_2.png" data-title="Da Click y Aprende con nuestro Mapa animado y Modelo 3D" data-alt="Aprende con nuestro Mapa animado y Modelo 3D"></div>
 						</a>
 						<script>
@@ -272,7 +197,19 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 							});
 						</script>
-						<div id="imCell_62" class="animable pulse"  data-responsive-sequence-number="7"> <div id="imCellStyleGraphics_62"></div><div id="imCellStyleBorders_62"></div><div id="imObjectImage_7_62"><div id="imObjectImage_7_62_container"><a href="files/MUNICIPIOS-AGUA-SALUDABLE.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/MUNICIPIOS-AGUA-SALUDABLE.html', width: 1920, height: 1080, description: 'Proyecto Agua Saludable para la Laguna, Conoce los Municipios...'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imCell_1" class="animable pulse"  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_1"></div><div id="imCellStyleBorders_1"></div><div id="imObjectImage_7_01"><div id="imObjectImage_7_01_container"><a href="files/LA_CUENCA_NAZAS.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/LA_CUENCA_NAZAS.html', width: 1920, height: 1080, description: 'Mapa interactivo &quot;Conoce la Cuenca del Nazas&quot;'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/MAPA-ANIMACION-LA-CUENCA-DEL-NAZAS_rk6r6ge9.png" data-title="Da Click y Aprende con nuestro Mapa animado y Modelo 3D" data-alt="Mapa interactivo, La Cuenca del Nazas"></div>
+						</a></div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_1').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_1').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_1"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imCell_62" class="animable pulse"  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_62"></div><div id="imCellStyleBorders_62"></div><div id="imObjectImage_7_62"><div id="imObjectImage_7_62_container"><a href="files/MUNICIPIOS-AGUA-SALUDABLE.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/MUNICIPIOS-AGUA-SALUDABLE.html', width: 1920, height: 1080, description: 'Proyecto Agua Saludable para la Laguna, Conoce los Municipios...'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/TEXTURA-ANIMACION-MUNICIPIOS.png" data-title="Da Click y Aprende con nuestro Mapa animado y Modelo 3D" data-alt="Mapa interactivo, Municipios de la Comarca Lagunera"></div>
 						</a></div></div></div>
 						<script>
@@ -298,7 +235,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 </div><div id="imFooter_imTableObject_07_wrapper" class="template-object-wrapper"><div id="imFooter_imTableObject_07">
 	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTableObject_07_tab0" style="opacity: 1; ">
 		<div class="text-inner">
-			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_dly9bjwv.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
+			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_fuqun29a.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
 		</div>
 	</div>
 

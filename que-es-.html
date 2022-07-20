@@ -19,13 +19,11 @@
 		<link rel="stylesheet" href="style/print.css?2022-1-2-0" media="print" />
 		<link rel="stylesheet" href="style/style.css?2022-1-2-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-1-2-0" media="screen" />
-		<link rel="stylesheet" href="pluginAppObj/pluginAppObj_3_46/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/que-es-.css?2022-1-2-0-637873596057338945" media="screen,print" />
+		<link rel="stylesheet" href="pcss/que-es-.css?2022-1-2-0-637938350599955913" media="screen,print" />
 		<script src="res/jquery.js?2022-1-2-0"></script>
 		<script src="res/x5engine.js?2022-1-2-0" data-files-version="2022-1-2-0"></script>
-		<script src="res/x5engine.offline.js?2022-1-2-0-637873596054620496"></script>
+		<script src="res/x5engine.offline.js?2022-1-2-0-637938350597913632"></script>
 		<script>x5engine.boot.push(function () { x5engine.image.activateLazyLoading(); });</script>
-		<script src="pluginAppObj/pluginAppObj_3_46/main.js"></script>
 		<script>
 			window.onload = function(){ checkBrowserCompatibility('El Explorador que estás usando no es compatible con las funciones requeridas para mostrar este Sitio web.','El Navegador que estás utilizando podría no ser compatible con las funciones requeridas para poder ver este Sitio web.','[1]Actualiza tu explorador [/1] o [2]continuar de todos modos[/2].','http://outdatedbrowser.com/'); };
 			x5engine.utils.currentPagePath = 'que-es-.html';
@@ -33,7 +31,7 @@
 			x5engine.boot.push(function () { x5engine.imageSequence.start(); });
 			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		<link rel="icon" href="favicon.png?2022-1-2-0-637873596054995206" type="image/png" />
+		<link rel="icon" href="favicon.png?2022-1-2-0-637938350597913632" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -71,14 +69,29 @@ Qué es?		</a>
 El Río Nazas		</a>
 </div>
 </div>
-	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
+	</li></ul></li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Proyecto Agua Saludable</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
+	<li class="imMnMnFirst imPage" data-link-paths=",/antecedentes.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="antecedentes.html">
+Antecedentes		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/justificacion.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="justificacion.html">
+Justificación		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/agua-saludable.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="agua-saludable.html">
 Agua Saludable		</a>
 </div>
 </div>
-	</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
 <div class="label-wrapper">
 <div class="label-inner-wrapper">
 		<a class="label" href="mapas.html">
@@ -102,6 +115,15 @@ x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_01_setting
 $(function () {$('#imHeader_imMenuObject_01_container ul li, #imHeader_imMenuObject_01_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
 $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
 </script>
+</div><div id="imHeader_imObjectImage_02_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_02"><div id="imHeader_imObjectImage_02_container"><img src="images/LOGO_CAED_CABEZA.gif" title="CAED Cultura del Agua Durango" alt="" />
+</div></div></div><div id="imHeader_imTextObject_04_wrapper" class="template-object-wrapper"><div id="imHeader_imTextObject_04">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imHeader_imTextObject_04_tab0" style="opacity: 1; ">
+		<div class="text-inner">
+			<div data-line-height="1" class="lh1"><span class="fs30lh1 cf1"><b>Agua Saludable para la Laguna</b></span></div>
+		</div>
+	</div>
+
+</div>
 </div></div>
 					</header>
 					<div id="imStickyBarContainer">
@@ -117,101 +139,17 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 					<div id="imContentGraphics"></div>
 					<main id="imContent">
 						<a id="imGoToCont"></a>
-						<div id="imPageRow_1" class="imPageRow">
-						<div class="image-list-row-container"><div id="imPageRowGraphics_1_0" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="0"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_1" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="1"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_2" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="2"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_3" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="3"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_4" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="4"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
-						<div id="imPageRowGraphics_1_5" class="image-list-row-item imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-sequence-position="5"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRow_1" class="imPageRow imParallax">
+						<div class="image-list-row-container"><div id="imPageRowGraphics_1_0" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="60" data-sequence-position="0"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_1" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="60" data-sequence-position="1"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_2" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="60" data-sequence-position="2"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_3" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="60" data-sequence-position="3"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_4" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="60" data-sequence-position="4"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
+						<div id="imPageRowGraphics_1_5" class="image-list-row-item imParallaxBackground imImageSequence row-format-animation-slideVertictal hidden" data-sequence-id="imPageRowGraphics_1" data-parallax-direction="down" data-parallax-zoom="60" data-sequence-position="5"  data-sequence-count="6" data-sequence-type="time" data-sequence-element-delay="14000"></div>
 						</div>
 						</div>
-						<div id="imCell_52" class="animable fadeInUp"  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_52"></div><div id="imCellStyleBorders_52"></div><!-- UNSEARCHABLE --><div id="imMenuObject_3_52"><div id="imMenuObject_3_52_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
-							<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
-								<div class="hamburger-menu-close-button"><span>&times;</span></div>
-							</div>
-						</div>
-						<ul class="menu-mobile-animated hidden">
-							<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="index.html">
-						INICIO		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">La Cuenca del Nazas</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="" >
-							<li class="imMnMnFirst imPage" data-link-paths=",/que-es-.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="que-es-.html">
-						Qué es?		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/el-rio-nazas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="el-rio-nazas.html">
-						El Río Nazas		</a>
-						</div>
-						</div>
-							</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/agua-saludable.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="agua-saludable.html">
-						Agua Saludable		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnMiddle imPage" data-link-paths=",/mapas.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="mapas.html">
-						Mapas		</a>
-						</div>
-						</div>
-							</li><li class="imMnMnLast imPage" data-link-paths=",/datos_curiosos.html">
-						<div class="label-wrapper">
-						<div class="label-inner-wrapper">
-								<a class="label" href="datos_curiosos.html">
-						Datos curiosos		</a>
-						</div>
-						</div>
-							</li></ul></div></div><!-- UNSEARCHABLE END --><script>
-						var imMenuObject_3_52_settings = {
-							'menuId': 'imMenuObject_3_52',
-							'responsiveMenuEffect': 'slide',
-							'animationDuration': 1000,
-						}
-						x5engine.boot.push(function(){x5engine.initMenu(imMenuObject_3_52_settings)});
-						$(function () {$('#imMenuObject_3_52_container ul li, #imMenuObject_3_52_container .multiple-column').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0, subtimeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imMenuObject_3_52_container-menu-opened').length > 0) return;         clearTimeout(timeout);        $this.children('.multiple-column').show(0);        $this.children('ul').addClass('inline-block');        setTimeout(function () {         $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).addClass('animated').children('li').addClass('animated');        }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imMenuObject_3_52_container-menu-opened').length > 0) return;         timeout = setTimeout(function () {            $this.children('ul').add($this.find('.multiple-column > ul')).stop(false, false).removeClass('inline-block animated').children('li').removeClass('animated');            subtimeout = setTimeout(function () { $this.children('.multiple-column').hide(0); }, 250);        }, 250);    });});});
-						$(function () {$('#imMenuObject_3_52_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.sweeper');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().appendTo($this).wrap('<div class="sweeper"></div>').addClass('label-wrapper-over').parent();        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.sweeper');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
-						</script>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_52').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_52"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_46" class="animable shake"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_46"></div><div id="imCellStyleBorders_46"></div><!-- Social Icons v.14 --><div id="pluginAppObj_3_46">
-						            <div id="soc_pluginAppObj_3_46">
-						                <div class="wrapper horizontal original grow">
-						                	<div class='social-icon original'><a href='https://fb.me/Incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><rect width="100" height="100" style="fill:#3d5a98"/><g><path d="M69,100V61.27H82l1.95-15.09H69V36.55c0-4.37,1.21-7.35,7.48-7.35h8V15.7a106.94,106.94,0,0,0-11.65-.59c-11.52,0-19.41,7-19.41,19.95V46.18h-13V61.27h13V100H69Z" style="fill:#fff"/></g></g></svg><span class='fallbacktext'>Fb</span></a></div><div class='social-icon original'><a href='https://www.youtube.com/user/incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100"><defs><linearGradient id="shade_yt_pluginAppObj_3_46" x1="50" y1="21.87" x2="50" y2="78.13" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#e52d27"/><stop offset="1" stop-color="#bf171d"/></linearGradient></defs><g><path d="M89.2,34S88.42,28.49,86,26.06a11.44,11.44,0,0,0-8-3.39c-11.19-.81-28-0.81-28-0.81h0s-16.79,0-28,.81a11.44,11.44,0,0,0-8,3.39C11.58,28.49,10.8,34,10.8,34A121,121,0,0,0,10,47V53A121,121,0,0,0,10.8,66s0.78,5.51,3.18,7.94c3,3.19,7,3.09,8.82,3.42,6.4,0.61,27.2.8,27.2,0.8s16.81,0,28-.83a11.44,11.44,0,0,0,8-3.39C88.42,71.48,89.2,66,89.2,66A121.16,121.16,0,0,0,90,53V47A121.16,121.16,0,0,0,89.2,34ZM41.74,60.38V37.9L63.35,49.18Z" style="fill:url(#shade_yt_pluginAppObj_3_46)"/></g></svg><span class='fallbacktext'>Yt</span></a></div><div class='social-icon original'><a href='https://twitter.com/Incomedia' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><rect width="100" height="100" style="fill:#1da1f2"/><g><path d="M38.89,76.4c23.59,0,36.48-19.54,36.48-36.48,0-.56,0-1.11,0-1.66a26.09,26.09,0,0,0,6.4-6.64,25.6,25.6,0,0,1-7.36,2A12.87,12.87,0,0,0,80,26.54a25.7,25.7,0,0,1-8.14,3.11A12.83,12.83,0,0,0,50,41.35,36.4,36.4,0,0,1,23.58,28a12.83,12.83,0,0,0,4,17.12,12.73,12.73,0,0,1-5.81-1.6c0,0.05,0,.11,0,0.16A12.83,12.83,0,0,0,32,56.2a12.8,12.8,0,0,1-5.79.22,12.84,12.84,0,0,0,12,8.91,25.73,25.73,0,0,1-15.93,5.49,26.1,26.1,0,0,1-3.06-.18A36.3,36.3,0,0,0,38.89,76.4" style="fill:#fff"/></g></g></svg><span class='fallbacktext'>Tw</span></a></div>
-						                </div>
-						
-						            </div>
-						                <script>
-						                    socialicons_pluginAppObj_3_46();
-						                </script>
-						        </div></div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_46').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_46"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_48" class="animable fadeInLeft"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_48"></div><div id="imCellStyleBorders_48"></div><div id="imObjectImage_3_48"><div id="imObjectImage_3_48_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
+						<div id="imCell_57" class=""  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_57"></div><div id="imCellStyleBorders_57"></div><div id="imObjectImage_3_57"><div id="imObjectImage_3_57_container"><img src="images/logo_voces_agua_2_s05rcbh6.png" title="" alt="" />
+						</div></div></div><div id="imCell_48" class="animable fadeInLeft"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_48"></div><div id="imCellStyleBorders_48"></div><div id="imObjectImage_3_48"><div id="imObjectImage_3_48_container"><img src="images/logos_gob_dgo_caed.png" title="" alt="" />
 						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
@@ -220,10 +158,10 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_47" class="animable fadeInDown"  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_47"></div><div id="imCellStyleBorders_47"></div><div id="imTextObject_3_47">
+						<div id="imCell_47" class="animable fadeInDown"  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_47"></div><div id="imCellStyleBorders_47"></div><div id="imTextObject_3_47">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_47_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><div class="imHeading1">La Cuenca del Nazas</div></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+									<div class="imHeading1 imTACenter">La Cuenca del Nazas</div>
 								</div>
 							</div>
 						
@@ -239,7 +177,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						<div id="imPageRow_2" class="imPageRow">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_2"></div></div>
 						</div>
-						<div id="imCell_27" class="animable fadeInDown"  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_27"></div><div id="imCellStyleBorders_27"></div><div id="imTextObject_3_27">
+						<div id="imCell_27" class="animable fadeInDown"  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_27"></div><div id="imCellStyleBorders_27"></div><div id="imTextObject_3_27">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_27_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading2"><span class="cf1">La Región Hidrológica del Nazas (RH 36)</span></div>
@@ -255,65 +193,33 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_22" class="animable fadeInLeft"  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_22"></div><div id="imCellStyleBorders_22"></div><div id="imTextObject_3_22">
+						<div id="imCell_22" class=""  data-responsive-sequence-number="5"> <div id="imCellStyleGraphics_22"></div><div id="imCellStyleBorders_22"></div><div id="imTextObject_3_22">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_22_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1">México está &nbsp;dividido en treinta y siete regiones hidrológicas administradas por la &nbsp;Comisión Nacional del Agua (CONAGUA) con el fin de recabar de manera mas &nbsp;eficiente información hidrológica y de calidad del agua.</span></div>
+									<div class="imTALeft"><span class="fs16lh1-5 cf1 ff1">México está &nbsp;dividido en treinta y siete regiones hidrológicas administradas por la &nbsp;Comisión Nacional del Agua (CONAGUA) con el fin de recabar de manera mas &nbsp;eficiente información hidrológica y de calidad del agua.</span></div>
 								</div>
 							</div>
 						
 						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_22').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_22"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_29" class="animable fadeInUp"  data-responsive-sequence-number="7"> <div id="imCellStyleGraphics_29"></div><div id="imCellStyleBorders_29"></div><div id="imTextObject_3_29">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_29_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1">La &nbsp;región hidrológica en donde se encuentran el río Nazas y la Comarca &nbsp;Lagunera es la número 36 y tiene una superficie de 92,000 km2 que se &nbsp;extienden desde la Sierra Madre Occidental hasta la laguna de Mayrán. Su &nbsp;superficie abarca municipios pertenecientes a dos estados &nbsp;del norte de la República Méxicana: Durango y Coahuila.</span></div>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_29').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_29"))
-								}, 100);
-							});
-						</script>
-						<div id="imCell_28" class="animable fadeInUp"  data-responsive-sequence-number="8"> <div id="imCellStyleGraphics_28"></div><div id="imCellStyleBorders_28"></div><div id="imTextObject_3_28">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_28_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1">Esta cuenca es Endorréica o Cerrada. Tiene &nbsp;su origen en las partes altas de la sierra de Durango, cruza los valles y &nbsp;desemboca en la llanura, para &nbsp;descargar finalmente en la laguna antes mencionada. Antes de la construcción de las presas, la laguna contenía &nbsp;agua casi permanéntemente, sin embargo en la actualidad, su lecho está &nbsp;completamente seco.</span></div>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_28').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_28"))
-								}, 100);
-							});
-						</script>
-						<div id="imPageRow_3" class="imPageRow">
+						</div><div id="imPageRow_3" class="imPageRow">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_3"></div></div>
 						</div>
-						<div id="imCell_23" class="animable pulse"  data-responsive-sequence-number="9"> <div id="imCellStyleGraphics_23"></div><div id="imCellStyleBorders_23"></div><div id="imObjectImage_3_23"><div id="imObjectImage_3_23_container"><a href="files/EL-RIO-NAZAS.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/EL-RIO-NAZAS.html', width: 1920, height: 1080, description: 'Conoce, el Río Nazas en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
-						<div class="imlazyloading" data-src="images/IMG_1450.jpg" data-title="" data-alt=""></div>
-						</a>
+						<div id="imCell_58" class=""  data-responsive-sequence-number="6"> <div id="imCellStyleGraphics_58"></div><div id="imCellStyleBorders_58"></div><div id="imTextObject_3_58">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_58_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div><span class="fs16lh1-5">La &nbsp;región hidrológica en donde se encuentran el río Nazas y la Comarca Lagunera es la número 36 y tiene una superficie de 92,000 km2 que se extienden desde la Sierra Madre Occidental hasta la laguna de Mayrán. Su superficie abarca municipios pertenecientes a dos estados &nbsp;del norte de la República Méxicana: Durango y Coahuila.</span></div>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_59" class="animable zoomIn"  data-responsive-sequence-number="7"> <div id="imCellStyleGraphics_59"></div><div id="imCellStyleBorders_59"></div><div id="imObjectImage_3_59"><div id="imObjectImage_3_59_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/15-julio-2010-049.jpg" data-title="El Río Nazas, un río del semidesierto" data-alt=""></div>
+						
 						<script>
 							x5engine.boot.push(function () {
-							x5engine.utils.onElementInViewPort($('#imObjectImage_3_23').parent().get(0), function () {
-								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_23').parent().get(0), function () {
-									 x5engine.imagefx.overlay('#imObjectImage_3_23_container img', '#imObjectImage_3_23', 'images/BANNER_RIO_NAZAS.png', 'top-center');
+							x5engine.utils.onElementInViewPort($('#imObjectImage_3_59').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_59').parent().get(0), function () {
+									 x5engine.imagefx.overlay('#imObjectImage_3_59_container img', '#imObjectImage_3_59', 'images/IMG_1485_o89kehyf.jpg', 'bottom-right');
 								});
 							});
 							});
@@ -321,13 +227,49 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onLazyLoadedElement($('#imCell_23').get(0), function () {
-								x5engine.utils.onElementInViewPort($('#imCell_23').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_23"))
+								x5engine.utils.onLazyLoadedElement($('#imCell_59').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_59').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_59"))
 								}, 100);
 							});
 							});
 						</script>
+						<div id="imPageRow_4" class="imPageRow">
+						
+						</div>
+						<div id="imCell_28" class=""  data-responsive-sequence-number="8"> <div id="imCellStyleGraphics_28"></div><div id="imCellStyleBorders_28"></div><div id="imTextObject_3_28">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_28_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imTALeft"><span class="fs16lh1-5 cf1 ff1">Esta cuenca es Endorréica o Cerrada. Tiene &nbsp;su origen en las partes altas de la sierra de Durango, cruza los valles y &nbsp;desemboca en la llanura, para &nbsp;descargar finalmente en la laguna antes mencionada. Antes de la construcción de las presas, la laguna contenía &nbsp;agua casi permanéntemente, sin embargo en la actualidad, su lecho está &nbsp;completamente seco.</span></div>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_60" class="animable zoomIn"  data-responsive-sequence-number="9"> <div id="imCellStyleGraphics_60"></div><div id="imCellStyleBorders_60"></div><div id="imObjectImage_3_60"><div id="imObjectImage_3_60_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMG_1624.jpg" data-title="" data-alt=""></div>
+						
+						<script>
+							x5engine.boot.push(function () {
+							x5engine.utils.onElementInViewPort($('#imObjectImage_3_60').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_60').parent().get(0), function () {
+									 x5engine.imagefx.overlay('#imObjectImage_3_60_container img', '#imObjectImage_3_60', 'images/IMG_1696.jpg', 'bottom-right');
+								});
+							});
+							});
+						</script>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_60').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_60').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_60"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imPageRow_5" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_5"></div></div>
+						</div>
 						<div id="imCell_24" class="animable pulse"  data-responsive-sequence-number="10"> <div id="imCellStyleGraphics_24"></div><div id="imCellStyleBorders_24"></div><div id="imObjectImage_3_24"><div id="imObjectImage_3_24_container"><a href="files/PRESA-LAZARO-CARDENAS.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/PRESA-LAZARO-CARDENAS.html', width: 1920, height: 1080, description: 'Conoce, la Presa Lázaro Cárdenas en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/IMG_1399.jpg" data-title="" data-alt=""></div>
 						</a>
@@ -372,36 +314,14 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 							});
 						</script>
-						<div id="imPageRow_4" class="imPageRow imParallax">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_4" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
-						</div>
-						<div id="imCell_11" class="animable fadeInUp"  data-responsive-sequence-number="12"> <div id="imCellStyleGraphics_11"></div><div id="imCellStyleBorders_11"></div><div id="imTextObject_3_11">
-							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_11_tab0" style="opacity: 1; ">
-								<div class="text-inner">
-									<div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1">La Cuenca del Nazas cuenta con tres áreas; &nbsp;la parte alta, que mide aproximádamente 19,000 Km2 y abarca desde el &nbsp;parteaguas hasta la presa Lázaro Cádenas y comprende las subcuencas de &nbsp;los ríos Santiago, Tepehuanes, Sextín y Ramos. Esta parte del Nazas es &nbsp;la zona donde se da una gran aportación de agua. Se cuentan con fuertes &nbsp;pendientes y una precipitación superior a los 500mm. Aquí se genera &nbsp;cerca del 85% de los escurrimientos superficiales cuantificados en la &nbsp;cuenca del Nazas.</span></div><div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1"><br></span></div><div class="imTAJustify"><span class="fs16lh1-5 ff1"><span class="cf1">La parte media está comprendida entre las &nbsp;presas Lázaro Cárdenas y Francisco Zarco. Aquí se genera un poco menos &nbsp;del 15% del escurrimiento total anual. Esta área contiene los arroyos &nbsp;que confluyen por los margenes derecho e izquierdo del río como &nbsp;lo son &nbsp;el Arroyo de Naitcha y el río del Peñon.</span><span class="cf1"><br></span></span></div><div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1"><br></span></div><div class="imTACenter"><div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1">La cuenca baja &nbsp;comprende desde aguas abajo de la presa Francisco Zarco hasta la Laguna &nbsp;de Mayrán, y tiene una superficie aproximada de 13,500 km2. En esta &nbsp;región el resto de los escurrimientos no son tan importantes y &nbsp;únicamente son aprovechados para obras de abrevadero o captación que se &nbsp;localizan en las orillas de las serranías. Esta parte de la cuenca se &nbsp;encuentra en una zona árida o semiárida en la región Norcentral de &nbsp;México. </span></div><div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1"><br></span></div><div class="imTAJustify"><span class="fs16lh1-5 cf1 ff1">En &nbsp;el caso del Cañón de Fernández en la cuenca baja, este balance resulta &nbsp;positivo con una aportación anual de 81 hm3 para el mismo periodo.</span></div></div>
-								</div>
-							</div>
-						
-						</div>
-						</div>
-						<script>
-							x5engine.boot.push(function () {
-								x5engine.utils.onElementInViewPort($('#imCell_11').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_11"))
-								}, 100);
-							});
-						</script>
-						<div id="imPageRow_5" class="imPageRow">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_5"></div></div>
-						</div>
-						<div id="imCell_54" class="animable pulse"  data-responsive-sequence-number="13"> <div id="imCellStyleGraphics_54"></div><div id="imCellStyleBorders_54"></div><div id="imObjectImage_3_54"><div id="imObjectImage_3_54_container"><a href="files/DISTRITO-017.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/DISTRITO-017.html', width: 1920, height: 1080, description: 'Conoce, el Distrito de Riego 017 en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
-						<div class="imlazyloading" data-src="images/IMG_6751.jpg" data-title="" data-alt=""></div>
+						<div id="imCell_23" class="animable pulse"  data-responsive-sequence-number="12"> <div id="imCellStyleGraphics_23"></div><div id="imCellStyleBorders_23"></div><div id="imObjectImage_3_23"><div id="imObjectImage_3_23_container"><a href="files/EL-RIO-NAZAS.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/EL-RIO-NAZAS.html', width: 1920, height: 1080, description: 'Conoce, el Río Nazas en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMG_1450.jpg" data-title="" data-alt=""></div>
 						</a>
 						<script>
 							x5engine.boot.push(function () {
-							x5engine.utils.onElementInViewPort($('#imObjectImage_3_54').parent().get(0), function () {
-								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_54').parent().get(0), function () {
-									 x5engine.imagefx.overlay('#imObjectImage_3_54_container img', '#imObjectImage_3_54', 'images/BANNER_DISTRITO_017.png', 'top-center');
+							x5engine.utils.onElementInViewPort($('#imObjectImage_3_23').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_23').parent().get(0), function () {
+									 x5engine.imagefx.overlay('#imObjectImage_3_23_container img', '#imObjectImage_3_23', 'images/BANNER_RIO_NAZAS.png', 'top-center');
 								});
 							});
 							});
@@ -409,14 +329,109 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 						</div></div></div>
 						<script>
 							x5engine.boot.push(function () {
-								x5engine.utils.onLazyLoadedElement($('#imCell_54').get(0), function () {
-								x5engine.utils.onElementInViewPort($('#imCell_54').get(0), function () {
-									x5engine.utils.revealObject($("#imCell_54"))
+								x5engine.utils.onLazyLoadedElement($('#imCell_23').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_23').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_23"))
 								}, 100);
 							});
 							});
 						</script>
-						<div id="imCell_55" class="animable pulse"  data-responsive-sequence-number="14"> <div id="imCellStyleGraphics_55"></div><div id="imCellStyleBorders_55"></div><div id="imObjectImage_3_55"><div id="imObjectImage_3_55_container"><a href="files/RIOS-SEXTIN-Y-RAMOS.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/RIOS-SEXTIN-Y-RAMOS.html', width: 1920, height: 1080, description: 'Conoce, los Ríos Sextín y Ramos en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imPageRow_6" class="imPageRow">
+						
+						</div>
+						<div id="imCell_61" class=""  data-responsive-sequence-number="13"> <div id="imCellStyleGraphics_61"></div><div id="imCellStyleBorders_61"></div><div id="imTextObject_3_61">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_61_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div><span class="fs16lh1-5">La Cuenca del Nazas cuenta con tres áreas; &nbsp;la parte alta, que mide aproximádamente 19,000 Km2 y abarca desde el &nbsp;parteaguas hasta la presa Lázaro Cádenas y comprende las subcuencas de los ríos Santiago, Tepehuanes, Sextín y Ramos. Esta parte del Nazas es &nbsp;la zona donde se da una gran aportación de agua. Se cuentan con fuertes pendientes y una precipitación superior a los 500mm. Aquí se genera &nbsp;cerca del 85% de los escurrimientos superficiales cuantificados en la cuenca del Nazas.</span></div><br>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_62" class="animable zoomIn"  data-responsive-sequence-number="14"> <div id="imCellStyleGraphics_62"></div><div id="imCellStyleBorders_62"></div><div id="imObjectImage_3_62"><div id="imObjectImage_3_62_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMGL5635.jpg" data-title="Los Rios Sextín y Ramos" data-alt=""></div>
+						
+						<script>
+							x5engine.boot.push(function () {
+							x5engine.utils.onElementInViewPort($('#imObjectImage_3_62').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_62').parent().get(0), function () {
+									 x5engine.imagefx.overlay('#imObjectImage_3_62_container img', '#imObjectImage_3_62', 'images/IMGL5705.JPG', 'bottom-right');
+								});
+							});
+							});
+						</script>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_62').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_62').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_62"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imPageRow_7" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_7"></div></div>
+						</div>
+						<div id="imCell_63" class=""  data-responsive-sequence-number="15"> <div id="imCellStyleGraphics_63"></div><div id="imCellStyleBorders_63"></div><div id="imTextObject_3_63">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_63_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div><span class="fs16lh1-5">La parte media está comprendida entre las &nbsp;presas Lázaro Cárdenas y Francisco Zarco. Aquí se genera un poco menos &nbsp;del 15% del escurrimiento total anual. Esta área contiene los arroyos &nbsp;que confluyen por los margenes derecho e izquierdo del río como &nbsp;lo son &nbsp;el Arroyo de Naitcha y el río del Peñon.</span><br></div><br>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_64" class="animable zoomIn"  data-responsive-sequence-number="16"> <div id="imCellStyleGraphics_64"></div><div id="imCellStyleBorders_64"></div><div id="imObjectImage_3_64"><div id="imObjectImage_3_64_container"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMGL5655.jpg" data-title="" data-alt=""></div>
+						
+						<script>
+							x5engine.boot.push(function () {
+							x5engine.utils.onElementInViewPort($('#imObjectImage_3_64').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_64').parent().get(0), function () {
+									 x5engine.imagefx.overlay('#imObjectImage_3_64_container img', '#imObjectImage_3_64', 'images/IMG_1550_bjx097tc.jpg', 'bottom-right');
+								});
+							});
+							});
+						</script>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_64').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_64').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_64"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imPageRow_8" class="imPageRow imParallax">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_8"></div></div>
+						</div>
+						<div id="imCell_11" class=""  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_11"></div><div id="imCellStyleBorders_11"></div><div id="imTextObject_3_11">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_11_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imTALeft"><span class="fs16lh1-5">La cuenca baja &nbsp;comprende desde aguas abajo de la presa Francisco Zarco hasta la Laguna &nbsp;de Mayrán, y tiene una superficie aproximada de 13,500 km2. En esta &nbsp;región el resto de los escurrimientos no son tan importantes y únicamente son aprovechados para obras de abrevadero o captación que se &nbsp;localizan en las orillas de las serranías. Esta parte de la cuenca se encuentra en una zona árida o semiárida en la región Norcentral de &nbsp;México.</span><br></div>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imCell_65" class=""  data-responsive-sequence-number="18"> <div id="imCellStyleGraphics_65"></div><div id="imCellStyleBorders_65"></div><div id="imObjectImage_3_65"><div id="imObjectImage_3_65_container"><img src="images/IMGL5774.jpg" title="" alt="" />
+						
+						<script>
+							x5engine.boot.push(function () {
+								 x5engine.imagefx.overlay('#imObjectImage_3_65_container img', '#imObjectImage_3_65', 'images/IMGL5762.JPG', 'bottom-right');
+							});
+						</script>
+						</div></div></div><div id="imCell_66" class=""  data-responsive-sequence-number="19"> <div id="imCellStyleGraphics_66"></div><div id="imCellStyleBorders_66"></div><div id="imTextObject_3_66">
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_66_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imTACenter"><span class="fs16lh1-5">En &nbsp;el caso del Cañón de Fernández en la cuenca baja, este balance resulta &nbsp;positivo con una aportación anual de 81 hm3 para el mismo periodo.</span></div>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imPageRow_9" class="imPageRow">
+						
+						</div>
+						<div id="imCell_55" class="animable pulse"  data-responsive-sequence-number="20"> <div id="imCellStyleGraphics_55"></div><div id="imCellStyleBorders_55"></div><div id="imObjectImage_3_55"><div id="imObjectImage_3_55_container"><a href="files/RIOS-SEXTIN-Y-RAMOS.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/RIOS-SEXTIN-Y-RAMOS.html', width: 1920, height: 1080, description: 'Conoce, los Ríos Sextín y Ramos en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/IMGL5772.jpg" data-title="" data-alt=""></div>
 						</a>
 						<script>
@@ -438,7 +453,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 							});
 						</script>
-						<div id="imCell_56" class="animable pulse"  data-responsive-sequence-number="15"> <div id="imCellStyleGraphics_56"></div><div id="imCellStyleBorders_56"></div><div id="imObjectImage_3_56"><div id="imObjectImage_3_56_container"><a href="files/PRESA-FCO-ZARCO.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/PRESA-FCO-ZARCO.html', width: 1920, height: 1080, description: 'Conoce, la Presa Francisco Zarco en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imCell_56" class="animable pulse"  data-responsive-sequence-number="21"> <div id="imCellStyleGraphics_56"></div><div id="imCellStyleBorders_56"></div><div id="imObjectImage_3_56"><div id="imObjectImage_3_56_container"><a href="files/PRESA-FCO-ZARCO.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/PRESA-FCO-ZARCO.html', width: 1920, height: 1080, description: 'Conoce, la Presa Francisco Zarco en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/IMG_1552.jpg" data-title="" data-alt=""></div>
 						</a>
 						<script>
@@ -460,10 +475,32 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 							});
 							});
 						</script>
-						<div id="imPageRow_6" class="imPageRow imParallax">
-						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_6" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
+						<div id="imCell_54" class="animable pulse"  data-responsive-sequence-number="22"> <div id="imCellStyleGraphics_54"></div><div id="imCellStyleBorders_54"></div><div id="imObjectImage_3_54"><div id="imObjectImage_3_54_container"><a href="files/DISTRITO-017.html" onclick="return x5engine.imShowBox({ media:[{type: 'iframe', url: 'files/DISTRITO-017.html', width: 1920, height: 1080, description: 'Conoce, el Distrito de Riego 017 en imágenes.'}]}, 0, this);"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div class="imlazyloading" data-src="images/IMG_6758.jpg" data-title="" data-alt=""></div>
+						</a>
+						<script>
+							x5engine.boot.push(function () {
+							x5engine.utils.onElementInViewPort($('#imObjectImage_3_54').parent().get(0), function () {
+								x5engine.utils.onLazyLoadedElement($('#imObjectImage_3_54').parent().get(0), function () {
+									 x5engine.imagefx.overlay('#imObjectImage_3_54_container img', '#imObjectImage_3_54', 'images/BANNER_DISTRITO_017.png', 'top-center');
+								});
+							});
+							});
+						</script>
+						</div></div></div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onLazyLoadedElement($('#imCell_54').get(0), function () {
+								x5engine.utils.onElementInViewPort($('#imCell_54').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_54"))
+								}, 100);
+							});
+							});
+						</script>
+						<div id="imPageRow_10" class="imPageRow imParallax">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_10" class="imParallaxBackground" data-parallax-direction="fixed" data-parallax-zoom="140"></div></div>
 						</div>
-						<div id="imCell_37" class="animable fadeInDown"  data-responsive-sequence-number="16"> <div id="imCellStyleGraphics_37"></div><div id="imCellStyleBorders_37"></div><div id="imTextObject_3_37">
+						<div id="imCell_37" class="animable fadeInDown"  data-responsive-sequence-number="23"> <div id="imCellStyleGraphics_37"></div><div id="imCellStyleBorders_37"></div><div id="imTextObject_3_37">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_3_37_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading1 imTACenter">Mapas Interactivos</div>
@@ -479,7 +516,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 								}, 100);
 							});
 						</script>
-						<div id="imCell_53" class="animable rollIn"  data-responsive-sequence-number="17"> <div id="imCellStyleGraphics_53"></div><div id="imCellStyleBorders_53"></div><div id="imObjectImage_3_53"><div id="imObjectImage_3_53_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
+						<div id="imCell_53" class="animable rollIn"  data-responsive-sequence-number="24"> <div id="imCellStyleGraphics_53"></div><div id="imCellStyleBorders_53"></div><div id="imObjectImage_3_53"><div id="imObjectImage_3_53_container"><a href="mapas.html" onclick="return x5engine.utils.location('mapas.html', null, false)"><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><script>document.write(x5engine.settings.imLoadingAnimation);</script></div>
 						<div class="imlazyloading" data-src="images/PUNTERO-APRENDE-MAS.png" data-title="Mapas Interactivos" data-alt=""></div>
 						</a>
 						<script>
@@ -515,7 +552,7 @@ $(function () {$('#imHeader_imMenuObject_01_container > ul > li').not('.imMnMnSe
 </div><div id="imFooter_imTableObject_07_wrapper" class="template-object-wrapper"><div id="imFooter_imTableObject_07">
 	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTableObject_07_tab0" style="opacity: 1; ">
 		<div class="text-inner">
-			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_dly9bjwv.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
+			<table data-minrequestedwidth="1148" data-computedwidth="1148" style="width: 1148px;"><tbody><tr><td style="text-align: center; width: 173px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-0" src="images/GOBIERNO-DE-MEXICO_fuqun29a.png"  title="" alt=""/><br></td><td style="text-align: center; width: 189px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-1" src="images/MEDIO-AMBIENTE.png"  title="" alt=""/></td><td style="text-align: center; width: 186px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-2" src="images/CONAGUA.png"  title="" alt=""/><br></td><td style="text-align: center; width: 179px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-3" src="images/CULTURA-AGUA.png"  title="" alt=""/></td><td style="text-align: center; width: 187px; height: 54px; margin-top: 0px; margin-left: 0px;" class="imVc"><img class="image-4" src="images/DURANGO-P-TODOS.png"  title="" alt=""/><br></td><td style="text-align: center; width: 186px; height: 54px;" class="imVc"><img class="image-6" src="images/CAED.png"  title="" alt=""/><br></td></tr></tbody></table>
 		</div>
 	</div>
 

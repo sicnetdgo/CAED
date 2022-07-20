@@ -103,16 +103,16 @@
 	b.push(function () {
 		x5engine.captcha.instance = new x5engine.captcha.x5captcha({
 			"offlineCodes": {
-				"0": { letter: 'G', path: 'captcha/imcpa_wek.gif'},
-				"1": { letter: '7', path: 'captcha/imcpa_xlm.gif'},
-				"2": { letter: 'M', path: 'captcha/imcpa_awx.gif'},
-				"3": { letter: 'X', path: 'captcha/imcpa_nfp.gif'},
-				"4": { letter: 'K', path: 'captcha/imcpa_re6.gif'},
-				"5": { letter: 'W', path: 'captcha/imcpa_ygu.gif'},
-				"6": { letter: 'S', path: 'captcha/imcpa_66n.gif'},
-				"7": { letter: '7', path: 'captcha/imcpa_2p7.gif'},
-				"8": { letter: 'R', path: 'captcha/imcpa_vy5.gif'},
-				"9": { letter: '2', path: 'captcha/imcpa_f8c.gif'}
+				"0": { letter: 'A', path: 'captcha/imcpa_2ar.gif'},
+				"1": { letter: 'X', path: 'captcha/imcpa_4ad.gif'},
+				"2": { letter: 'H', path: 'captcha/imcpa_ezr.gif'},
+				"3": { letter: 'J', path: 'captcha/imcpa_l46.gif'},
+				"4": { letter: 'E', path: 'captcha/imcpa_nle.gif'},
+				"5": { letter: '3', path: 'captcha/imcpa_6tr.gif'},
+				"6": { letter: '8', path: 'captcha/imcpa_ter.gif'},
+				"7": { letter: 'Z', path: 'captcha/imcpa_tup.gif'},
+				"8": { letter: 'W', path: 'captcha/imcpa_szs.gif'},
+				"9": { letter: 'E', path: 'captcha/imcpa_s4y.gif'}
 			}
 		});
 	}, false, 'first');
@@ -120,8 +120,8 @@
 	});
 
 	// BreakPoints
-	s.breakPoints.push({"name": "Desktop", "hash": "ea2f0ee4d5cbb25e1ee6c7c4378fee7b", "start": "max", "end": 1150.0, "fluid": false});
-	s.breakPoints.push({"name": "Breakpoint 1", "hash": "d2f9bff7f63c0d6b7c7d55510409c19b", "start": 1149.9, "end": 720.0, "fluid": false});
+	s.breakPoints.push({"name": "Desktop", "hash": "0b2b945a892bcda4c78387b96b83462d", "start": "max", "end": 1280.0, "fluid": false});
+	s.breakPoints.push({"name": "Breakpoint 1", "hash": "d2f9bff7f63c0d6b7c7d55510409c19b", "start": 1279.9, "end": 720.0, "fluid": false});
 	s.breakPoints.push({"name": "Mobile", "hash": "72e5146e7d399bc2f8a12127e43469f1", "start": 719.9, "end": 480.0, "fluid": false});
 	s.breakPoints.push({"name": "Mobile Fluid", "hash": "5ecdcca63de80fd3d4fbb36295d22b7d", "start": 479.9, "end": 0.0, "fluid": true});
 

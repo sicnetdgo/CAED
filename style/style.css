@@ -290,7 +290,7 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 .topic-comments.multiple-columns .topic-comment .topic-comment-info-body .topic-comment-info .topic-comment-avatar { display: flex; align-items: center; margin: 0 20px 0 0; }
 .topic-comments.multiple-columns .topic-comment .topic-comment-abuse { padding: 0 10px 10px 10px; }
 .topic-comments.multiple-columns .topic-comment-body { margin: 15px 0 0 0; }
-@media (max-width: 1149.9px) and (min-width: 720.0px) {
+@media (max-width: 1279.9px) and (min-width: 720.0px) {
 	.topic-bars, .topic-space { display: none; }
 	
 }
@@ -316,10 +316,10 @@ input[type=button], input[type=submit], input[type=reset], button { -webkit-appe
 .responsive-sequence-box .sequence-box-background { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgb(207, 219, 230); opacity: 0.75; }
 .responsive-sequence-box .sequence-number-background {width: 0; height: 0; position: absolute; right: 0; bottom: 0;border-style: solid; border-color: transparent rgb(38, 54, 69) rgb(38, 54, 69) transparent; border-width: 30px;}
 .responsive-sequence-box .sequence-number {width: 30px; line-height: 30px; position: absolute; right: 0; bottom: 0; text-align: center; color: white; font-family: Arial;}
-#media-query-to-js { position: absolute; display: none; }@media (min-width: 1150.0px) {
-	#media-query-to-js { width: 1150px; }
+#media-query-to-js { position: absolute; display: none; }@media (min-width: 1280.0px) {
+	#media-query-to-js { width: 1280px; }
 }
-@media (max-width: 1149.9px) and (min-width: 720.0px) {
+@media (max-width: 1279.9px) and (min-width: 720.0px) {
 	#media-query-to-js { width: 720px; }
 }
 @media (max-width: 719.9px) and (min-width: 480.0px) {
